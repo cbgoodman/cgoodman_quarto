@@ -6,7 +6,6 @@ page-layout: full
 listing:
     - id: current-courses
       contents: current-courses.yml
-      sort: "date desc"
       template: ../html/teaching/listing.ejs
       sort:
         - "date desc"
