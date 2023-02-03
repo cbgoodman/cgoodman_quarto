@@ -1,31 +1,4 @@
-on:
-  push:
-    branches: main
-
-name: Render and Publish
-
-jobs:
-  build-deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v3
-        
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          # To install LaTeX to build PDF book 
-          tinytex: true 
-          # uncomment below and fill to pin a version
-          # version: SPECIFIC-QUARTO-VERSION-HERE
-      
-      # add software dependencies here
-
-      # To publish to Netlify, RStudio Connect, or GitHub Pages, uncomment
-      # the appropriate block below
-      
-      - name: Publish to Netlify (and render)
-        uses: quarto-dev/quarto-actions/publish@v2
-          with:
-          target: netlify
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+- source: project
+  netlify:
+    - id: a63730d2-62b0-43ac-9fcf-e217217ced7a
+      url: 'https://fantastic-cucurucho-261e1a.netlify.app'
