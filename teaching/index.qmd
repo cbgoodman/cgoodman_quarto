@@ -7,9 +7,7 @@ listing:
     - id: current-courses
       contents: current-courses.yml
       template: ../html/teaching/listing.ejs
-      sort:
-        - "date desc"
-        - "title desc"
+      sort: "title desc"
     - id: archived-courses
       contents: archived-courses.yml
       sort: "date desc"
