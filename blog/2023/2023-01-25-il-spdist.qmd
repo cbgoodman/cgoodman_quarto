@@ -10,6 +10,6 @@ alias:
 ---
 
 ::: {.column-page}
-![Illinois independent special districts per 10,000 residents, 2017.](/img/il-cog-17-pcspdist.png){fig-align="center"}
+![Illinois independent special districts per 10,000 residents, 2017.](./img/il-cog-17-pcspdist.png){fig-align="center"}
 :::
 

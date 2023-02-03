@@ -1,7 +1,7 @@
 project:
   type: website
   resources:
-    - "files/img/"
+    - "/files/img/"
 
   # Preview settings
   preview:
