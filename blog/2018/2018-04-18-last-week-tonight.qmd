@@ -4,6 +4,7 @@ date: "2018-04-18"
 categories: 
   - teaching
 aliases:
+  - /blog/archive/2018/04/18/teaching-public-finance-with-john-oliver/
   - /2018/04/18/last-week-tonight/
 ---
 

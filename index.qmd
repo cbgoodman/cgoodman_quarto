@@ -4,10 +4,11 @@ sidebar: false
 toc: false
 page-layout: full
 listing:
-    - id: posts_2023
-      contents: "blog/2023/**/*.qmd"
-      sort: "date desc"
+    - id: posts
+      contents: 
+        - "/blog/*/*.qmd"
       template: html/blog/listing-front-page.ejs
+      sort: "date desc"
       categories: false
       max-items: 3
     - id: working-papers
@@ -26,7 +27,7 @@ listing:
 ::: {.g-col-12 .g-col-md-8}
 
 ###
-:::{#posts_2023}
+:::{#posts}
 :::
 
 :::

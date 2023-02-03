@@ -1,0 +1,15 @@
+---
+title: "Illinois Special Districts Per Capita, 2017"
+date: 2023-01-25
+categories: 
+  - dataviz
+  - maps 
+  - local govt
+alias:
+  - "/blog/archives/2023/01/25/illinois-special-districts-per-capita-2017/"
+---
+
+::: {.column-page}
+![Illinois independent special districts per 10,000 residents, 2017.](il-cog-17-pcspdist.png){fig-align="center"}
+:::
+
