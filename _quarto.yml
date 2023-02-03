@@ -23,6 +23,7 @@ website:
   favicon: "files/favicon.ico"
   site-url: "https://www.cgoodman.com"
   page-navigation: true
+  google-analytics: "250806414"
 
   page-footer: 
     left: |
