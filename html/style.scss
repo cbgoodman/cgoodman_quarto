@@ -459,6 +459,15 @@ pre.text, pre.sourceCode, .cell-output pre {
             //flex: 0 0 8%;
         }
 
+        .thumbnail {
+            flex: 0 0 25%;
+
+            img {
+                width: 100%;
+                object-fit: scale-down;
+            }
+        }
+
         .title {
             font-size: 1.2em;
             font-weight: 600;

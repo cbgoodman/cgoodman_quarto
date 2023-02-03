@@ -10,6 +10,7 @@ listing:
       template: html/blog/listing-front-page.ejs
       sort: "date desc"
       categories: false
+      page-size: 3
       max-items: 3
     - id: working-papers
       contents: "research/working-papers/*.qmd"

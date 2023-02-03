@@ -10,7 +10,7 @@ categories:
 
 :::{.column-page}
 
-![Animation of municipal incorporations in the US by year](../../files/misc/us_animated_compressed.gif){fig-align="center"}
+![Animation of municipal incorporations in the US by year](us_animated_compressed.gif){fig-align="center"}
 
 :::
 

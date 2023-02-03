@@ -17,6 +17,11 @@
                 <p class="date listing-date"><%= post.date %></p>
             </div>
             <p class="description listing-description"><%= post.description %></p>
+            <% if (post.image) { %>
+                <div class="thumbnail">
+                    <img src="<%= post.image %>" alt="<%= post.title %>" title="<%= post.title %>" />
+                </div>
+            <% } %>
             <p class="description continue-reading"><a href="<%- post.path %>">Continue reading</a></p>
         </div>
     </div>
