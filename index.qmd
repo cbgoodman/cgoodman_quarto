@@ -17,11 +17,8 @@ listing:
       max-items: 4
     - id: current-courses
       contents: "teaching/current-courses.yml"
-      sort: "date desc"
       template: /html/teaching/listing-front-page.ejs
-      sort:
-        - "date desc"
-        - "title desc"
+      sort: "title desc"
 ---
 
 ::: {.grid} :::
