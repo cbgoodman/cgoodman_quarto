@@ -1,0 +1,38 @@
+---
+pagetitle: "Research | {{< meta website.title >}}"
+sidebar: false
+toc: true
+toc-location: right
+page-layout: full
+listing:
+    - id: articles
+      contents: "articles/*.qmd"
+      template: ../html/research/listing.ejs
+      sort: "date desc"
+      categories: true
+    - id: working-papers
+      contents: "working-papers/*.qmd"
+      template: ../html/research/listing.ejs
+      sort: "date desc"
+    - id: book-chapters
+      contents: "chapters/*.qmd"
+      sort: "date desc"
+      template: ../html/research/listing.ejs
+---
+
+<a href="/files/vita.pdf"  class="btn btn-outline-secondary">{{< fa file-pdf >}} Download CV</a>&nbsp;<a href="/files/vita.pdf"  class="btn btn-outline-secondary">{{< fa book >}} Download .bib</a>
+
+## Articles
+
+:::{#articles}
+:::
+
+## Working Papers
+
+:::{#working-papers}
+:::
+
+## Book Chapters
+
+:::{#book-chapters}
+:::

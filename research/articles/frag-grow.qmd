@@ -1,0 +1,43 @@
+---
+title: "Political Fragmentation & Economic Growth in U.S. Metropolitan Areas"
+author: 
+    - name: Christopher B. Goodman
+      url: https://www.cgoodman.com
+      orcid: 0000-0002-8565-9714
+      affiliation: Northern Illinois University
+date: "2021-10-28"
+pub-info:
+  reference: >-
+    <strong>Christopher B. Goodman</strong> (2021). “Political Fragmentation & Economic Growth in U.S. Metropolitan Areas,” <em>Journal of Urban Affairs</em> 43 (9): 1355-1376, doi: <a href="https://doi.org/10.1080/07352166.2020.1742578"><code>10.1080/07352166.2020.1742578</code></a>
+  links:
+    - name: Preprint
+      url: "../../files/papers/frag-grow.pdf"
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Final version
+      url: https://doi.org/10.1080/07352166.2020.1742578
+      icon: fa-solid fa-arrow-up-right-from-square
+categories:
+    - Growth 
+    - Decentralization 
+    - Fragmentation
+    - Competition
+doi: 10.1080/07352166.2020.1742578
+---
+
+## Abstract
+
+This paper analyzes the impact of local political fragmentation on population, employment, and per capita money income growth in 314 U.S. metropolitan areas. The results are mixed. Smaller central cities and more special district overlap are important for population growth. The findings do not generalize to employment or per capita money income growth. These findings mask important regional variation: political fragmentation is largely unrelated to economic growth in Midwestern and Western metropolitan areas. These results partially support the hypothesis that governmental fragmentation can enhance local economic growth; however, the overall impact appears muted relative to a metropolitan area's economic characteristics.  
+
+## BibTeX citation
+```bib
+@article{goodman-2021-jua,
+  author = {Goodman, Christopher B.},
+  doi = {10.1080/07352166.2020.1742578},
+  journal = {Journal of Urban Affairs},
+  number = {9},
+  pages = {1355-1376},
+  title = {Political Fragmentation \& Economic Growth in U.S. Metropolitan Areas},
+  volume = {43},
+  year = {2021}}
+```

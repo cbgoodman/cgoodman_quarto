@@ -1,0 +1,41 @@
+---
+title: "Usage of Specialized Service Delivery: Evidence from Contiguous Counties"
+author: 
+    - name: Christopher B. Goodman
+      url: https://www.cgoodman.com
+      orcid: 0000-0002-8565-9714
+      affiliation: Northern Illinois University
+date: "2018-01-02"
+pub-info:
+  reference: >-
+    <strong>Christopher B. Goodman</strong> (2019) "Usage of Specialized Service Delivery: Evidence from Contiguous Counties." <em>Publius: The Journal of Federalism</em> 48 (4): 686-708, doi: <a href="https://doi.org/10.1093/publius/pjx065"><code>10.1093/publius/pjx065</code></a>
+  links:
+    - name: Preprint
+      url: "../../files/papers/sd-share.pdf"
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Final version
+      url: https://doi.org/10.1093/publius/pjx065
+      icon: fa-solid fa-arrow-up-right-from-square
+categories:
+    - Special districts
+    - Autonomy
+    - Circumvention
+doi: 10.1093/publius/pjx065
+---
+
+## Abstract
+This study exploits exogenous policy discontinuities along state borders to estimate the influence of differences in local autonomy on the usage of special districts in U.S. counties. Using forty years of data, this analysis compares counties on either side of state borders where local autonomy differs and finds little to no evidence that negative changes in local autonomy leads to increased utilization of special districts. This study suggests that some prior literature may overstate the importance of local autonomy in local service delivery.
+
+## BibTeX Citation
+```bib
+@article{goodman-2018-2,
+  author = {Goodman, Christopher B.},
+  doi = {10.1093/publius/pjx065},
+  journal = {Publius: The Journal of Federalism},
+  number = {4},
+  pages = {686-708},
+  title = {Usage of Specialized Service Delivery: Evidence from Contiguous Counties},
+  volume = {48},
+  year = {2018}}
+```

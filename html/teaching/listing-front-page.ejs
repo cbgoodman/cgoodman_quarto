@@ -1,0 +1,26 @@
+```{=html}
+<div class="teaching">
+    <% for (const course of items) { %>
+    <div class="course-entry">
+        <div class="body">
+            <p class="course-title">
+                <% if (course.url) { %>
+                <a href="<%= course.url %>" target="_blank"><%= course.title %></a> 
+                <% } else { %>
+                <%= course.title %> 
+                <% } %>
+            </p>
+            <ul class="course-semesters">
+                <% for (const semester of course.semester) { %>
+                <% if (semester.url) { %>
+                <li><a href="<%= semester.url %>"><i class="fa-solid fa-building-columns"></i> <%= semester.name %></a></li>
+                <% } else { %> 
+                <li class="no-link"><i class="fa-solid fa-building-columns"></i> <%= semester.name %></li>
+                <% } %>
+                <% } %>
+            </ul>
+        </div>
+    </div>
+    <% } %>
+</div>
+```

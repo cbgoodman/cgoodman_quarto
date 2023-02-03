@@ -1,0 +1,26 @@
+---
+title: "Long-Run Metropolitan Economic Growth in the U.S."
+date: "2018-07-31"
+categories: 
+    - r 
+    - dataviz
+    - cities
+    - urban
+    - maps
+---
+
+Full color, stylized maps created for my [working paper](/research/articles/frag-grow.html) on local political fragmentation and economic growth. These three maps examine long-run (1960-2000) growth in population, employment, and per capita money income among 314 U.S. metropolitan areas.
+
+
+::: {.column-page}
+![Long run population growth](../../files/img/pop.png){fig-align="center"}
+:::
+
+::: {.column-page}
+![Long run employment growth](../../files/img/emp.png){fig-align="center"}
+:::
+
+::: {.column-page}
+![Long run per capita money income growth](../../files/img/pcpi.png){fig-align="center"}
+:::
+

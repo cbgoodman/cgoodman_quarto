@@ -1,0 +1,53 @@
+---
+pagetitle: "Home | {{< meta website.title >}}"
+sidebar: false
+toc: false
+page-layout: full
+listing:
+    - id: posts_2023
+      contents: "blog/2023/*.qmd"
+      sort: "date desc"
+      template: html/blog/listing-front-page.ejs
+      categories: false
+      max-items: 3
+    - id: working-papers
+      contents: "research/working-papers/*.qmd"
+      template: /html/research/listing-front-page.ejs
+      sort: "date desc"
+      max-items: 4
+    - id: current-courses
+      contents: "teaching/current-courses.yml"
+      sort: "date desc"
+      template: /html/teaching/listing-front-page.ejs
+      sort:
+        - "date desc"
+        - "title desc"
+---
+
+::: {.grid} :::
+
+::: {.g-col-12 .g-col-md-8}
+
+###
+:::{#posts_2023}
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+
+### Working papers
+:::{#working-papers}
+:::
+[→ More research](research/index.qmd)
+
+### Current courses
+:::{#current-courses}
+:::
+[→ More courses](teaching/index.qmd)
+
+:::
+
+:::
+
+

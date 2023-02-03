@@ -1,0 +1,37 @@
+---
+title: "Cost shocks and their relationship to the creation, consolidation and dissolution of US local governments"
+author: 
+    - name: Christopher B. Goodman
+      url: https://www.cgoodman.com
+      orcid: 0000-0002-8565-9714
+      affiliation: Northern Illinois University
+    - name: Suzanne M. Leland
+      affiliation: University of North Carolina at Charlotte
+date: 2013-04-01
+pub-info:
+  reference: >-
+    <strong>Christopher B. Goodman</strong> and Suzanne M. Leland. (2013). “Cost shocks and their relationship to the creation, consolidation and dissolution of US local governments,” <em>Public Finance &amp; Management</em> 13 (2): 58-79
+  links:
+    - name: Final version
+      url: https://pfm.spaef.org/article/1435/Cost-shocks-and-their-relationship-to-the-creation-consolidation-and-dissolution-of-US-local-governments
+      icon: fa-solid fa-arrow-up-right-from-square
+categories:
+    - Special districts
+    - Creation
+
+---
+
+## Abstract
+There are several explanations as to why the total number of local governments may fluctuate, including financial viability and purpose. Many speculate the current economic recession will lead to fewer governments. Yet public choice theorists would assert that more fragmentation, not less leads to more efficient government, which should lead to more, not less local governments (Tiebout 1956). Therefore the following paper further explores the micro and macro reasons behind the reduction or increase in the number of local governments in the United States. Using county-level data from five Census of Governments from 1982 to 2002, we test whether the number of local governments in the US increases or decreases during an economic shock.
+
+### BibTeX Citation
+```bib
+@article{goodman-leland-2013,
+  author = {Goodman, Christopher B. and Leland, Suzanne M.},
+  journal = {Public Finance \& Management},
+  number = {2},
+  pages = {58-79},
+  title = {Cost shocks and their relationship to the creation, consolidation and dissolution of US local governments},
+  volume = {13},
+  year = {2013}}
+```

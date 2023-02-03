@@ -1,0 +1,36 @@
+---
+title: "State Legislative Ideology & the Preemption of City Ordinances: The Case of Worker Rights Laws"
+author: 
+    - name: Christopher B. Goodman
+      url: https://www.cgoodman.com
+      orcid: 0000-0002-8565-9714
+      affiliation: Northern Illinois University
+    - name: Megan E. Hatch
+      url: https://facultyprofile.csuohio.edu/csufacultyprofile/detail.cfm?FacultyID=m_e_hatch
+      orcid: 0000-0001-5201-4066
+      affiliation: Cleveland State University
+date: "2019-01-01"
+pub-info:
+  reference: >-
+    <strong>Christopher B. Goodman</strong> and Megan E. Hatch. “State Legislative Ideology & the Preemption of City Ordinances: The Case of Worker Rights Laws”
+  links:
+    - name: PDF
+      url: "../../files/papers/premption-workers.pdf"
+      icon: fa-solid fa-file-pdf
+      local: true
+categories:
+    - Preemption
+    - Labor policy
+---
+
+## Abstract
+This article discusses the influence of state legislative ideology on the legislative preemption of local ordinances in the area of worker rights. States define the powers of local governments within their purview and states may use this power to restrict local governments from pursuing certain policies. Using data on state legislative activity and ideology from 1993 to 2016, I find within-state increases in legislative ideology, indicating increased legislative conservatism, associated with an increased risk of preempting local government policy, all else equal. This finding is robust to a number of alternate specifications and hypotheses. Ideology appears to play an important role in the decision to involve the state in the affairs of local governments.
+
+## BibTeX Citation
+```bib
+@unpublished{goodman-2019,
+  author = {Goodman, Christopher B},
+  note = {Working Paper},
+  title = {State Legislative Ideology & the Preemption of City Ordinances: The Case of Worker Rights Laws},
+  year = {2019}}
+```

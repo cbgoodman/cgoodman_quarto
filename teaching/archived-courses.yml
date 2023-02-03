@@ -1,0 +1,112 @@
+- title: "Public Service Performance II: Management & Data Analysis"
+  description: "Focus on public service performance and management, adding more skills-based practices of data analysis. Studies the basic theory, techniques, and practice of data collection and analysis so that information can be used to inform management decisions. Examination of generating research questions by identifying knowledge gaps in the organization. Data analysis methods include quantitative techniques (descriptive and inferential statistics, hypothesis testing) and qualitative techniques (focus groups, content analysis, observational data). Results are interpreted and presented."
+  university: Northern Illinois University
+  number: PSPA 608
+  semester:
+  - name: Fall 2020 (synchronous online)
+    url: "/files/teaching/goodman-pspa608-20f.pdf"
+
+- title: Budgeting and Financial Management in Public Service Organizations
+  description: "Theory and practice of budgetary processes, analyses, and presentations in public and nonprofit organizations."
+  university: Northern Illinois University
+  number: PSPA 610
+  semester:
+  - name: Fall 2021
+    url: "/files/teaching/goodman-pspa610-21f.pdf"
+
+- title: Public Revenue Analysis & Financial Management
+  description: "Theories and practices of public sector revenues. Topics include efficiency and equity considerations, alternative revenue generation, financial analysis, and tax and revenue administration."
+  university: Northern Illinois University
+  number: PSPA 611
+  semester:
+  - name: Spring 2022 (asynchronous online)
+    url: "/files/teaching/goodman-pspa611-22spr.pdf"
+  - name: Spring 2022
+    url: "/files/teaching/goodman-pspa611-22spr.pdf"
+  - name: Fall 2021
+    url: "/files/teaching/goodman-pspa611-21f.pdf"
+  - name: Summer 2021 (asynchronous online)
+  - name: Spring 2021 (asynchronous online)
+    url: "/files/teaching/goodman-pspa611-21spr.pdf"
+  - name: Summer 2020 (asynchronous online)
+    url: "/files/teaching/goodman-pspa611-20sum.pdf"
+  - name: Spring 2020 (synchronous online)
+    url: "/files/teaching/goodman-pspa611-20spr-2.pdf"
+  - name: Spring 2020 (asynchronous online)
+    url: "/files/teaching/goodman-pspa611-20spr-1.pdf"
+  - name: Fall 2019
+    url: "/files/teaching/goodman-pspa611-19f.pdf"
+
+- title: Local Economic Development
+  description: "Introduction to the tools, institutions, analytical techniques, financing instruments, and policy issues relevant to economic development policy at the state, local, and regional level."
+  university: Northern Illinois University
+  number: PSPA 635
+  semester:
+  - name: Summer 2022
+    url: "/files/teaching/goodman-pspa635-22sum.pdf"
+    
+
+- title: Intermediate Public & Nonprofit Financial Management
+  description: "Advanced topics in financial management essential for public managers seeking specialized knowledge in public budgeting and financial management. Topics typically include: debt management, risk management policy, revenue policy, fundraising strategies, auditing, cash and investment management and policies, and revenue forecasting."
+  university: Northern Illinois University
+  number: PSPA 653
+  semester:
+  - name: Fall 2020 (synchronous online)
+    url: "/files/teaching/goodman-pspa653-20f.pdf"
+
+- title: Seminar in Administrative Theory
+  description: "Intensive examination of selected topics related to the science of public management, the politics of administration, and the role of government agencies in the formulation of public policy."
+  university: Northern Illinois University
+  number: PSPA 732
+  semester:
+  - name: Fall 2019
+    url: "/files/teaching/goodman-pspa723-19f.pdf"
+
+- title: The Public Economy
+  description: "This course is designed to introduce students to both seminal theoretical works, and contemporary debates, around these fundamental questions of urban growth and change. Although our focus is on the “economic,” our disciplinary scope will be relatively broad, encompassing scholarship in economics, geography, urban planning, and urban sociology. While this course is not an urban economics course per se, it is assumed that you have at least some rudimentary knowledge of microeconomic concepts; if not, you will likely need to backfill some of this along the way."
+  university: University of Nebraska at Omaha
+  number: PA 8010
+  semester:
+  - name: Fall 2017
+    url: "/files/teaching/goodman-pa8010-17f.pdf"
+
+- title: Analysis & Decision Making
+  description: "Decision-making supported by quantitative analysis is becoming increasingly important in the public and nonprofit sectors. As a result, managers are expected to be fluent in quantitative analytical skills. This course is a graduate level, introductory statistics and research methodology course. It will focus on applied quantitative analysis for public/nonprofit management and policy. The goal of the course is two-fold: (1) to train you to apply the concepts presented and use them to inform real world decision-making in the public and nonprofit sectors and (2) to prepare you to successfully complete your capstone project."
+  university: University of Nebraska at Omaha
+  number: PA 8120
+  semester:
+  - name: Spring 2019  
+    url: "/files/teaching/goodman-pa8120-19spr.pdf"
+  - name: Fall 2018  
+    url: "/files/teaching/goodman-pa8120-18f.pdf"
+  - name: Spring 2018 
+    url: "/files/teaching/goodman-pa8120-18spr.pdf"
+  - name: Fall 2017   
+
+- title: Public & Nonprofit Budgeting
+  description: "This course introduces students to the theory and practice of budgeting at all levels of government and in the nonprofit sector. Particular emphasis is given to budgeting in local government because of its historical role as an incubator for budget innovations and its accessibility to citizens. Additionally, nonprofit budgeting is emphasized because of the increasing role of nonprofits in public service delivery. This course equips students with competence in the use of budgeting terminology, innovations in budget preparation, the linkage of the budget to the accounting and financial reporting systems, and the role of technology in shaping budget preparation and administrative implementation."
+  university: University of Nebraska at Omaha
+  number: PA 8400
+  semester:
+  - name: Spring 2017
+
+- title: Quantitative Methods in Public Administration
+  description: "This course is an introduction to the theory and application of linear modeling to economic and public policy problems. The course focuses on the techniques used in empirical research with a particular focus on intuitive understanding. Problem sets will introduce real world applications and teach you the fundamentals of statistical programming in Stata. No prior knowledge of computer programming in necessary. It is a required course for the Ph.D students in the School of Public Administration."
+  university: University of Nebraska at Omaha
+  number: PA 9950
+  semester:
+  - name: Spring 2019
+    url: "/files/teaching/goodman-pa9950-19spr.pdf"
+  - name: Spring 2018
+    url: "/files/teaching/goodman-pa9950-18spr.pdf"
+  - name: Spring 2017
+    url: "/files/teaching/goodman-pa9950-17spr.pdf"
+
+- title: Seminar in Urban Studies
+  description: "This course is considered the core seminar in the graduate program in Urban Studies. It introduces students to the interdisciplinary and scholarly examination of the factors and issues that affect the dynamics of the urban environment. It focuses on the study of cities from three broad perspectives – human community, built environment and natural systems."
+  university: University of Nebraska at Omaha
+  number: UBNS 8000
+  semester:
+  - name: Fall 2018
+    url: "/files/teaching/goodman-ubns8000-18f.pdf"
+  - name: Fall 2017

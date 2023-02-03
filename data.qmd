@@ -1,0 +1,44 @@
+---
+pagetitle: "Data | {{< meta website.title >}}"
+toc: false
+page-layout: full
+---
+
+This page has links to datasets, replication data, and other research resources.
+
+::: {.grid}::: 
+
+::: {.g-col-12 .g-col-md-6}
+
+##### [Local Debt Limitations and Referenda Requirements →](https://github.com/cbgoodman/localdebtlimits)
+
+This replication package contains the Stata code and raw spreadsheets needed to create the state-level local debt limitation and referendum dataset utilized in Goodman (2018) and Goodman and Leland (2018).
+
+##### [State-Level Tax and Expenditure Limitations →](https://github.com/cbgoodman/tels-data)
+
+This replication package contains the Stata code and raw spreadsheets needed to create the state-level tax and expenditure limitation data contained in Mullins and Cox (1995) and the Lincoln Institute for Land Policy's Signifiant Features of the Property Tax: Tax Limits. This is a work in progress.
+
+##### [Municipal Incorporation →](https://github.com/cbgoodman/muni-incorporation)
+
+This repository contains the raw data, code, and sources used to create an individual level and state municipal incorporation date dataset for all active (contained in the Census of Governments) municipalities in the United States. This is a work in progress.
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+##### [```countyfips``` →](https://github.com/cbgoodman/countyfips)
+
+```countyfips``` is a simple Stata crosswalk program for adding various county-level identifiers (name, FIPS, Census codes) that may be missing from your dataset. The purpose of this program is to facilitate merging datasets that do not share a common identifier.
+
+##### [```msacrosswalk``` →](https://github.com/cbgoodman/msacrosswalk)
+
+```msacrosswalk``` is a simple Stata crosswalk program for adding 2013, 2015, or 2017 vintage CBSA/CSA codes, CBSA/CSA names, metropolitan/micropolitan, and central/outlying indicators that may be missing from your dataset.
+
+##### [All GitHub Projects →](https://github.com/cbgoodman?tab=repositories)
+
+Here is a full list of the various public code and data repositories that I have put on GitHub. They range from the configuration and templating tools listed above to data visualization exercises and other bits of data analysis, mostly written in R.
+
+:::
+
+
+:::

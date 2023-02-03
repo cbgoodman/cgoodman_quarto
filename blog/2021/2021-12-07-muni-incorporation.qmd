@@ -1,0 +1,20 @@
+---
+title: "Municipal Incorporation in the US, 1789 - 2020"
+date: 2021-12-07
+description: "I've been collecting data on the earliest date of municipal incorporation for every active municipality in the US. This project is beginning to bear fruit."
+categories:
+  - dataviz
+  - maps
+  - cities
+---
+
+:::{.column-page}
+
+![Animation of municipal incorporations in the US by year](../../files/misc/us_animated_compressed.gif){fig-align="center"}
+
+:::
+
+An easier to share version is below.
+
+{{< youtube J7WjPgGAnJc >}}
+

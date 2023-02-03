@@ -1,0 +1,29 @@
+---
+pagetitle: "Teaching | {{< meta website.title >}}"
+sidebar: false
+toc: false
+page-layout: full
+listing:
+    - id: current-courses
+      contents: current-courses.yml
+      sort: "date desc"
+      template: ../html/teaching/listing.ejs
+      sort:
+        - "date desc"
+        - "title desc"
+    - id: archived-courses
+      contents: archived-courses.yml
+      sort: "date desc"
+      template: ../html/teaching/listing.ejs
+---
+
+## Current Courses
+
+:::{#current-courses}
+:::
+
+
+## Archived Courses
+
+:::{#archived-courses}
+:::

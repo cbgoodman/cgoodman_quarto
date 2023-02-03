@@ -1,0 +1,13 @@
+---
+title: "Special District Creation and Dissolution"
+date: "2018-06-30"
+categories: 
+    - r
+    - dataviz
+    - special districts
+---
+
+::: {.column-page}
+![Special district creation and dissolution by year](../../files/img/spdist.png){fig-align="center"}
+:::
+

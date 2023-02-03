@@ -1,0 +1,81 @@
+project:
+  type: website
+  resources:
+    - "files/img/"
+
+  # Preview settings
+  preview:
+    port: 4444
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+#bibliography: files/bib/references.bib
+#csl: files/bib/chicago-fullnote-bibliography-no-bib.csl
+
+# Metadata stuff
+author-meta: "Christopher B. Goodman"
+
+# Main website stuff
+website:
+  title: "Christopher B. Goodman"
+  description: "Christopher B Goodman is an associate professor at Northern Illinois University, researching special districts & preemption and teaching public finance."
+  favicon: "files/favicon.ico"
+  site-url: "https://www.cgoodman.com"
+  page-navigation: true
+
+  page-footer: 
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Christopher B. Goodman</span>
+      <span class="faux-block">All content licensed under<br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span>      
+    center: |
+      <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
+    right: |
+      <span class="faux-block">Made with [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
+  
+  navbar:
+    background: "#ffffff"
+    align: center
+    collapse-below: lg
+
+    right: 
+      - icon: twitter
+        href: https://twitter.com/cbgoodman
+        aria-label: twitter
+      - icon: mastodon
+        aria-label: mastodon
+        href: https://sciences.social/@cbgoodman
+      - icon: github
+        href: https://www.github.com/cbgoodman
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/cbgoodman/
+        aria-label: LinkedIn  
+    left:
+      - href: cv.qmd
+        text: "Bio & CV"
+      - href: research/index.qmd
+        text: "Research"
+      - href: data.qmd
+        text: "Data"
+      - href: teaching/index.qmd
+        text: "Teaching"
+      - href: blog/index.qmd
+        text: "Blog"
+
+format:
+  html:
+    theme: 
+      light:
+        - cosmo
+        - html/style.scss
+      dark:
+        - html/style-dark.scss
+    highlight-style: github
+    code-overflow: wrap
+    code-block-bg: false
+    toc: true
+
+
+

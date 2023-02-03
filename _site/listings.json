@@ -1,0 +1,85 @@
+[
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/articles/preemption-housing.html",
+      "/research/articles/townships.html",
+      "/research/articles/tax-exempt.html",
+      "/research/articles/frag-grow.html",
+      "/research/articles/preemption-history.html",
+      "/research/articles/benfords.html",
+      "/research/articles/specialized-governance.html",
+      "/research/articles/preemption-covid.html",
+      "/research/articles/frag-review.html",
+      "/research/articles/fiscal-impact.html",
+      "/research/articles/circumvention.html",
+      "/research/articles/house-prices.html",
+      "/research/articles/jurisdictional-overlap.html",
+      "/research/articles/specialized-service.html",
+      "/research/articles/tax-delinquency.html",
+      "/research/articles/frag.html",
+      "/research/articles/cost-shocks.html",
+      "/research/articles/assessment-quality.html",
+      "/research/working-papers/sd-gp.html",
+      "/research/working-papers/sd-dissolve.html",
+      "/research/working-papers/sd-io.html",
+      "/research/working-papers/preemption-labor.html",
+      "/research/chapters/sd-institutions.html",
+      "/research/chapters/fiscal-health.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/blog/2023/2023-01-25-il-spdist.html",
+      "/research/working-papers/sd-gp.html",
+      "/research/working-papers/sd-dissolve.html",
+      "/research/working-papers/sd-io.html",
+      "/research/working-papers/preemption-labor.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2023/2023-01-25-il-spdist.html",
+      "/blog/2022/2022-04-28-reedy-creek.html",
+      "/blog/2022/2022-01-25-bivariate-fragmentation.html",
+      "/blog/2021/2021-12-07-muni-incorporation.html",
+      "/blog/2021/2021-11-17-lse-frag-grow.html",
+      "/blog/2021/2021-07-14-academic-project-management-notion-update.html",
+      "/blog/2021/2021-04-22-gfrc-blog.html",
+      "/blog/2021/2021-04-16-municipal-fragmentation.html",
+      "/blog/2020/2020-09-15-street-parking-transit.html",
+      "/blog/2020/2020-06-16-2017-pcspdist.html",
+      "/blog/2020/2020-06-11-academic-project-management-notion.html",
+      "/blog/2020/2020-05-16-2017-pcgengovs.html",
+      "/blog/2020/2022-05-07-2017-pctotgovs.html",
+      "/blog/2020/2020-04-17-covid19-property-taxes.html",
+      "/blog/2020/2022-02-25-desaturate-r-figures.html",
+      "/blog/2020/2020-01-31-2017-totgovs.html",
+      "/blog/2020/2020-01-19-how-i-record-lectures.html",
+      "/blog/2019/2019-12-03-coeff.html",
+      "/blog/2019/2019-10-21-lse-sprawl.html",
+      "/blog/2019/2019-10-15-mpa-mpp-degrees.html",
+      "/blog/2019/2019-09-23-2017-loc-gov-overlap.html",
+      "/blog/2019/2019-09-11-writing-exam-questions.html",
+      "/blog/2019/2019-03-20-lse-usacentre-repost.html",
+      "/blog/2018/2018-12-12-zipfs-law.html",
+      "/blog/2018/2018-11-30-county-supervisors.html",
+      "/blog/2018/2018-07-31-economic-growth.html",
+      "/blog/2018/2018-07-28-canadian-councilors.html",
+      "/blog/2018/2018-07-28-councilors.html",
+      "/blog/2018/2018-06-30-spdist.html",
+      "/blog/2018/2018-06-16-maps-in-r-urbnmapr.html",
+      "/blog/2018/2018-04-18-last-week-tonight.html",
+      "/blog/2017/2017-03-31-local-gov-data.html",
+      "/blog/2017/2017-02-14-maps-in-library(r).html",
+      "/blog/2015/2015-01-13-proptax.html",
+      "/blog/2013/2013-07-11-maps-in-r.html"
+    ]
+  },
+  {
+    "listing": "/teaching/index.html",
+    "items": []
+  }
+]

@@ -1,0 +1,46 @@
+---
+title: "The Forgotten Governments: Exploring Midwestern Township Capacities and Functional Service Responsibilities"
+author: 
+    - name: "Jaehee Jong"
+      orcid: 0000-0001-9546-6089
+      affiliation: Northern Illinois University
+    - name: "Christopher B. Goodman"
+      url: https://www.cgoodman.com
+      orcid: 0000-0002-8565-9714
+      affiliation: Northern Illinois University
+    - name: "Aaron Deslatte"
+      orcid: 0000-0001-5518-3949
+      affiliation: Indiana University
+    - name: "Jerry Crabtree"
+      affiliation: Township Officials of Illinois
+    - name: "Kurt Thurmaier"
+      affiliation: Northern Illinois University
+date: "2022-11-27"
+pub-info:
+  reference: >-
+    Jahee Jong, <strong>Christopher B. Goodman</strong>, Aaron Deslatte, Jerry Crabtree and Kurt Thurmaier. (<em>forthcoming</em>). “The Forgotten Governments: Exploring Midwestern Township Capacities and Functional Service Responsibilities,” <em>State and Local Government Review</em>, doi: <a href="https://doi.org/10.1177/0160323X221124894"><code>10.1177/0160323X221124894</code></a>
+  links:
+    - name: Preprint
+      url: "../../files/papers/townships.pdf"
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Final version
+      url: https://doi.org/10.1177/0160323X221124894
+      icon: fa-solid fa-arrow-up-right-from-square
+categories:
+    - Townships
+doi: 10.1177/0160323X221124894    
+---
+
+## Abstract
+This field note provides both a foundation for discussion about the role of townships in local governance and empirical evidence of their unique and embedded role. Drawing on a survey administered to Illinois township supervisors, administrators, and assessors, it presents baseline indicators about the range of township services, managerial practices, assessment, and collaboration for services to better illuminate current services, capacities, and challenges. A greater understanding of the complexity of delivering township services can guide policymakers in their deliberations about the future of township governments and provide research propositions for investigating township governments in the United States.
+
+## BibTeX Citation
+```bib
+@article{jong-goodman-deslatte-crabtree-thurmaier-2022,
+  author = {Jong, Jaehee and Goodman, Christopher B. and Deslatte, Aaron and Crabtree, Jerry and Thurmaier, Kurt M.},
+  doi = {10.1177/0160323X221124894},
+  journal = {State & Local Government Review},
+  title = {The Forgotten Governments: Exploring Midwestern Township Capacities and Functional Service Responsibilities},
+  year = {2022}}
+```

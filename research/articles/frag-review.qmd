@@ -1,0 +1,41 @@
+---
+title: "Local Government Fragmentation: What Do We Know?"
+author: 
+    - name: Christopher B. Goodman
+      url: https://www.cgoodman.com
+      orcid: 0000-0002-8565-9714
+      affiliation: Northern Illinois University
+date: "2019-12-11"
+pub-info:
+  reference: >-
+    <strong>Christopher B. Goodman</strong>. (2019). "Local Government Fragmentation: What Do We Know?" <em>State and Local Government Review</em> 51 (2): 134-144, doi: <a href="https://doi.org/10.1177/0160323X19856933"><code>10.1177/0160323X19856933</code></a>
+  links:
+    - name: Preprint
+      url: "../../files/papers/frag-review.pdf"
+      icon: fa-solid fa-file-pdf
+      local: true
+    - name: Final version
+      url: https://doi.org/10.1177/0160323X19856933
+      icon: fa-solid fa-arrow-up-right-from-square
+categories:
+    - Decentralization 
+    - Fragmentation
+    - Local government
+doi: 10.1177/0160323X19856933
+---
+
+## Abstract
+The United States is a nation of local governments. The growth in the number of local governments over the last sixty years has led many to ask whether the current fragmented arrangement is ideal or whether fewer local governments are preferred. This article explains the theoretical arguments on both sides, paying close attention to horizontal and vertical fragmentation. The empirical evidence on the effects of local government fragmentation is examined in three policy areas: public expenditures/revenues, public employment, and economic growth.
+
+## BibTeX Citation
+```bib
+@article{goodman-2019,
+  author = {Goodman, Christopher B.},
+  doi = {10.1177/0160323X19856933},
+  journal = {State \& Local Government Review},
+  number = {2},
+  pages = {134-144},
+  title = {Local Government Fragmentation: What Do We Know?},
+  volume = {51},
+  year = {2019}}
+```

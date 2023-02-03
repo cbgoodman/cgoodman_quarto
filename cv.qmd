@@ -1,0 +1,30 @@
+---
+pagetitle: "Bio &amp; CV | {{< meta website.title >}}"
+page-layout: full
+about:
+    template: trestles
+    image: "files/img/20-Chris_Goodman-0221-WD-18.jpg"
+    image-width: 20em
+    image-shape: rounded
+    links:
+        - icon: file-earmark-pdf
+          text: Download CV
+          href: "./files/vita.pdf"
+          aria-label: file-earmark-pdf
+---
+:::{#hero-heading}
+
+I am an Associate Professor of [Public Administration](https://mpa.niu.edu) at [Northern Illinois University](https://www.niu.edu). Much of my research exists at the nexus of local public finance, local government management, urban policy, and intergovernmental affairs. My research agenda, in large part, seeks to examine questions of why local areas make the governance decisions they do. As with most research in this realm, these decisions are inextricably linked to issues of public spending, taxation, and state policy. I tend to focus on specific questions dealing with the special district form of local government as these governments are under-researched in the relevant literature. A secondary line of research focuses on the state preemption of local ordinances.
+
+### Education
+
+**University of Georgia** | Athens, GA <br/>
+PhD in Public Administration &amp; Policy | Aug 2008 - Aug 2012
+
+**University of Georgia** | Athens, GA <br/>
+MPA | Aug 2006 - May 2008
+
+**Kennesaw State University** | Kennesaw, GA <br/>
+B.S. in Political Science | Aug 2003 - Aug 2006
+
+:::

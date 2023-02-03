@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.0.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Christopher B. Goodman">
+<meta name="dcterms.date" content="2020-09-15">
+<meta name="description" content="<strong>?meta:description</strong>">
+
+<title>The Price of Residential Street Parking | Christopher B. Goodman</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../files/favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<style>
+    .quarto-title-block .quarto-title-banner {
+      background: #ffffff;
+    }
+    </style>
+
+
+</head>
+
+<body class="floating nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Christopher B. Goodman</span>
+  </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../cv.html">Bio &amp; CV</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../research/index.html">Research</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../data.html">Data</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../teaching/index.html">Teaching</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog/index.html">Blog</a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/cbgoodman"><i class="bi bi-twitter" role="img" aria-label="twitter">
+</i> 
+ </a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.github.com/cbgoodman"><i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+ </a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default blog-post page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">The Price of Residential Street Parking</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">Cities</div>
+                <div class="quarto-category">Public-Finance</div>
+                <div class="quarto-category">Data</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Christopher B. Goodman <a href="https://orcid.org/0000-0002-8565-9714" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">September 15, 2020</p>
+      </div>
+    </div>
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+    
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+<p>Cities, broadly, manage a number of public assets with which they provide public services. Some of those services are somewhat passive in the sense that no active labor aside from maintenance is being carried out. And others are more active in that the asset is being used by public sector employees or contractors to provide a public service. We generally think of the latter as the primary mode of public service delivery as it is more visible. We see the bus driver, the police officer, the firefighter, etc in our communities doing their jobs. But the passive service is no less important. We drive on roads, use water and sewer infrastructure (though this is a blended service), etc on a daily basis as we go about our lives. One of the big differences between these two kinds of services is how the public sector asks users to pay for them. Some services are supported through taxes, but a great many are supported through user fees. Below, I point out two approaches to this for getting around a central city: the cost of storing a vehicle on a public street versus the cost of using the transit system.</p>
+<!--more-->
+<p>I choose these two the compare because they are roughly equivalent in their purpose (charging for the use of a public asset, roads v. a transit system), but the mode is different. Undoubtedly, there are private costs here as well. Car owners bear many costs associated with car ownership. Transit riders bear some private costs, mostly in their time, in using the transit system. But what we ask these two user groups to pay for the usage of a public asset is vastly different.</p>
+<p>Below is the monthly cost of a residential parking permit<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> versus the cost of a monthly transit pass for the 30 largest U.S. cities. In nearly every large U.S. city, on-street, residential parking is essentially free. If these residents were to park in a private lot/garage/space (i.e.&nbsp;likely much closer to the market price for parking), it could be many hundreds of dollars per month in parking fees. This suggests the usage of this public asset is being severely underpriced. Meanwhile, public transit passes are significantly more expensive. In many cases, the monthly cost of a residential parking permit is less than a single fare on the central city transit system! While likely not covering the entire cost of public transit, the monthly transit pass is likely covering a much larger proportion of the per user cost of the transit system. It’s highly unlikely this is the case for street parking.</p>
+<table class="table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 12%">
+<col style="width: 37%">
+<col style="width: 12%">
+<col style="width: 12%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Pop. Rank</th>
+<th>City</th>
+<th>2017 Population</th>
+<th>Monthly Street Parking Cost</th>
+<th>Monthly Transit Pass Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>New York City, NY</td>
+<td>8622698</td>
+<td>$-</td>
+<td>$127.00</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Los Angeles, CA</td>
+<td>3999759</td>
+<td>$2.83</td>
+<td>$100.00</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Chicago, IL</td>
+<td>2716450</td>
+<td>$2.08</td>
+<td>$105.00</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Houston, TX</td>
+<td>2312717</td>
+<td>$2.67</td>
+<td>$90.00</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Phoenix, AZ</td>
+<td>1626078</td>
+<td>$0.83</td>
+<td>$64.00</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Philadelphia, PA</td>
+<td>1580863</td>
+<td>$2.92</td>
+<td>$96.00</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>San Antonio, TX</td>
+<td>1511946</td>
+<td>$1.67</td>
+<td>$38.00</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>San Diego, CA</td>
+<td>1419516</td>
+<td>$0.75</td>
+<td>$72.00</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>Dallas, TX</td>
+<td>1341075</td>
+<td>$0.54</td>
+<td>$96.00</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>San Jose, CA</td>
+<td>1035317</td>
+<td>$2.92</td>
+<td>$90.00</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>Austin, TX</td>
+<td>950715</td>
+<td>$1.35</td>
+<td>$41.25</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>Jacksonville, FL</td>
+<td>892062</td>
+<td>$-</td>
+<td>$65.00</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>San Francisco, CA</td>
+<td>884363</td>
+<td>$12.00</td>
+<td>$81.00</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>Columbus, OH</td>
+<td>879170</td>
+<td>$2.08</td>
+<td>$62.00</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>Fort Worth, TX</td>
+<td>874168</td>
+<td>$-</td>
+<td>$80.00</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>Indianapolis, IN</td>
+<td>863002</td>
+<td>$-</td>
+<td>$60.00</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>Charlotte, NC</td>
+<td>859035</td>
+<td>$2.50</td>
+<td>$88.00</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>Seattle, WA</td>
+<td>724745</td>
+<td>$5.42</td>
+<td>$99.00</td>
+</tr>
+<tr class="odd">
+<td>19</td>
+<td>Denver, CO</td>
+<td>704621</td>
+<td>$-</td>
+<td>$114.00</td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td>Washington, DC</td>
+<td>693972</td>
+<td>$2.92</td>
+<td>$81.00</td>
+</tr>
+<tr class="odd">
+<td>21</td>
+<td>Boston, MA</td>
+<td>685094</td>
+<td>$-</td>
+<td>$90.00</td>
+</tr>
+<tr class="even">
+<td>22</td>
+<td>El Paso, TX</td>
+<td>683577</td>
+<td>$-</td>
+<td>$48.00</td>
+</tr>
+<tr class="odd">
+<td>23</td>
+<td>Detroit, MI</td>
+<td>673104</td>
+<td>$-</td>
+<td>$70.00</td>
+</tr>
+<tr class="even">
+<td>24</td>
+<td>Nashville, TN</td>
+<td>667560</td>
+<td>$0.83</td>
+<td>$65.00</td>
+</tr>
+<tr class="odd">
+<td>25</td>
+<td>Memphis, TN</td>
+<td>652236</td>
+<td>$-</td>
+<td>?</td>
+</tr>
+<tr class="even">
+<td>26</td>
+<td>Portland, OR</td>
+<td>647805</td>
+<td>$6.25</td>
+<td>$100.00</td>
+</tr>
+<tr class="odd">
+<td>27</td>
+<td>Oklahoma City, OK</td>
+<td>643648</td>
+<td>$-</td>
+<td>$50.00</td>
+</tr>
+<tr class="even">
+<td>28</td>
+<td>Las Vegas, NV</td>
+<td>641676</td>
+<td>$-</td>
+<td>$65.00</td>
+</tr>
+<tr class="odd">
+<td>29</td>
+<td>Louisville, KY</td>
+<td>621349</td>
+<td>$1.67</td>
+<td>$50.00</td>
+</tr>
+<tr class="even">
+<td>30</td>
+<td>Baltimore, MD</td>
+<td>611648</td>
+<td>$1.67</td>
+<td>$74.00</td>
+</tr>
+</tbody>
+</table>
+<p>In these times of municipal fiscal distress, it is important to consider the costs of providing public services. Since residential street parking is often free (or minimally priced), the cost of upkeep and maintenance of street falls on all taxpayers through general taxation (usually the property tax). This is highly inequitable to non-street parking users who are asked to bear a portion of the cost while receiving no benefits.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> The public sector asks transit users to bear a much larger portion of the costs associated with their usage of the public transit infrastructure than car users are asked to bear.</p>
+<p>Residential street parking could be a decent revenue source for large cities. Vast sums of money are spent on the provision and maintenance of roads and few mechanisms exist to explicitly capture revenues associated with the usage of roads.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> Appropriately pricing residential street parking could do this in a direct way.</p>
+<p>tl;dr: Street parking in nearly all U.S. cities is vastly underpriced.</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1" role="doc-endnote"><p>It is important to note that in many of these cities the residential parking permit system (or zones) do not cover the entire city. In a great many locations in these cities, street parking is essentially free (or uncharged for by the public sector).<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2" role="doc-endnote"><p>This doesn’t consider the social costs imposed either.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3" role="doc-endnote"><p>The disconnect between the provision of roads and the revenues to pay for them is and will get worse as the efficiency of the gas tax (the connection between the amount of the tax and the usage of roads) further declines. This is driven by both the failure of the gas tax to be increased (most specifically at the federal level, but also in a number of states) and, paradoxically, the increased popularity of electric or hybrid vehicles that can avoid some or all of the gas tax’s intended purpose as a fee on road usage.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left"><span class="faux-block"><i class="fa-brands fa-creative-commons" aria-hidden="true"></i> 2007–2022 Christopher B. Goodman</span> <span class="faux-block">All content licensed under<br><a href="https://creativecommons.org/licenses/by-sa/4.0/"><i class="fa-brands fa-creative-commons" aria-hidden="true"></i> <i class="fa-brands fa-creative-commons-by" aria-hidden="true"></i> <i class="fa-brands fa-creative-commons-sa" aria-hidden="true"></i> Creative Commons CC BY-SA 4.0</a></span></div>   
+      <div class="nav-footer-center"><span class="faux-block"><i class="fa-brands fa-orcid" aria-hidden="true"></i> <strong>ORCID</strong> <a href="https://orcid.org/0000-0002-8565-9714">0000-0002-8565-9714</a></span></div>
+    <div class="nav-footer-right"><span class="faux-block"><i class="fa-brands fa-creative-commons" aria-hidden="true"></i> 2007–2022 Christopher B. Goodman</span></div>
+  </div>
+</footer>
+
+
+
+</body></html>

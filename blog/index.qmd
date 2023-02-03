@@ -1,0 +1,100 @@
+---
+pagetitle: "Blog | {{< meta website.title >}}"
+page-layout: full
+listing:
+  - id: posts_2023
+    contents: "2023/*.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+  - id: posts_2022
+    contents: "2022/*.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+  - id: posts_2021
+    contents: "2021/*.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+  - id: posts_2020
+    contents: "2020/*.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+  - id: posts_2019
+    contents: "2019/*.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+  - id: posts_2018
+    contents: "2018/*.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+  - id: posts_2017
+    contents: "2017/*.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+  - id: posts_2015
+    contents: "2015/*.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+  - id: posts_2013
+    contents: "2013/*.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+toc-title: Year
+toc-location: right
+date-format: "MMMM D, YYYY"
+code-tools: false
+comments: false
+---
+
+## 2023
+
+:::{#posts_2023}
+:::
+
+## 2022
+
+:::{#posts_2022}
+:::
+
+## 2021
+
+:::{#posts_2021}
+:::
+
+## 2020
+
+:::{#posts_2020}
+:::
+
+## 2019
+
+:::{#posts_2019}
+:::
+
+## 2018
+
+:::{#posts_2018}
+:::
+
+## 2017
+
+:::{#posts_2017}
+:::
+
+## 2015
+
+:::{#posts_2015}
+:::
+
+## 2013
+
+:::{#posts_2013}
+:::

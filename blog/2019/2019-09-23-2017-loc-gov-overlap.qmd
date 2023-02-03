@@ -1,0 +1,16 @@
+---
+title: "Local Government Overlap"
+date: "2019-09-23"
+categories: 
+    - dataviz 
+    - r 
+    - local govt 
+    - maps
+---
+
+::: {.column-page}
+![Western states have the highest levels of local government overlap](../../files/img/ca-cog-17.png){fig-align="center"}
+:::
+
+
+Local government overlap is calculated similar to [Berry (2008)](https://dx.doi.org/10.1111/j.1540-5907.2008.00344.x) by taking the ratio of all special districts, school districts, and overlapping townships to municipalities and non-overlapping townships in a county. Unlike Berry, this includes all forms of overlapping jurisdictions rather than just those with taxing power.
