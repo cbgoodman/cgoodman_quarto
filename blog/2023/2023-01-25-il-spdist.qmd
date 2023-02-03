@@ -1,6 +1,7 @@
 ---
 title: "Illinois Special Districts Per Capita, 2017"
 date: 2023-01-25
+image: img/il-cog-17-pcspdist.png
 categories: 
   - dataviz
   - maps 
