@@ -21,7 +21,7 @@ Limiting the sample of CBSAs to those larger than 250,000 changes things slightl
 
 :::{.column-page}
 
-![](../../files/img/munifrag-250k-ragg.png){fig-alt="Municipal fragmentation, 2017, CBSAs larger than 250,000."}
+![](/../../files/img/munifrag-250k-ragg.png){fig-alt="Municipal fragmentation, 2017, CBSAs larger than 250,000."}
 
 :::
 
@@ -29,7 +29,7 @@ Lastly, constraining the sample to only those CBSAs larger than 1,000,000 in pop
 
 :::{.column-page}
 
-![](../../files/img/munifrag-1m-ragg.png){fig-alt="Municipal fragmentation, 2017, CBSAs larger than 1,000,000."}
+![](/../../files/img/munifrag-1m-ragg.png){fig-alt="Municipal fragmentation, 2017, CBSAs larger than 1,000,000."}
 
 :::
 

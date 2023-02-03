@@ -5,7 +5,7 @@ toc: false
 page-layout: full
 listing:
     - id: posts_2023
-      contents: "blog/2023/*.qmd"
+      contents: "blog/2023/**/*.qmd"
       sort: "date desc"
       template: html/blog/listing-front-page.ejs
       categories: false

@@ -8,6 +8,6 @@ categories:
 ---
 
 ::: {.column-page}
-![Bivariate map of county level municipalities per 10,000 residents v. special districts per 10,000 residents.](../../files/img/bivariate.png){fig-align="center"}
+![Bivariate map of county level municipalities per 10,000 residents v. special districts per 10,000 residents.](/../../files/img/bivariate.png){fig-align="center"}
 :::
 
