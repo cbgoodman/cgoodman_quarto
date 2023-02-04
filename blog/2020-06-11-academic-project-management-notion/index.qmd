@@ -25,7 +25,7 @@ The first is really important to me. A database approach allows me to manipulate
 
 :::{.column-body-outset-right}
 
-![](../../files/img/notion-1.png){fig-align="center"}
+![](notion-1.png){fig-align="center"}
 
 :::
 
@@ -35,7 +35,7 @@ The first is really important to me. A database approach allows me to manipulate
 
 :::{.column-body-outset-right}
 
-![](../../files/img/notion-2.png){fig-align="center"}
+![](notion-2.png){fig-align="center"}
 
 :::
 
@@ -43,7 +43,7 @@ This all starts with a master project database. You can create that by starting 
 
 :::{.column-body-outset-right}
 
-![](../../files/img/notion-3.png){fig-align="center"}
+![](notion-3.png){fig-align="center"}
 
 :::
 
@@ -53,7 +53,7 @@ If I want to see only projects in the pre-submission phase, I can see only those
 
 :::{.column-body-outset-right}
 
-![](../../files/img/notion-4.png){fig-align="center"}
+![](notion-4.png){fig-align="center"}
 
 :::
 

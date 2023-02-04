@@ -15,7 +15,7 @@ For those of you who may not have read the original post.
 
 :::{.column-body-outset-right}
 
-![](../../files/img/notion-1.png){fig-align="center"}
+![](notion-1.png){fig-align="center"}
 
 :::
 
@@ -31,7 +31,7 @@ As mentioned above, the primary component of this system is the Manuscript Statu
 
 :::{.column-body-outset-right}
 
-![Manuscript 1 Metadata](../../files/img/notion-update-ms-1.png){fig-align="center"}
+![Manuscript 1 Metadata](notion-update-ms-1.png){fig-align="center"}
 
 :::
 
@@ -39,7 +39,7 @@ As seen above, there are a few pieces of vital information (and many hidden deta
 
 :::{.column-body-outset-right}
 
-![Manuscript 1 Content](../../files/img/notion-update-ms-2.png){fig-align="center"}
+![Manuscript 1 Content](notion-update-ms-2.png){fig-align="center"}
 
 :::
 
@@ -48,7 +48,7 @@ Further down, this page includes all the relevant data about this manuscript. It
 
 :::{.column-body-outset-right}
 
-![Manuscript 1 Reviews](../../files/img/notion-update-ms-3.png){fig-align="center"}
+![Manuscript 1 Reviews](notion-update-ms-3.png){fig-align="center"}
 
 :::
 
@@ -58,7 +58,7 @@ This portion can be highly customized. And it's not too dissimilar to the origin
 
 :::{.column-body-outset-right}
 
-![The All Active Projects view](../../files/img/notion-update-1.png){fig-align="center"}
+![The All Active Projects view](notion-update-1.png){fig-align="center"}
 
 :::
 
@@ -68,7 +68,7 @@ The 'To-Do' panel at the top of the page is one such instance of a database (the
 
 :::{.column-body-outset-right}
 
-![The Conference Papers view](../../files/img/notion-update-3.png){fig-align="center"}
+![The Conference Papers view](notion-update-3.png){fig-align="center"}
 
 :::
 
@@ -78,7 +78,7 @@ Below the to-do section is a lot of contextual information.
 
 :::{.column-body-outset-right}
 
-![The All Active Projects view](../../files/img/notion-update-2.png){fig-align="center"}
+![The All Active Projects view](notion-update-2.png){fig-align="center"}
 
 :::
 
