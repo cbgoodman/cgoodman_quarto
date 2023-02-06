@@ -55,7 +55,7 @@ p <- ggplot(plot.data, aes(x = term, y = std.est)) +
 The primary issue is the 4 models are highly related so using something like `facet_wrap` is a bit inappropriate. I want the coefficients stacked. This is easily achieved using the `group` option in `geom_pointrange`. A little adjustment is necessary to get the points and ranges to be more visible in what will eventually be a printed figure. The output can be seen below.
 
 ::: {.column-page}
-![](../../files/img/popgrow-coeff.png){fig-align="center"}
+![](popgrow-coeff.png){fig-align="center"}
 :::
 
 

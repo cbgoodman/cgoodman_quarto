@@ -36,7 +36,7 @@ This uses the built in color scheme.
 
 :::{.column-body-outset}
 
-![](../../files/img/desaturate-ex1.png){fig-align="center"}
+![](desaturate-ex1.png){fig-align="center"}
 
 :::
 
@@ -51,7 +51,7 @@ As can be seen below, the standard color palette in ```ggplot``` is ok (but not 
 
 :::{.column-body-outset}
 
-![](../../files/img/desaturate-ex2.png){fig-align="center"}
+![](desaturate-ex2.png){fig-align="center"}
 
 :::
 
@@ -61,7 +61,7 @@ How can we fix this? First, we need a new color scale. I am partial to *[viridis
 p.viridis <- p +
   scale_colour_viridis_d()
 ```
-![](../../files/img/desaturate-ex3.png){fig-align="center"}
+![](desaturate-ex3.png){fig-align="center"}
 
 When we subject this new figure to our colorblindness test, it performs much better. Important for our purposes, there is ample separation for desaturation.
 ```R
@@ -70,7 +70,7 @@ cvd_grid(p.viridis)
 
 :::{.column-body-outset}
 
-![](../../files/img/desaturate-ex4.png){fig-align="center"}
+![](desaturate-ex4.png){fig-align="center"}
 
 :::
 
@@ -86,7 +86,7 @@ Using ```edit_colors(foo, desaturate)```, we can completely desaturate our figur
 
 :::{.column-body-outset}
 
-![](img/desaturate-ex5.png){fig-align="center"}
+![](desaturate-ex5.png){fig-align="center"}
 
 :::
 
