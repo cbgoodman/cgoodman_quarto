@@ -1,6 +1,6 @@
 ---
 title: "State Preemption and Affordable Housing Policy"
-date: "2022-12-15"
+date: "2023-04-12"
 author: 
     - name: Christopher B. Goodman
       url: https://www.cgoodman.com
@@ -12,7 +12,7 @@ author:
       affiliation: Cleveland State University
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong> and Megan E. Hatch (<em>forthcoming</em>). “State Preemption and Affordable Housing Policy,” <em>Urban Studies</em>, doi: <a href="https://doi.org/10.1177/00420980221135410"><code>10.1177/00420980221135410</code></a>
+    <strong>Christopher B. Goodman</strong> and Megan E. Hatch (2023). “State Preemption and Affordable Housing Policy,” <em>Urban Studies</em>, 60 (6): 1048-1065, doi: <a href="https://doi.org/10.1177/00420980221135410"><code>10.1177/00420980221135410</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/preemption-housing.pdf"
@@ -34,7 +34,11 @@ Many affordable housing policies are the domain of local governments. While subn
 ```bib
 @unpublished{goodman-hatch-2022,
   author = {Goodman, Christopher B. and Hatch, Megan E.},
-  note = {Working Paper},
+  doi = {10.1177/00420980221135410},
+  journal = {Urban Studies},
+  number = {6},
+  pages = {1048--1065},
   title = {State Preemption and Affordable Housing Policy},
-  year = {2022}
+  volume = {60},
+  year = {2023}
 ```
