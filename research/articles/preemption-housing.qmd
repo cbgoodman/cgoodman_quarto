@@ -32,7 +32,7 @@ Many affordable housing policies are the domain of local governments. While subn
 
 ## BibTeX Citation
 ```bib
-@unpublished{goodman-hatch-2022,
+@article{goodman-hatch-2023a,
   author = {Goodman, Christopher B. and Hatch, Megan E.},
   doi = {10.1177/00420980221135410},
   journal = {Urban Studies},
