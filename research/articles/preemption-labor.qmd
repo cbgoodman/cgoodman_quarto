@@ -12,7 +12,7 @@ author:
 date: "2023-05-10"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong> and Megan E. Hatch. “Why States Preempt City Ordinances: The Case of Workers’ Rights Laws” <em>Publius: The Journal of Federalism</em>
+    <strong>Christopher B. Goodman</strong> and Megan E. Hatch. (<em>forthcoming</em>) “Why States Preempt City Ordinances: The Case of Workers’ Rights Laws” <em>Publius: The Journal of Federalism</em>
   links:
     - name: PDF
       url: "../../files/papers/premption-workers.pdf"
