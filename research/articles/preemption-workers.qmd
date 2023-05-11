@@ -1,5 +1,5 @@
 ---
-title: "Why States Preempt City Ordinances: The Case of Workers’ Rights Laws"
+title: "Why States Preempt City Ordinances: The Case of Workers Rights Laws"
 author: 
     - name: Christopher B. Goodman
       url: https://www.cgoodman.com
@@ -14,8 +14,8 @@ pub-info:
   reference: >-
     <strong>Christopher B. Goodman</strong> and Megan E. Hatch. (<em>forthcoming</em>) “Why States Preempt City Ordinances: The Case of Workers’ Rights Laws” <em>Publius: The Journal of Federalism</em>
   links:
-    - name: PDF
-      url: "../../files/papers/premption-workers.pdf"
+    - name: Preprint
+      url: "../../files/papers/preemption-workers.pdf"
       icon: fa-solid fa-file-pdf
       local: true
 categories:
