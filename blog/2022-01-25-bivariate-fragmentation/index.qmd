@@ -1,6 +1,7 @@
 ---
 title: "Horizontal v. Vertical Fragmentation"
 date: 2022-01-25
+image: img/bivariate.png
 categories: 
   - dataviz
   - maps 
