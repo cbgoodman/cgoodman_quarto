@@ -1,5 +1,5 @@
 ---
-pagetitle: "Data | {{< meta website.title >}}"
+pagetitle: "Data | Christopher B. Goodman"
 toc: false
 page-layout: full
 ---

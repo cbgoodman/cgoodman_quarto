@@ -1,5 +1,5 @@
 ---
-pagetitle: "Blog | {{< meta website.title >}}"
+pagetitle: "Blog | Christopher B. Goodman"
 page-layout: full
 listing:
   - id: posts

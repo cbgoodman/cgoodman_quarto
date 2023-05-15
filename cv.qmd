@@ -1,5 +1,5 @@
 ---
-pagetitle: "Bio &amp; CV | {{< meta website.title >}}"
+pagetitle: "Bio &amp; CV | Christopher B. Goodman"
 page-layout: full
 about:
     template: trestles

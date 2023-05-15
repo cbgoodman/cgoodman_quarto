@@ -1,5 +1,5 @@
 ---
-pagetitle: "Home | {{< meta website.title >}}"
+pagetitle: "Home | Christopher B. Goodman"
 sidebar: false
 toc: false
 page-layout: full

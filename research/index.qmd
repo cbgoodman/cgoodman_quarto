@@ -1,5 +1,5 @@
 ---
-pagetitle: "Research | {{< meta website.title >}}"
+pagetitle: "Research | Christopher B. Goodman"
 sidebar: false
 toc: true
 toc-location: right

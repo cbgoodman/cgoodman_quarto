@@ -1,5 +1,5 @@
 ---
-pagetitle: "Teaching | {{< meta website.title >}}"
+pagetitle: "Teaching | Christopher B. Goodman"
 sidebar: false
 toc: false
 page-layout: full
