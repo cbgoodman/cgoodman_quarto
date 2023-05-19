@@ -12,7 +12,7 @@ author:
 date: "2017-09-01"
 pub-info:
   reference: >-
-    <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a> and <strong>Christopher B. Goodman</strong> (2019) "Assessing the Influence of Property Tax Delinquency and Foreclosures on Residential Property Sales." <em>Urban Affairs Review</em> 53 (5): 898-923, doi: <a href="https://doi.org/10.1177/1078087416678339"><code>10.1177/1078087416678339</code></a>
+    <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a> and <strong>Christopher B. Goodman</strong> (2017) "Assessing the Influence of Property Tax Delinquency and Foreclosures on Residential Property Sales." <em>Urban Affairs Review</em> 53 (5): 898-923, doi: <a href="https://doi.org/10.1177/1078087416678339" target="_blank" rel="noopener noreferrer"><code>10.1177/1078087416678339</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/tax-delq.pdf"
@@ -32,7 +32,7 @@ We examine the influence of property tax delinquency on the sale price of nearby
 
 ## BibTeX Citation
 ```bib
-@article{carroll-goodman-2017,
+@article{carroll-goodman-2017-uar,
   author = {Carroll, Deborah A. and Goodman, Christopher B.},
   doi = {10.1177/1078087416678339},
   journal = {Urban Affairs Review},

@@ -12,7 +12,7 @@ author:
 date: "2021-04-01"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong>, Suzanne M. Leland, and Olga Smirnova. (2021). “The Consequences of Specialized Governance on Spending and Expansion of Public Transit,” <em>Local Government Studies</em> 47 (2): 296-311, doi: <a href="https://doi.org/10.1080/03003930.2020.1744571"><code>10.1080/03003930.2020.1744571</code></a>
+    <strong>Christopher B. Goodman</strong>, <a href="https://pages.charlotte.edu/suzanne-leland/">Suzanne M. Leland</a>, and Olga Smirnova. (2021). “The Consequences of Specialized Governance on Spending and Expansion of Public Transit,” <em>Local Government Studies</em> 47 (2): 296-311, doi: <a href="https://doi.org/10.1080/03003930.2020.1744571" target="_blank" rel="noopener noreferrer"><code>10.1080/03003930.2020.1744571</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/specialized-governance.pdf"

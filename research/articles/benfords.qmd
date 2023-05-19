@@ -12,7 +12,7 @@ author:
 date: "2021-05-13"
 pub-info:
   reference: >-
-    <a href="http://www.brucemcdonald.com/">Bruce D. McDonald, III</a> and <strong>Christopher B. Goodman</strong> (2021). “The Truth about Honesty in the Nonprofit Sector,” <em>Public Administration Quarterly</em> 45 (2): 188-210, doi: <a href="https://doi.org/10.37808/paq.45.2.4"><code>10.37808/paq.45.2.4</code></a>
+    <a href="http://www.brucemcdonald.com/">Bruce D. McDonald, III</a> and <strong>Christopher B. Goodman</strong> (2021). “The Truth about Honesty in the Nonprofit Sector,” <em>Public Administration Quarterly</em> 45 (2): 188-210, doi: <a href="https://doi.org/10.37808/paq.45.2.4" target="_blank" rel="noopener noreferrer"><code>10.37808/paq.45.2.4</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/npo-benfords.pdf"

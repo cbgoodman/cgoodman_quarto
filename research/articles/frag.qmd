@@ -8,7 +8,7 @@ author:
 date: "2015-01-01"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong>. (2015). “Local Government Fragmentation and the Local Public Sector: A Panel Data Analysis" <em>Public Finance Review</em> 43 (1): 82-107, doi: <a href="https://doi.org/10.1177/1091142113515048"><code>10.1177/1091142113515048</code></a>
+    <strong>Christopher B. Goodman</strong>. (2015). “Local Government Fragmentation and the Local Public Sector: A Panel Data Analysis" <em>Public Finance Review</em> 43 (1): 82-107, doi: <a href="https://doi.org/10.1177/1091142113515048" target="_blank" rel="noopener noreferrer"><code>10.1177/1091142113515048</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/frag-exp.pdf"
@@ -28,7 +28,7 @@ This study analyzes the influence of fragmentation and concentration variables o
 
 ## BibTeX Citation
 ```bib
-@article{goodman-2015,
+@article{goodman-2015-pfr,
   author = {Goodman, Christopher B.},
   doi = {10.1177/1091142113515048},
   journal = {Public Finance Review},

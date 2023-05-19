@@ -8,7 +8,7 @@ author:
 date: "2018-07-14"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong>. (2018). “Jurisdictional Overlap & the Size of the Local Public Workforce,” <em>State and Local Government Review</em>, 50 (1): 15-23 doi: <a href="https://doi.org/10.1177/0160323X18774402"><code>10.1177/0160323X18774402</code></a>
+    <strong>Christopher B. Goodman</strong>. (2018). “Jurisdictional Overlap & the Size of the Local Public Workforce,” <em>State and Local Government Review</em>, 50 (1): 15-23 doi: <a href="https://doi.org/10.1177/0160323X18774402" target="_blank" rel="noopener noreferrer"><code>10.1177/0160323X18774402</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/frag-employ.pdf"
@@ -29,7 +29,7 @@ The United States is a country of many overlapping local governments. Theoretica
 
 ## BibTeX Citation
 ```bib
-@article{goodman-2018,
+@article{goodman-2018-slgr,
   author = {Goodman, Christopher B.},
   doi = {10.1177/0160323X18774402},
   journal = {State \& Local Government Review},

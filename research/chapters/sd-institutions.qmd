@@ -5,10 +5,10 @@ author:
       url: https://www.cgoodman.com
       orcid: 0000-0002-8565-9714
       affiliation: Northern Illinois University
-date: "2022-05-09"
+date: "2023-09-01"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong>. (2022). "The Role of Special Districts and Intergovernmental Constraints." In <em>Research Handbook on City and Municipal Finance</em>, edited by Justin M. Ross, Temu Moldogazı, and Craig L. Johnson. Cheltenham, UK: Edward Elgar Publishing
+    <strong>Christopher B. Goodman</strong>. (2023). "The Role of Special Districts and Intergovernmental Constraints." In <a href="https://www.e-elgar.com/shop/usd/research-handbook-on-city-and-municipal-finance-9781800372955.html" target="_blank" rel="noopener noreferrer"><em>Research Handbook on City and Municipal Finance</em></a>, edited by Justin M. Ross, Temirlan T. Moldogaziev, and Craig L. Johnson. Cheltenham, UK: Edward Elgar Publishing.
 categories:
     - Special districts
     - Institutions
@@ -19,12 +19,12 @@ The United States’ federal system is awash in local governments. As of 2017, t
 
 ## BibTeX Citation
 ```bib
-@incollection{goodman-2022,
+@incollection{goodman-2023-handbook,
   author = {Goodman, Christopher B.},
   address = {Cheltenham, UK},
   booktitle = {Research Handbook on City and Municipal Finance},
-  editor = {Ross, Justin M. and Moldogazı, Temu and Johnson, Craig L.},
+  editor = {Ross, Justin M. and Moldogaziev, Temirlan T. and Johnson, Craig L.},
   publisher = {Edward Elgar Publishing},
   title = {The Role of Special Districts and Intergovernmental Constraints},
-  year = {2022}}
+  year = {2023}}
 ```

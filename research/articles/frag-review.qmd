@@ -8,7 +8,7 @@ author:
 date: "2019-12-11"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong>. (2019). "Local Government Fragmentation: What Do We Know?" <em>State and Local Government Review</em> 51 (2): 134-144, doi: <a href="https://doi.org/10.1177/0160323X19856933"><code>10.1177/0160323X19856933</code></a>
+    <strong>Christopher B. Goodman</strong>. (2019). "Local Government Fragmentation: What Do We Know?" <em>State and Local Government Review</em> 51 (2): 134-144, doi: <a href="https://doi.org/10.1177/0160323X19856933" target="_blank" rel="noopener noreferrer"><code>10.1177/0160323X19856933</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/frag-review.pdf"
@@ -29,7 +29,7 @@ The United States is a nation of local governments. The growth in the number of 
 
 ## BibTeX Citation
 ```bib
-@article{goodman-2019,
+@article{goodman-2019-slgr,
   author = {Goodman, Christopher B.},
   doi = {10.1177/0160323X19856933},
   journal = {State \& Local Government Review},

@@ -13,8 +13,10 @@
   semester:
   - name: Fall 2022 
     url: "/files/teaching/goodman-pspa611-22f.pdf"
-  - name: Spring 2022 (asynchronous online)
+  - name: Spring 2023 (asynchronous online)
     url: "/files/teaching/goodman-pspa611-23spr.pdf"
+  - name: Summer 2023 (asynchronous online)
+    url: "/files/teaching/goodman-pspa611-23sum.pdf"
 
 - title: Local Government Administration
   description: "Administration of local government services in urban and metropolitan areas. Analysis of particular problems faced by local governments in the performance of line and staff functions."

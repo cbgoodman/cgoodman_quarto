@@ -8,7 +8,7 @@ author:
 date: "2021-10-28"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong> (2021). “Political Fragmentation & Economic Growth in U.S. Metropolitan Areas,” <em>Journal of Urban Affairs</em> 43 (9): 1355-1376, doi: <a href="https://doi.org/10.1080/07352166.2020.1742578"><code>10.1080/07352166.2020.1742578</code></a>
+    <strong>Christopher B. Goodman</strong> (2021). “Political Fragmentation & Economic Growth in U.S. Metropolitan Areas,” <em>Journal of Urban Affairs</em> 43 (9): 1355-1376, doi: <a href="https://doi.org/10.1080/07352166.2020.1742578" target="_blank" rel="noopener noreferrer"><code>10.1080/07352166.2020.1742578</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/frag-grow.pdf"

@@ -12,7 +12,7 @@ author:
 date: "2011-01-01"
 pub-info:
   reference: >-
-    <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a> and <strong>Christopher B. Goodman</strong> (2011). “The Effects of Assessment Quality on Revenue Volatility,” <em>Public Budgeting &amp; Finance</em> 31 (1): 76–94, doi: <a href="https://doi.org/10.1111/j.1540-5850.2011.00975.x"><code>10.1111/j.1540-5850.2011.00975.x</code></a>
+    <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a> and <strong>Christopher B. Goodman</strong> (2011). “The Effects of Assessment Quality on Revenue Volatility,” <em>Public Budgeting &amp; Finance</em> 31 (1): 76–94, doi: <a href="https://doi.org/10.1111/j.1540-5850.2011.00975.x" target="_blank" rel="noopener noreferrer"><code>10.1111/j.1540-5850.2011.00975.x</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/assessment-quality.pdf"
@@ -34,7 +34,7 @@ This paper examines the relationships between assessment quality, property tax r
 
 ## BibTeX Citation
 ```bib
-@article{carroll-goodman-2011,
+@article{carroll-goodman-2011-pbf,
   author = {Carroll, Deborah A. and Goodman, Christopher B.},
   doi = {10.1111/j.1540-5850.2011.00975.x},
   journal = {Public Budgeting \& Finance},

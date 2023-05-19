@@ -10,7 +10,7 @@ author:
 date: "2019-02-01"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong> and Suzanne M. Leland. (2019). “Do Cities and Counties Attempt to Circumvent Changes in Their Autonomy by Creating Special Districts?,” <em>The American Review of Public Administration</em> 49 (2): 203-217, doi: <a href="https://doi.org/10.1177/0275074018804665"><code>10.1177/0275074018804665</code></a>
+    <strong>Christopher B. Goodman</strong> and <a href="https://pages.charlotte.edu/suzanne-leland/">Suzanne M. Leland</a>. (2019). “Do Cities and Counties Attempt to Circumvent Changes in Their Autonomy by Creating Special Districts?,” <em>The American Review of Public Administration</em> 49 (2): 203-217, doi: <a href="https://doi.org/10.1177/0275074018804665" target="_blank" rel="noopener noreferrer"><code>10.1177/0275074018804665</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/sd-formation.pdf"
@@ -30,7 +30,7 @@ This study uses forty years of data from the US Census of Governments to examine
 
 ## BibTeX Citation
 ```bib
-@article{goodman-leland-2019,
+@article{goodman-leland-2019-arpa,
   author = {Goodman, Christopher B. and Leland, Suzanne M.},
   doi = {10.1177/0275074018804665},
   journal = {The American Review of Public Administration},

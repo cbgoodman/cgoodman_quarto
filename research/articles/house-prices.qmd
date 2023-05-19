@@ -8,7 +8,7 @@ author:
 date: "2018-12-07"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong> (2018). “House Prices and Property Tax Revenues During the Boom and Bust: Evidence from Small-Area Estimates,” <em>Growth &amp; Change</em>, 49 (4): 636-656, doi: <a  href="https://doi.org/10.1111/grow.12261"><code>10.1111/grow.12261</code></a>
+    <strong>Christopher B. Goodman</strong> (2018). “House Prices and Property Tax Revenues During the Boom and Bust: Evidence from Small-Area Estimates,” <em>Growth &amp; Change</em>, 49 (4): 636-656, doi: <a  href="https://doi.org/10.1111/grow.12261" target="_blank" rel="noopener noreferrer"><code>10.1111/grow.12261</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/hp_pt.pdf"
@@ -28,7 +28,7 @@ Although the Great Recession put the U.S. economy into a tailspin, we know littl
 
 ## BibTeX Citation
 ```bib
-@article{goodman-2018-3,
+@article{goodman-2018-grow,
   author = {Goodman, Christopher B.},
   doi = {10.1111/grow.12261},
   journal = {Growth \& Change},

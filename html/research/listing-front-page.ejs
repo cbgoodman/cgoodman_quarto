@@ -17,9 +17,9 @@
                         <% for (const link of item['pub-info'].links) { %>
                     <li class="project-link-fp">
                         <% if (link.local) { %>
-                        <a href="<%- item.path.substring(0, item.path.lastIndexOf('/')) %>/<%- link.url %>">
+                        <a href="<%- item.path.substring(0, item.path.lastIndexOf('/')) %>/<%- link.url %>" target="_blank" rel="noopener noreferrer">
                         <% } else { %>
-                        <a href="<%- link.url %>">
+                        <a href="<%- link.url %>" target="_blank" rel="noopener noreferrer">
                         <% } %>
                             <i class="<%- link.icon %>"></i> <%= link.name %>
                         </a>

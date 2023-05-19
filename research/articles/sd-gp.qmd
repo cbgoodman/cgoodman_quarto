@@ -9,15 +9,18 @@ author:
       url: https://gfrc.uic.edu/profiles/carroll-deborah/
       orcid: 0000-0002-3202-7019
       affiliation: University of Illinois at Chicago
-date: "2023-05-15"
+date: "2023-12-31"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong> and <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a>. (<em>Forthcoming</em>) “Are Special Districts Strategic Complements or Strategic Substitutes?” <em>Public Administration Review</em>.
+    <strong>Christopher B. Goodman</strong> and <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a>. (<em>Forthcoming</em>) “Are Special Districts Strategic Complements or Strategic Substitutes?” <em>Public Administration Review</em>, doi: <a href="https://doi.org/10.1002/PUAR.13672" target="_blank" rel="noopener noreferrer"><code>10.1002/PUAR.13672</code></a>
   links:
-    - name: PDF
+    - name: Preprint
       url: "../../files/papers/sd-gp.pdf"
       icon: fa-solid fa-file-pdf
       local: true
+    - name: Final version
+      url: https://doi.org/10.1002/PUAR.13672 
+      icon: fa-solid fa-arrow-up-right-from-square
 categories:
     - Special districts
     - Public service provision 
@@ -30,7 +33,7 @@ What happens to general-purpose local government spending for service provision 
 
 ## BibTeX Citation
 ```bib
-@article{goodman-carroll-2023,
+@article{goodman-carroll-2023-par,
   author = {Goodman, Christopher B. and Carroll, Deborah A.},
   journal = {Public Administration Review},
   title = {Are Special Districts Strategic Complements or Strategic Substitutes?},

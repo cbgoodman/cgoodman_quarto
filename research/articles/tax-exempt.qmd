@@ -12,7 +12,7 @@ author:
 date: "2022-01-01"
 pub-info:
   reference: >-
-    <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a> and <strong>Christopher B. Goodman</strong> (2022). “Neighborhood Institutions and Residential Home Sales: Evaluating the Impact of Property Tax Exemptions,” <em>The Journal of Real Estate Finance & Economics</em> 64: 247-273, doi: <a href="https://doi.org/10.1007/s11146-020-09808-y4"><code>10.1007/s11146-020-09808-y4</code></a>
+    <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a> and <strong>Christopher B. Goodman</strong> (2022). “Neighborhood Institutions and Residential Home Sales: Evaluating the Impact of Property Tax Exemptions,” <em>The Journal of Real Estate Finance & Economics</em> 64: 247-273, doi: <a href="https://doi.org/10.1007/s11146-020-09808-y4" target="_blank" rel="noopener noreferrer"><code>10.1007/s11146-020-09808-y4</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/tax-exempt-housing.pdf"
@@ -34,7 +34,7 @@ We focus on the urban amenities of “neighborhood institutions,” which are th
 
 ## BibTeX citation
 ```bib
-@article{carroll-goodman-2022,
+@article{carroll-goodman-2022-jrefe,
   author = {Carroll, Deborah A. and Goodman, Christopher B.},
   doi = {10.1007/s11146-020-09808-y},
   journal = {The Journal of Real Estate Finance and Economics},

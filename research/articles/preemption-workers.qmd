@@ -9,10 +9,10 @@ author:
       url: https://facultyprofile.csuohio.edu/csufacultyprofile/detail.cfm?FacultyID=m_e_hatch
       orcid: 0000-0001-5201-4066
       affiliation: Cleveland State University
-date: "2023-05-10"
+date: "2023-12-31"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong> and Megan E. Hatch. (<em>forthcoming</em>) “Why States Preempt City Ordinances: The Case of Workers’ Rights Laws” <em>Publius: The Journal of Federalism</em>
+    <strong>Christopher B. Goodman</strong> and <a href="https://facultyprofile.csuohio.edu/csufacultyprofile/detail.cfm?FacultyID=m_e_hatch">Megan E. Hatch</a>. (<em>Forthcoming</em>) “Why States Preempt City Ordinances: The Case of Workers’ Rights Laws” <em>Publius: The Journal of Federalism</em>
   links:
     - name: Preprint
       url: "../../files/papers/preemption-workers.pdf"
@@ -28,7 +28,7 @@ Despite being popular with the public and preventing racial and economic inequal
 
 ## BibTeX Citation
 ```bib
-@article{goodman-hatch-2023b,
+@article{goodman-hatch-2023-pub,
   author = {Goodman, Christopher B and Hatch, Megan E.},
   journal = {Publius: The Journal of Federalism},
   title = {Why States Preempt City Ordinances: The Case of Workers’ Rights Laws},

@@ -10,7 +10,7 @@ author:
 date: 2013-04-01
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong> and Suzanne M. Leland. (2013). “Cost shocks and their relationship to the creation, consolidation and dissolution of US local governments,” <em>Public Finance &amp; Management</em> 13 (2): 58-79
+    <strong>Christopher B. Goodman</strong> and <a href="https://pages.charlotte.edu/suzanne-leland/">Suzanne M. Leland</a>. (2013). “Cost shocks and their relationship to the creation, consolidation and dissolution of US local governments,” <em>Public Finance &amp; Management</em> 13 (2): 58-79
   links:
     - name: Final version
       url: https://pfm.spaef.org/article/1435/Cost-shocks-and-their-relationship-to-the-creation-consolidation-and-dissolution-of-US-local-governments
@@ -26,7 +26,7 @@ There are several explanations as to why the total number of local governments m
 
 ### BibTeX Citation
 ```bib
-@article{goodman-leland-2013,
+@article{goodman-leland-2013-pfm,
   author = {Goodman, Christopher B. and Leland, Suzanne M.},
   journal = {Public Finance \& Management},
   number = {2},
