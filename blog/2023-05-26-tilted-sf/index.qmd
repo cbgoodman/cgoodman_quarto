@@ -16,7 +16,7 @@ Local governments in the United States generally overlap other local governments
 ![](spdist.jpeg)
 :::
 
-One such method is to rely on 3D visualization methods vs 2D methods. Since local governments overlap, there is a ready made case for seperating the layers vertically to demonstrate how each layer differs from the one below. Unfortunately, this is somewhat difficult because map layers are meant to operate in 2D space. Enter the tilting function.
+One such method is to rely on 3D visualization methods vs 2D methods. Since local governments overlap, there is a ready made case for separating the layers vertically to demonstrate how each layer differs from the one below. Unfortunately, this is somewhat difficult because map layers are meant to operate in 2D space. Enter the tilting function.
 
 ## The tilting function
 Original function created by [Stefan Jünger](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/geospatial-data/).
@@ -39,7 +39,7 @@ rotate_sf <- function(data, x_add = 0, y_add = 0) {
     )
 }
 ```
-The function essentially tilts the map layer and rotates it off-axis. Then we can arrange each layer on top of one another. See [Stefan's](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/geospatial-data/) post for more technical details on what the function is doing, mathematically. Importantly, the `x_add = 0, y_add = 0` options allow us to offset map layers in the x or y directions. I use this extensively in creating the map below.
+The function essentially tilts the map layer and rotates it off-axis. Then we can arrange each layer on top of one another. See [Stefan's](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/geospatial-data/) post for more technical details on what the function is doing mathematically. Importantly, the `x_add = 0, y_add = 0` options allow us to offset map layers in the x or y directions. I use this extensively in creating the map below.
 
 ## Creating the map
 The visualization of geospatial data has become almost trivial with `ggplot` and `sf` in R. We'll need those packages to begin.
@@ -50,7 +50,7 @@ library(ggnewscale)
 ```
 
 ### Load data
-The example here uses shapefiles from DuPage County, IL. Illinois has the most independent local governments of any state in the U.S. making this a good test case. Additionally, DuPage County publishes excellent geospatial data on local governments within its borders. They can all be found at [DuPage County GIS](https://gisdata-dupage.opendata.arcgis.com). I load a subset of such data as a demonstration; however, you can use nearly any `sf` compatable map layer. 
+The example here uses shapefiles from DuPage County, IL. Illinois has the most independent local governments of any state in the U.S., making this a good test case. Additionally, DuPage County publishes excellent geospatial data on local governments within its borders. They can all be found at [DuPage County GIS](https://gisdata-dupage.opendata.arcgis.com). I load a subset of such data as a demonstration; however, you can use nearly any `sf` compatible map layer. 
 
 ```r
 # import parcel database ----------------
@@ -83,14 +83,14 @@ lib = st_read("~/Dropbox/Data/Spatial Data/Dupage/Library_Districts/Library_Dist
 # import park districts ----------------
 parks = st_read("~/Dropbox/Data/Spatial Data/Dupage/Park_Districts/Park_Districts.shp")
 ```
-Much of this is run of the mill; however, there are two important bits here. First, I collapse the parcel dataset down to one single polygon using `st_union()` and make it `sf`-compatable with `st_sf()`. This reduces the complexity of the layer and the computation load it takes to render it. You might want to use a terrain raster or some other base map. The parcel map includes the transportation network in the negative spaces, so it is a information-rich base layer. Second, I filter out the unincorporated area polygon from the cities layer. This useful for identifying which areas are unincorporated; however, I don't need that information, so it's filtered out. 
+Much of this is run of the mill; however, there are two important bits here. First, I collapse the parcel dataset down to one single polygon using `st_union()` and make it `sf`-compatable with `st_sf()`. This reduces the complexity of the layer and the computation load it takes to render it. You might want to use a terrain raster or some other base map. The parcel map includes the transportation network in the negative spaces, so it is a information-rich base layer. Second, I filter out the unincorporated area polygon from the cities layer. This is useful for identifying which areas are unincorporated; however, I don't need that information, so it's filtered out. 
 
 ### Render
 ::: {.column-screen-inset}
 ![](layers.png)
 :::
 
-The process here is relatively straight forward. I render each layer, running each data source through the `rotate_sf` function, and use the `x_add = 0, y_add = 0` offset options to create a horizontally and vertically tiled map. The offset parameters rely on the units the map projection uses. This will change depending on how your data are projected.
+The process here is relatively straightforward. I render each layer, running each data source through the `rotate_sf` function, and use the `x_add = 0, y_add = 0` offset options to create a horizontally and vertically tiled map. The offset parameters rely on the units the map projection uses. This will change depending on how your data are projected.
 
 ```r
 ### plot  ----------------
@@ -182,6 +182,6 @@ All that's left is to export.
 ggsave(p, filename = "./output/layers.png", width=11, height=7.5, units="in", dpi=300, device = grDevices::png, bg = "#ffffff")
 ```
 ## Concluding thoughts
-Local governments in the U.S. are arranged in a complex manner, and showing that complexity is difficult. I present one method of reducing the difficulty of visualization while keeping a significant information about the complexity of local government boundaries. Both the number of layers and the relationship between the layers is important. 
+Local governments in the U.S. are arranged in a complex manner, and showing that complexity is difficult. I present one method of reducing the difficulty of visualization while keeping significant information about the complexity of local government boundaries. Both the number of layers and the relationship between the layers are important. 
 
 On a more personal note, creating a map like this has been a bucket list item for a long time. I even considered hiring a graphic designer to make such a map. I am beyond happy that this is easily achievable in R, and that's largely thanks to [Stefan](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/geospatial-data/).
