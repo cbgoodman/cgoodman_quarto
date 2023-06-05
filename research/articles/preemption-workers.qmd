@@ -24,6 +24,7 @@ pub-info:
 categories:
     - Preemption
     - Labor policy
+doi: 10.1093/publius/pjad023
 ---
 
 ## Abstract
