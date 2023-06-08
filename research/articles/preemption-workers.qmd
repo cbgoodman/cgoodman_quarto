@@ -36,5 +36,5 @@ Despite being popular with the public and preventing racial and economic inequal
   author = {Goodman, Christopher B and Hatch, Megan E.},
   journal = {Publius: The Journal of Federalism},
   title = {Why States Preempt City Ordinances: The Case of Workers’ Rights Laws},
-  year = {2013}}
+  year = {2023}}
 ```
