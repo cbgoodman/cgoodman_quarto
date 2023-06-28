@@ -1,0 +1,47 @@
+---
+title: "Conservative states are more likely stop their cities from addressing affordable housing, but renters and federal action can help"
+date: "2023-06-28"
+description: "My coauthor, Megan Hatch, and I recently had the pleasure of writing a blog post for the London School of Economic’s US Centre Blog. It covers a our recent publication in *Urban Studies* on the factors associated with the preemption of local affordable housing laws. See below for the full text of the post as well as a link to the original."
+image: https://blogsmedia.lse.ac.uk/blogs.dir/58/files/2023/06/USAPP-blog-featured-image-with-text-11.png
+categories: 
+  - preemption
+format:
+  html: 
+    fig-cap-location: margin
+---
+
+**[LSE US Centre Blog](https://blogs.lse.ac.uk/usappblog/2023/06/21/conservative-states-are-more-likely-stop-their-cities-from-addressing-affordable-housing-but-renters-and-federal-action-can-help/)**
+
+_The effects of rising inflation are being felt across people’s lives, and the costs of rental accommodation are no exception. But while many US cities and local governments would like to introduce polices to tackle this crisis, they are often restricted from doing so by state policies. Megan E. Hatch and Christopher B. Goodman look at why and how states use preemption measures to restrict local affordable housing measures, and how renters can influence when they are used._
+
+At the same time that the US Congress established the first [renters caucus](https://rollcall.com/2023/06/07/rep-jimmy-gomez-launches-renters-caucus-to-fight-housing-crisis/) and [states are considering caps on rent increases](https://www.latimes.com/california/story/2023-06-02/renters-california-tenants-protections-evictions-lawmakers-bills-legislature-apartments) to address rising housing unaffordability in the United States, other states are making it harder for their cities to adopt policies that would increase the supply of and access to affordable housing through the practice of state preemption.
+
+State [preemption](https://academic.oup.com/ppmg/article-abstract/4/2/146/5919501) is when state governments have rules or policies that limit local governments’ ability to adopt their own policies. Preemptions are not inherently bad or good—they can [establish minimum public safety standards](https://journals.sagepub.com/doi/10.1177/0160323X20979826), but can also be a way for [states to punish progressive cities](https://academic.oup.com/publius/article-abstract/47/3/403/3852645?redirectedFrom=fulltext). Regardless of the policy content, preemptions inherently restrain local governments from serving their constituents as they wish to.
+
+#### How states can preempt local affordable housing measures
+
+In the area of affordable housing, states are most likely to preempt local governments from adopting policies related to inclusionary zoning, rent control, short-term rentals, and source of income discrimination. Inclusionary zoning requires or incentivizes developers to build affordable housing. Rent controls cap the rent landlords can charge for specific units, or how much the rent can increase. Short-term rentals are properties that can be rented out for less than a traditional lease, such as for vacations, through programs such as Airbnb. Source of income discrimination is when landlords will not rent to someone because of how they lawfully get the money to pay for their rent, most often housing vouchers or other government benefits. In general, opponents of each of these types of laws argue that regulation is detrimental to a well-functioning market, while proponents contend they are important policies for increasing equity.
+
+![[Photo](https://unsplash.com/photos/kFr1bwuHC24) by [Robert Linder](https://unsplash.com/de/@rwlinder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/kFr1bwuHC24?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://blogsmedia.lse.ac.uk/blogs.dir/58/files/2023/06/USAPP-blog-featured-image-with-text-11.png){fig-align="center"}
+
+Affordable housing preemptions in these four policy areas have been increasing over time, as shown in Figure 1 below, which is based on [data collected by the Local Solutions Support Center (LSSC)](https://www.supportdemocracy.org/equitablehousing#table). While rent control preemptions have been around since the 1970s, short term rental and source of income anti-discrimination preemptions are newer policies, beginning in 2011 and 2015, respectively.
+
+![Figure 1 – Affordable Housing Preemptions Across Time, 1993-2018](Hatch-Fig-1.png)
+
+Not all states choose to preempt affordable housing policies. Northeast and upper plains states such as Connecticut, New York, and Wyoming do not preempt any of the policies. Indiana is the only state to preempt all four policies. As Figure 2 shows, the states with more preemptions are generally in the southwest. However, geography alone does not explain why and when states preempt affordable housing policies.
+
+![Figure 2 – Affordable Housing Preemptions Across the US states, 1993-2018](Hatch-Fig-2.png)
+
+Some states preempt their local governments more often than others across all policy areas. The Texas legislature passed a broad preemption limiting local governments’ authority that opponents call the “[Death Star Bill](https://www.houstonpublicmedia.org/articles/news/politics/2023/05/16/451827/texas-senate-advances-death-star-bill-preempting-self-government-powers-of-cities-and-counties/).” Indiana, the state that preempts all four affordable housing policies, is another known [frequent preemptor](https://www.epi.org/publication/preemption-in-the-midwest/). Tennessee, which preempts three of the four affordable housing policies, also preempts a wide variety of [workers’ rights laws](https://academic.oup.com/publius/advance-article/doi/10.1093/publius/pjad023/7191231).
+
+#### Why states preempt their local governments and how renters’ groups work to prevent them
+
+There are many different proposed explanations for why states preempt their local governments, the most common of which are ideology, legislative professionalism, and interest group involvement. The relative influence of each of these factors depends on the preemption policy area. For example, the [tobacco lobby was very influential](https://tobaccocontrol.bmj.com/content/10/2/124) in getting states to preempt regulation of the sale and advertisement of tobacco products in the 1990s, while [ideology is a significant predictor of workers’ rights preemptions](https://academic.oup.com/publius/advance-article/doi/10.1093/publius/pjad023/7191231).
+
+In the case of affordable housing preemptions, i[deology matters](https://journals.sagepub.com/doi/abs/10.1177/00420980221135410): more conservative legislatures are more likely to preempt. It is important to focus on ideology, rather than partisanship, because partisanship is a blunt measure in the US (Republican or Democrat), while ideology reflects the different levels of conservatism/liberalism between and within political parties. In addition to ideology, more professional legislatures are less likely to preempt affordable housing policies.
+
+States with higher percentages of renters are less likely to preempt affordable housing policies. Just as important as what predicts preemptions is what does not: the real estate lobby. In other words, contrary to other policies like tobacco regulation, preemption of affordable housing policies does not appear to be elite driven. It is unclear how renters act as a protective force against affordable housing preemption. Perhaps renters and their representative advocacy groups work directly at the state level to prevent affordable housing preemptions. Or perhaps legislators are more responsive to the need for affordable housing when more of their constituents are renters. Either way, this should offer hope to affordable housing advocates that the needs of renters matter, and it is possible to fight against developers and the real estate lobby.
+
+Local governments face an uphill battle in fighting affordable housing preemptions because they do not have direct control over state-level ideology or professionalization. While [lobbying state governments](https://www.nlc.org/wp-content/uploads/2019/11/Restoring-City-Rights-in-an-Era-of-PreemptionWeb.pdf) not to preempt may be helpful, local governments should consider innovative and collaborative ways to provide affordable housing besides inclusionary zoning, rent control, short-term rental, and source of income policies.
+
+_This article is based on the paper “[State preemption and affordable housing policy](https://journals.sagepub.com/doi/abs/10.1177/00420980221135410)” in Urban Studies._
