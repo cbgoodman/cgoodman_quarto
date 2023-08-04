@@ -1,27 +1,21 @@
-- title: "Public Service Performance II: Management & Data Analysis"
-  description: "Focus on public service performance and management, adding more skills-based practices of data analysis. Studies the basic theory, techniques, and practice of data collection and analysis so that information can be used to inform management decisions. Examination of generating research questions by identifying knowledge gaps in the organization. Data analysis methods include quantitative techniques (descriptive and inferential statistics, hypothesis testing) and qualitative techniques (focus groups, content analysis, observational data). Results are interpreted and presented."
-  university: Northern Illinois University
-  number: PSPA 608
-  semester:
-  - name: Fall 2022 (asynchronous online)
-    url: "/files/teaching/goodman-pspa608-22f.pdf"
-
 - title: Public Revenue Analysis & Financial Management
   description: "Theories and practices of public sector revenues. Topics include efficiency and equity considerations, alternative revenue generation, financial analysis, and tax and revenue administration."
   university: Northern Illinois University
   number: PSPA 611
   semester:
-  - name: Fall 2022 
-    url: "/files/teaching/goodman-pspa611-22f.pdf"
-  - name: Spring 2023 (asynchronous online)
-    url: "/files/teaching/goodman-pspa611-23spr.pdf"
-  - name: Summer 2023 (asynchronous online)
-    url: "/files/teaching/goodman-pspa611-23sum.pdf"
+  - name: Fall 2023
+  - name: Fall 2023 (asynchronous online)
+
+- title: Local & Metropolitan Government
+  description: "Discussion of the operational and administrative aspects of local and metropolitan government in the United States, including design and structure, municipal law, finance, administrative organization, local political systems, and intergovernmental relations."
+  university: Northern Illinois University
+  number: PSPA 630
+  semester:
+  - name: Spring 2024 (asynchronous online)
 
 - title: Local Government Administration
   description: "Administration of local government services in urban and metropolitan areas. Analysis of particular problems faced by local governments in the performance of line and staff functions."
   university: Northern Illinois University
   number: PSPA 632
   semester:
-  - name: Spring 2022 (asynchronous online)
-    url: "/files/teaching/goodman-pspa632-23spr.pdf"
+  - name: Spring 2024

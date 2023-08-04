@@ -3,6 +3,8 @@
   university: Northern Illinois University
   number: PSPA 608
   semester:
+  - name: Fall 2022 (asynchronous online)
+    url: "/files/teaching/goodman-pspa608-22f.pdf" 
   - name: Fall 2020 (synchronous online)
     url: "/files/teaching/goodman-pspa608-20f.pdf"
 
@@ -19,6 +21,12 @@
   university: Northern Illinois University
   number: PSPA 611
   semester:
+  - name: Summer 2023 (asynchronous online)
+    url: "/files/teaching/goodman-pspa611-23sum.pdf"
+  - name: Spring 2023 (asynchronous online)
+    url: "/files/teaching/goodman-pspa611-23spr.pdf"
+  - name: Fall 2022 
+    url: "/files/teaching/goodman-pspa611-22f.pdf"
   - name: Spring 2022 (asynchronous online)
     url: "/files/teaching/goodman-pspa611-22spr.pdf"
   - name: Spring 2022
