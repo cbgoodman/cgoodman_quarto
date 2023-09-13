@@ -1,0 +1,44 @@
+---
+title: "Special districts cover services over large areas, but there is still duplication with local government provision"
+date: "2023-09-013"
+author:
+  - name: Christopher B. Goodman
+    url: https://www.cgoodman.com
+    orcid: 0000-0002-8565-9714
+  - name: Deborah A. Carroll
+    url: https://cuppa.uic.edu/profiles/carroll-deborah/
+    orcid: 0000-0002-3202-7019
+description: "My coauthor, Deborah Carroll, and I recently had the pleasure of writing a blog post for the London School of Economic’s US Centre Blog. It covers a our recent publication in *Public Administration Review* on whether special districts are complements or substitutes for spcial districts. See below for the full text of the post as well as a link to the original."
+image: https://blogsmedia.lse.ac.uk/blogs.dir/58/files/2023/09/USAPP-blog-featured-image-with-text-3.png
+categories: 
+  - special districts
+format:
+  html: 
+    fig-cap-location: margin
+---
+
+**[LSE US Centre Blog](https://blogs.lse.ac.uk/usappblog/2023/09/13/special-districts-cover-services-over-large-areas-but-there-is-still-duplication-with-local-government-provision/)**
+
+The local government service delivery environment in the United States is complex. The number and kinds of local governments that provide essential services are large. Additionally, new local governments are created and dissolved each year. As such, the competition for who is primarily responsible for providing a particular service is relatively chaotic. In [our recent publication](https://dx.doi.org/10.1111/puar.13672) in *Public Administration Review*, we examine the interaction between special districts and general purpose local governments (cities and counties) to assess what happens when special districts increase or decrease the intensity of their service provision. 
+
+
+## The role of special districts in US local government
+
+Special districts are a form of independent local government in the United States. They typically provide a single service (e.g., water, sewer, fire protection, parks and recreation, etc.) and have *fiscal* and *administrative* independence from other local governments. That is, they can set their own budgets and revenues, and compose their governing board largely without interference from other local governments. The key characteristic of special districts is their *territorial flexibility* allowing them to overlap other local governments and adopt eccentric borders. This flexibility allows a constellation of special districts to provide numerous services to a single area, though perhaps not in a uniform manner. As of 2022, special districts are the most numerous form of local government in the United States.
+
+The local public economies literature tells us there is a distinction between the *production* of a public service (the physical act of translating inputs into outputs) and the *provision* of a public service (deciding on how many outputs to produce). *Provisioning units* are organized to decide on the relative level and method of production and can take many forms. Importantly, most local governments in the United States are provisioning units. With this in mind, we can sketch out how different provisioning units might interact in the face of competition. First, special districts could **substitute** for general purpose local governments. Special district's territorial flexibility and specialized nature can make them more efficient service providers, and in light of this, general purpose local governments may choose to exit the service provision market. Second, special districts could **complement** existing service provision by general purpose local governments. General purpose local governments may choose to outsource the relatively inefficient portions of their public service production to special districts and choose to jointly provide a service. Lastly, special districts may be **independent** from other local governments. This is likely the case when a special district provides a wholly new public service with no competitors--there is no interaction between local governments. Which of these propositions dominates is an empirical question.
+
+
+![[Photo](https://unsplash.com/photos/YMLjsqSVciE) by [Robert Linder](https://unsplash.com/@mattsphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/YMLjsqSVciE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://blogsmedia.lse.ac.uk/blogs.dir/58/files/2023/09/USAPP-blog-featured-image-with-text-3.png){fig-align="center"}
+
+## Looking at the relationships between special districts and general-purpose local governments
+
+We examine this question using county-level data on local governments in U.S. metropolitan areas from 1972 to 2017. Our dependent variable is per capita public spending by general purpose local governments, and our main independent variable of interest is per capita public spending by special districts. We include several control variables to account for local demands for services and conditions. The analysis includes a number of extensions meant to test the robustness of our results. First, we disaggregate the spending variables by service areas. Second, we distinguish between counties and municipalities in constructing the dependent variable. Third, we focus exclusively on current operating expenditures to eliminate the possibility of the results being driven by capital spending (a common usage of special districts). Lastly, we split the dataset by county size to examine whether the relationship between special districts and general purpose local governments differs in large and small counties.
+
+## Special districts step in to cover services over large land areas
+
+We generally find null results; however, our extensions provide useful nuance. Overall, we find evidence that special districts substitute for county spending in spatially expansive functional areas such as fire protection, libraries, sewerage, and solid waste management. In general, these results are driven by spending on operations. These results suggest that the territorial flexibility of special districts makes them attractive to provide services over large land areas similar to those that counties would be responsible for. However, the elasticity of spending between the two kinds of governments is well below one, indicating far from a one-to-one reduction in spending. We find little evidence of any relationship between special district and municipal expenditures.
+
+Overall, we find a substitution effect between special district spending and general purpose local government spending. This effect is largely confined to county governments and services that typically cover large land areas. The low elasticity of substitution suggests ongoing duplication of services, even if some portion of service delivery responsibility is seeded to special districts. State policymakers could provide some clarity to local governments by more specifically delineating which forms of local government are responsible for what services--being clear about who is responsible for what will decrease duplication and could lead to lower overall spending levels. 
+
+* This article is based on the paper, "[Are special districts strategic complements or strategic substitutes?](http://dx.doi.org/10.1111/puar.13672)" in the *Public Administration Review*.
