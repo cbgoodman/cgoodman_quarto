@@ -6,7 +6,7 @@ toc: false
 page-layout: full
 ---
 
-This site presents an archive of maps, dervied from the 2022 U.S. Census fo Governments, that I have created to visualize the distribution of local government units across the United States. Currently, these maps are organized by county and by core-based statistical areas. Additional aggregations may be added in the future. 
+This site presents an archive of maps derived from the 2022 U.S. Census of Governments, which I have created to visualize the distribution of local government units across the United States. Currently, these maps are organized by county and by core-based statistical areas. Additional aggregations may be added in the future. 
 
 ## Map types
 
