@@ -1,0 +1,7 @@
+---
+pagetitle: "Total City Governments"
+page-layout: full
+toc: false
+---
+
+![](img/city.png){fig-alt="Total city governments, 2022"}

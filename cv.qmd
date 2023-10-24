@@ -1,5 +1,6 @@
 ---
 pagetitle: "Bio &amp; CV | Christopher B. Goodman"
+sidebar: false
 page-layout: full
 about:
     template: trestles

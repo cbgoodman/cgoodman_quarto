@@ -1,0 +1,7 @@
+---
+pagetitle: "Special districts per municipality"
+page-layout: full
+toc: false
+---
+
+![](img/overlap.png){fig-alt="Special districts per municipality, 2022"}

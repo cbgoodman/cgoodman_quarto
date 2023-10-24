@@ -1,0 +1,7 @@
+---
+pagetitle: "Total City Governments per Capita"
+page-layout: full
+toc: false
+---
+
+![](img/city-cbsa-pc.png){fig-alt="Total city governments per 10,000 population, 2022"}

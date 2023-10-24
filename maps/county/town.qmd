@@ -1,0 +1,7 @@
+---
+pagetitle: "Total Town/Township Governments"
+page-layout: full
+toc: false
+---
+
+![](img/town.png){fig-alt="Total town/township governments, 2022"}

@@ -1,0 +1,7 @@
+---
+pagetitle: "Total General Purpose Local Governments"
+page-layout: full
+toc: false
+---
+
+![](img/gengov-cbsa.png){fig-alt="Total general purpose local governments, 2022"}

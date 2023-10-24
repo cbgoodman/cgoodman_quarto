@@ -1,0 +1,7 @@
+---
+pagetitle: "Total Local Governments"
+page-layout: full
+toc: false
+---
+
+![](img/totgov-cbsa.png){fig-alt="Total local governments, 2022"}

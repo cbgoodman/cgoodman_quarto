@@ -1,0 +1,7 @@
+---
+pagetitle: "Special Districts per Capita"
+page-layout: full
+toc: false
+---
+
+![](img/spdist-pc.png){fig-alt="Total independent special districts per 10,000 population, 2022"}

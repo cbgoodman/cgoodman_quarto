@@ -1,0 +1,7 @@
+---
+pagetitle: "Total School Districts"
+page-layout: full
+toc: false
+---
+
+![](img/sd.png){fig-alt="Total school districts, 2022"}

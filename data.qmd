@@ -1,5 +1,6 @@
 ---
 pagetitle: "Data | Christopher B. Goodman"
+sidebar: false
 toc: false
 page-layout: full
 ---

@@ -65,10 +65,83 @@ website:
         text: "Research"
       - href: data.qmd
         text: "Data"
+      - href: maps/index.qmd
+        text: "Map Gallery"  
       - href: teaching/index.qmd
         text: "Teaching"
       - href: blog/index.qmd
         text: "Blog"
+
+  sidebar:
+    - title: "Map Gallery"
+      style: "docked"
+      contents:
+        - href: maps/index.qmd
+          text: "Index"
+        - section: County Maps
+          contents:
+            - href: maps/county/totgov.qmd
+              text: "Total Local Governments"
+            - href: maps/county/gengov.qmd
+              text: "Total General Purpose Local Governments"
+            - href: maps/county/city.qmd
+              text: "Total City Governments"
+            - href: maps/county/town.qmd
+              text: "Total Town/Township Governments"
+            - href: maps/county/sd.qmd
+              text: "Total School Districts"
+            - href: maps/county/spdist.qmd
+              text: "Total Special Districts"
+            - text: "---"
+            - href: maps/county/totgov-pc.qmd
+              text: "Total Local Governments per Capita"
+            - href: maps/county/gengov-pc.qmd
+              text: "Total Local General Purpose Governments per Capita"
+            - href: maps/county/city-pc.qmd
+              text: "Total City Governments per Capita"
+            - href: maps/county/town-pc.qmd
+              text: "Total Town/Township Governments per Capita"
+            - href: maps/county/sd-pc.qmd
+              text: "School Districts per Capita"
+            - href: maps/county/spdist-pc.qmd
+              text: "Special Districts per Capita"
+            - text: "---"
+            - href: "maps/county/hhi.qmd"
+              text: "Herfindahl-Hirschman Index"
+            - href: "maps/county/overlap.qmd"
+              text: "Overlapping Governments"
+        - section: Metro Areas
+          contents:
+            - href: maps/cbsa/totgov.qmd
+              text: "Total Local Governments"
+            - href: maps/cbsa/gengov.qmd
+              text: "Total General Purpose Local Governments"
+            - href: maps/cbsa/city.qmd
+              text: "Total City Governments"
+            - href: maps/cbsa/town.qmd
+              text: "Total Town/Township Governments"
+            - href: maps/cbsa/sd.qmd
+              text: "Total School Districts"
+            - href: maps/cbsa/spdist.qmd
+              text: "Total Special Districts"
+            - text: "---"
+            - href: maps/cbsa/totgov-pc.qmd
+              text: "Total Local Governments per Capita"
+            - href: maps/cbsa/gengov-pc.qmd
+              text: "Total Local General Purpose Governments per Capita"
+            - href: maps/cbsa/city-pc.qmd
+              text: "Total City Governments per Capita"
+            - href: maps/cbsa/town-pc.qmd
+              text: "Total Town/Township Governments per Capita"
+            - href: maps/cbsa/sd-pc.qmd
+              text: "School Districts per Capita"
+            - href: maps/cbsa/spdist-pc.qmd
+              text: "Special Districts per Capita"
+            - text: "---"
+            - href: "maps/cbsa/hhi.qmd"
+              text: "Herfindahl-Hirschman Index"
+            - href: "maps/cbsa/overlap.qmd"
+              text: "Overlapping Governments"
 
 format:
   html:

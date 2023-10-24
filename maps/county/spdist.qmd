@@ -1,0 +1,7 @@
+---
+pagetitle: "Total Special Districts"
+page-layout: full
+toc: false
+---
+
+![](img/spdist.png){fig-alt="Total independent special districts, 2022"}

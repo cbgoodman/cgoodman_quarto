@@ -1,0 +1,7 @@
+---
+pagetitle: "Hirschmann-Herfindahl index of local governments"
+page-layout: full
+toc: false
+---
+
+![](img/hhi-cbsa.png){fig-alt="Hirschmann-Herfindahl index of local governments, 2022"}
