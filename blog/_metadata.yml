@@ -5,6 +5,7 @@ date-format: "MMMM D, YYYY"
 title-block-banner: "#3D5266"
 
 # Default for table of contents
+sidebar: false
 toc: true
 toc-title: Contents
 toc-location: left
