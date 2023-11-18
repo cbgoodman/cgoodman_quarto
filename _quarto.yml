@@ -32,10 +32,10 @@ website:
 
   page-footer: 
     left: |
-      <span class="faux-block">{{< iconify fa6-brands creative-commons size=1.1em title='Creative Commons' >}} {{< var years >}} Christopher B. Goodman</span>
-      <span class="faux-block">All content licensed under<br>[ {{< iconify fa6-brands creative-commons size=1.1em title='Creative Commons' >}} {{< iconify fa6-brands creative-commons-by size=1.1em title='Creative Commons BY' >}} {{< iconify fa6-brands creative-commons-sa size=1.1em title='Creative Commons SA' >}} Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span>      
+      <span class="faux-block"> {{< iconify fa6-brands creative-commons title='Creative Commons' >}} {{< var years >}} Christopher B. Goodman</span>
+      <span class="faux-block">All content licensed under<br>[ {{< iconify fa6-brands creative-commons title='Creative Commons' >}} {{< iconify fa6-brands creative-commons-by title='Creative Commons BY' >}} {{< iconify fa6-brands creative-commons-sa title='Creative Commons SA' >}} Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span>      
     center: |
-      <span class="faux-block">{{< iconify fa6-brands orcid size=1.1em title='ORCID' >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
+      <span class="faux-block"> {{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
     right: |
       <span class="faux-block">Made with [Quarto](https://quarto.org/)</span>
       <span class="faux-block">[View the source at {{< iconify bi github size=1.1em title='GitHub' >}} GitHub]({{< var github-url >}})</span>

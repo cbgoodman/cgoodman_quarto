@@ -8,8 +8,10 @@ about:
     image-width: 20em
     image-shape: rounded
     links:
-        - text: "{{< iconify bi file-earmark-pdf size=1.1em >}} Download CV"
+        - icon: file-earmark-pdf
+          text: Download CV
           href: "./files/vita.pdf"
+          aria-label: file-earmark-pdf
 ---
 :::{#hero-heading}
 

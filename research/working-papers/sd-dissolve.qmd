@@ -13,8 +13,9 @@ pub-info:
   reference: >-
     <strong>Christopher B. Goodman</strong> and <a href="https://pages.charlotte.edu/suzanne-leland/">Suzanne M. Leland</a>. “What Lies Beneath These Creatures of the State: Understanding the Death of Specialised Governments in the U.S”
   links:
-    - name: "{{< iconify bi file-earmark-pdf-fill size=1.1em title='PDF' >}} PDF"
+    - name: PDF
       url: "../../files/papers/sd-dissolve.pdf"
+      icon: fa-solid fa-file-pdf
       local: true
 categories:
     - Special districts
