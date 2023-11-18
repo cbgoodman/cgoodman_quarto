@@ -10,9 +10,8 @@ pub-info:
   reference: >-
     <strong>Christopher B. Goodman</strong>. “Patterns in Special District Creation and Dissolution”
   links:
-    - name: PDF
+    - name: "{{< iconify bi file-earmark-pdf-fill size=1.1em title='PDF' >}} PDF"
       url: "../../files/papers/sd-io.pdf"
-      icon: fa-solid fa-file-pdf
       local: true
 categories:
     - Special districts

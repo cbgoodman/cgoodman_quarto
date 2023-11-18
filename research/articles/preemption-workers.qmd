@@ -14,13 +14,11 @@ pub-info:
   reference: >-
     <strong>Christopher B. Goodman</strong> and <a href="https://facultyprofile.csuohio.edu/csufacultyprofile/detail.cfm?FacultyID=m_e_hatch">Megan E. Hatch</a>. (<em>Forthcoming</em>) “Why States Preempt City Ordinances: The Case of Workers’ Rights Laws” <em>Publius: The Journal of Federalism</em>, doi: <a href="https://doi.org/10.1093/publius/pjad023" target="_blank" rel="noopener noreferrer"><code>10.1093/publius/pjad023</code></a>
   links:
-    - name: Preprint
+    - name: "{{< iconify bi file-earmark-pdf-fill size=1em title='PDF' >}} Preprint"
       url: "../../files/papers/preemption-workers.pdf"
-      icon: fa-solid fa-file-pdf
       local: true
-    - name: Final version
+    - name: "{{< iconify bi arrow-down-left-square-fill size=1em rotate=90deg flip=vertical >}} Final version"
       url: https://doi.org/10.1093/publius/pjad023
-      icon: fa-solid fa-arrow-up-right-from-square
 categories:
     - Preemption
     - Labor policy

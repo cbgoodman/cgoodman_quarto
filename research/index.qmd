@@ -20,7 +20,7 @@ listing:
       template: ../html/research/listing.ejs
 ---
 
-<a href="/files/vita.pdf"  class="btn btn-outline-secondary" target="_blank" rel="noopener noreferrer">{{< fa file-pdf >}} Download CV</a>&nbsp;<a href="/files/goodman-publications.bib"  class="btn btn-outline-secondary" target="_blank" rel="noopener noreferrer">{{< fa book >}} Download .bib</a>
+<a href="/files/vita.pdf"  class="btn btn-outline-secondary" target="_blank" rel="noopener noreferrer">{{< iconify bi file-earmark-pdf-fill size=1.1em title='PDF' >}} Download CV</a>&nbsp;<a href="/files/goodman-publications.bib"  class="btn btn-outline-secondary" target="_blank" rel="noopener noreferrer">{{< iconify fa6-solid book size=1.1em >}} Download .bib</a>
 
 ## Articles
 
