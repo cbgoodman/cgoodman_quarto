@@ -30,6 +30,7 @@ categories:
 citation:
   type: article
   title: "What lies beneath these creatures of the state: understanding the death of specialised governments in the U.S"
+  url: https://www.cgoodman.com/research/working-papers/sd-dissolve
 google-scholar: true
 ---
 

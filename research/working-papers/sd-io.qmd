@@ -24,6 +24,7 @@ categories:
 citation:
   type: article
   title: "Patterns in special district creation and dissolution"
+  url: https://www.cgoodman.com/research/working-papers/sd-io
 google-scholar: true
 ---
 
