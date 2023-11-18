@@ -1,15 +1,21 @@
 ---
 title: "The Effects of Assessment Quality on Revenue Volatility"
 author: 
-    - name: Deborah A. Carroll
+    - name: 
+        given: Deborah A.
+        family: Carroll
+        literal: Deborah A. Carroll
       url: https://gfrc.uic.edu/profiles/carroll-deborah/
       orcid: 0000-0002-3202-7019
       affiliation: University of Illinois at Chicago
-    - name: Christopher B. Goodman
+    - name: 
+        given: Christopher B.
+        family: Goodman
+        literal: Christopher B. Goodman
       url: https://www.cgoodman.com
       orcid: 0000-0002-8565-9714
       affiliation: Northern Illinois University
-date: "2011-01-01"
+date: "2011-03-01"
 pub-info:
   reference: >-
     <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a> and <strong>Christopher B. Goodman</strong> (2011). “The Effects of Assessment Quality on Revenue Volatility,” <em>Public Budgeting &amp; Finance</em> 31 (1): 76–94, doi: <a href="https://doi.org/10.1111/j.1540-5850.2011.00975.x" target="_blank" rel="noopener noreferrer"><code>10.1111/j.1540-5850.2011.00975.x</code></a>
@@ -26,21 +32,19 @@ categories:
     - Assessment quality
     - Revenue volatility
 doi: 10.1111/j.1540-5850.2011.00975.x
+citation:
+  type: article-journal
+  title: "The effects of assessment quality on revenue volatility"
+  container-title: "Public Budgeting & Finance"
+  issued: 2011
+  volume: 31
+  issue: 1
+  page-first: 76
+  page-last: 94
+  url: https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5850.2011.00975.x
+google-scholar: true
 
 ---
 
-## Abstract
+### Abstract
 This paper examines the relationships between assessment quality, property tax revenue volatility, and other revenue volatility using panel data of all 100 counties in North Carolina between 2003 and 2007. Findings suggest that characteristics of the property tax base are the most important predictors of property tax revenue volatility among counties over time. Specifically, increases in assessed value and years in which a mass revaluation occurs are most influential in determining property tax revenue volatility. The second stage of analysis reveals that population, nontax revenue dependence, property tax dependence, and assessment quality have the greatest influences on volatility of other revenues among counties over time. The effect of assessment quality on nonproperty tax revenue volatility is conditional upon a county's property tax dependence.
-
-## BibTeX Citation
-```bib
-@article{carroll-goodman-2011-pbf,
-  author = {Carroll, Deborah A. and Goodman, Christopher B.},
-  doi = {10.1111/j.1540-5850.2011.00975.x},
-  journal = {Public Budgeting \& Finance},
-  number = {1},
-  pages = {76-94},
-  title = {The Effects of Assessment Quality on Revenue Quality},
-  volume = {31},
-  year = {2011}}
-```

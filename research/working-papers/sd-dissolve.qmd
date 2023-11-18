@@ -1,11 +1,17 @@
 ---
 title: "What Lies Beneath These Creatures of the State: Understanding the Death of Specialised Governments in the U.S"
 author: 
-    - name: Christopher B. Goodman
+    - name: 
+        given: Christopher B.
+        family: Goodman
+        literal: Christopher B. Goodman
       url: https://www.cgoodman.com
       orcid: 0000-0002-8565-9714
       affiliation: Northern Illinois University
-    - name: "Suzanne M. Leland"
+    - name: 
+        given: Suzanne M.
+        family: Leland
+        literal: Suzanne M. Leland
       url: https://pages.charlotte.edu/suzanne-leland/
       affiliation: University of North Carolina at Charlotte
 date: "2023-04-19"
@@ -21,16 +27,11 @@ categories:
     - Special districts
     - Dissolution
     - Intergovernmental affairs
+citation:
+  type: article
+  title: "What lies beneath these creatures of the state: understanding the death of specialised governments in the U.S"
+google-scholar: true
 ---
 
-## Abstract
+### Abstract
 After analysing 35 years of census data on U.S. local government change, this study finds that the dissolution of special districts (specialised governments) or “exits” in U.S. counties are largely unrelated to demand factors. Using fixed effects regression specified at the all-county and urban county levels, we find that restrictions on the fiscal autonomy of cities are associated with decreases in the special district exit rate. There is also evidence that state grants of “broad” or “limited” functional home rule to cities increase special district dissolutions. These results appear to be driven by highly asset-specific functions. The findings are consistent with the circumvention argument made in the local autonomy literature and may indicate some service consolidation, albeit from a different perspective.
-
-## BibTeX Citation
-```bib
-@unpublished{goodman-leland-2023,
-  author = {Goodman, Christopher B. and Leland, Suzanne M.},
-  note = {Working Paper},
-  title = {What Lies Beneath These Creatures of the State: Understanding the Death of Specialised Governments in the U.S},
-  year = {2023}}
-```

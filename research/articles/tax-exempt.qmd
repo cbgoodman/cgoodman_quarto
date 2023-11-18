@@ -1,45 +1,50 @@
 ---
 title: "Neighborhood Institutions and Residential Home Sales: Evaluating the Impact of Property Tax Exemptions"
 author: 
-    - name: Deborah A. Carroll
+    - name: 
+        given: Deborah A.
+        family: Carroll
+        literal: Deborah A. Carroll
       url: https://gfrc.uic.edu/profiles/carroll-deborah/
       orcid: 0000-0002-3202-7019
       affiliation: University of Illinois at Chicago
-    - name: Christopher B. Goodman
+    - name: 
+        given: Christopher B.
+        family: Goodman
+        literal: Christopher B. Goodman
       url: https://www.cgoodman.com
       orcid: 0000-0002-8565-9714
       affiliation: Northern Illinois University
 date: "2022-01-01"
 pub-info:
   reference: >-
-    <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a> and <strong>Christopher B. Goodman</strong> (2022). “Neighborhood Institutions and Residential Home Sales: Evaluating the Impact of Property Tax Exemptions,” <em>The Journal of Real Estate Finance & Economics</em> 64: 247-273, doi: <a href="https://doi.org/10.1007/s11146-020-09808-y4" target="_blank" rel="noopener noreferrer"><code>10.1007/s11146-020-09808-y4</code></a>
+    <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a> and <strong>Christopher B. Goodman</strong> (2022). “Neighborhood Institutions and Residential Home Sales: Evaluating the Impact of Property Tax Exemptions,” <em>The Journal of Real Estate Finance & Economics</em> 64: 247-273, doi: <a href="https://doi.org/10.1007/s11146-020-09808-y" target="_blank" rel="noopener noreferrer"><code>10.1007/s11146-020-09808-y</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/tax-exempt-housing.pdf"
       icon: fa-solid fa-file-pdf
       local: true
     - name: Final version
-      url: https://doi.org/10.1007/s11146-020-09808-y4
+      url: https://doi.org/10.1007/s11146-020-09808-y
       icon: fa-solid fa-arrow-up-right-from-square
 categories:
     - Property tax exemptions
     - House prices
     - Property tax
 doi: 10.1007/s11146-020-09808-y
+citation:
+  type: article-journal
+  title: "Neighborhood institutions and residential home sales: evaluating the impact of property tax exemptions"
+  container-title: "The Journal of Real Estate Finance & Economics"
+  issued: 2022
+  volume: 64
+  #issue: 6
+  page-first: 247
+  page-last: 273
+  url: https://link.springer.com/article/10.1007/s11146-020-09808-y
+google-scholar: true
 ---
 
-## Abstract
+### Abstract
 
 We focus on the urban amenities of “neighborhood institutions,” which are the myriad localized governments and nonprofits, such as religious and educational institutions, that provide public or quasi-public services to their neighborhoods. We examine whether neighborhood institutions positively impact their surrounding neighborhoods by utilizing property tax exemption records from the City of Milwaukee, Wisconsin, during 2002-2016. We combine these records with parcel-level data on residential home sales to identify each institution’s exact location and type. Using a traditional hedonic model and a repeat sales model, we examine the influence of nearby tax-exempt properties on residential home sales. We find from the repeat sales model that close proximity (0m-250m) to educational properties, labor halls, and utilities are associated with lower home sale prices, all else equal. We find a sporadic and limited positive correlation with nearby colleges and cemeteries and home sale prices.
-
-## BibTeX citation
-```bib
-@article{carroll-goodman-2022-jrefe,
-  author = {Carroll, Deborah A. and Goodman, Christopher B.},
-  doi = {10.1007/s11146-020-09808-y},
-  journal = {The Journal of Real Estate Finance and Economics},
-  pages = {247-273},
-  title = {Neighborhood Institutions and Residential Home Sales: Evaluating the Impact of Property Tax Exemptions},
-  volume = {64},
-  year = {2022}}
-```

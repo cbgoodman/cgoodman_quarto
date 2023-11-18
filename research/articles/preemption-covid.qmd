@@ -1,15 +1,24 @@
 ---
 title: "Tensions in State-Local Intergovernmental Response to Emergencies: The Case of COVID-19"
 author: 
-    - name: Bruce D. McDonald, III
+    - name: 
+        given: Bruce D.
+        family: McDonald
+        literal: Bruce D. McDonald, III
       url: http://www.brucemcdonald.com/
       orcid: 0000-0001-8963-8606
       affiliation: North Carolina State University
-    - name: Christopher B. Goodman
+    - name: 
+        given: Christopher B.
+        family: Goodman
+        literal: Christopher B. Goodman
       url: https://www.cgoodman.com
       orcid: 0000-0002-8565-9714
       affiliation: Northern Illinois University
-    - name: Megan E. Hatch
+    - name: 
+        given: Megan E.
+        family: Hatch
+        literal: Megan E. Hatch
       url: https://facultyprofile.csuohio.edu/csufacultyprofile/detail.cfm?FacultyID=m_e_hatch
       orcid: 0000-0001-5201-4066
       affiliation: Cleveland State University
@@ -30,20 +39,19 @@ categories:
     - Intergovernmental affairs
     - Emergency management
 doi: 10.1177/0160323X20979826
+citation:
+  type: article-journal
+  title: "Tensions in state-local intergovernmental response to emergencies: the case of COVID-19"
+  container-title: "State & Local Government Review"
+  issued: 2020
+  volume: 52
+  issue: 3
+  page-first: 186
+  page-last: 194
+  url: https://journals.sagepub.com/doi/10.1177/0160323X20979826
+google-scholar: true
 ---
 
-## Abstract
+### Abstract
 The U.S. emergency and disaster response system is designed to operate bottom-up, meaning responses are intended to begin at the local level with state and federal governments stepping in to assist as needed. The response to the current COVID-19 outbreak, however, has been something else entirely, as each level of government competes with the others over resources and authority. Some states preferred a local response with state support, while other states took a more uniform, state-mandated response enabled by state preemption of local actions. The latter has revealed an often-dormant means of state preemption of local ordinances: the executive order preemption. Local government managers will have to be creative in balancing responsiveness to their constituents in this time of crisis while also being constrained by their states. The administrative choices are likely to have both immediate and long-term consequences for future emergencies.
 
-## BibTeX Citation
-```bib
-@article{mcdonald-goodman-hatch-2020-slgr,
-  author = {McDonald III, Bruce D. and Goodman, Christopher B. and Hatch, Megan E.},
-  doi = {10.1177/0160323X20979826},
-  journal = {State \& Local Government Review},
-  number = {3},
-  pages = {186--194},
-  title = {Tensions in State--Local Intergovernmental Response to Emergencies: The Case of COVID-19},
-  volume = {52},
-  year = {2020}}
-```

@@ -1,11 +1,17 @@
 ---
 title: "Do Cities and Counties Attempt to Circumvent Changes in Their Autonomy by Creating Special Districts?"
 author: 
-    - name: Christopher B. Goodman
+    - name: 
+        given: Christopher B.
+        family: Goodman
+        literal: Christopher B. Goodman
       url: https://www.cgoodman.com
       orcid: 0000-0002-8565-9714
       affiliation: Northern Illinois University
-    - name: Suzanne M. Leland
+    - name: 
+        given: Suzanne M.
+        family: Leland
+        literal: Suzanne M. Leland
       affiliation: University of North Carolina at Charlotte
 date: "2019-02-01"
 pub-info:
@@ -23,20 +29,18 @@ categories:
     - Special districts
     - Creation
 doi: 10.1177/0275074018804665
+citation:
+  type: article-journal
+  title: "Do cities and counties attempt to circumvent changes in their autonomy by creating special districts?"
+  container-title: "The American Review of Public Administration"
+  issued: 2019
+  volume: 49
+  issue: 2
+  page-first: 203
+  page-last: 217
+  url: https://journals.sagepub.com/doi/10.1177/0275074018804665
+google-scholar: true
 ---
 
-## Abstract
+### Abstract
 This study uses forty years of data from the US Census of Governments to examine the impact of changes in local autonomy on the creation of the fastest growing form of local governments, special districts. Using fixed effects regression specified at the urban county and metropolitan statistical area level, we find that restrictions of fiscal autonomy of cities is associated with creation of new special districts. When the limits on fiscal autonomy interacts with grants of functional autonomy, amplification occurs. We find no analogous effects for county governments. These two findings are consistent with the circumvention argument made in the local autonomy literature.
-
-## BibTeX Citation
-```bib
-@article{goodman-leland-2019-arpa,
-  author = {Goodman, Christopher B. and Leland, Suzanne M.},
-  doi = {10.1177/0275074018804665},
-  journal = {The American Review of Public Administration},
-  number = {2},
-  pages = {203-217},
-  title = {Do Cities and Counties Attempt to Circumvent Changes in Their Autonomy by Creating Special Districts?},
-  volume = {49},
-  year = {2019}}
-```

@@ -1,7 +1,10 @@
 ---
 title: "The Fiscal Impacts of Urban Sprawl: Evidence from U.S. County Areas"
 author: 
-    - name: Christopher B. Goodman
+    - name: 
+        given: Christopher B.
+        family: Goodman
+        literal: Christopher B. Goodman
       url: https://www.cgoodman.com
       orcid: 0000-0002-8565-9714
       affiliation: Northern Illinois University
@@ -22,20 +25,18 @@ categories:
     - Expenditures
     - Fiscal impact
 doi: 10.1111/pbaf.12239
+citation:
+  type: article-journal
+  title: "The fiscal impacts of urban sprawl: evidence from U.S. county areas"
+  container-title: "Public Budgeting & Finance"
+  issued: 2019
+  volume: 39
+  issue: 4
+  page-first: 3
+  page-last: 27
+  url: https://onlinelibrary.wiley.com/doi/10.1111/pbaf.12239
+google-scholar: true
 ---
 
-## Abstract
+### Abstract
 This paper examines the fiscal impacts of urban development patterns in the United States. Previous studies have indicated that it is costly to provide public services in areas with low‐density, spatially expansive development, leading to higher per capita expenditures. However, theory would suggest alternate outcomes. This paper examines this question using a panel dataset of U.S. urban county areas and a specification allowing for potential nonlinearity between development patterns and per capita expenditures. Estimates indicate that the spatial extent of development is the most important factor in expenditures; it is less costly to provide public services when development is more compact. Higher density increases per capita expenditures; however, the effects are small.
-
-## BibTeX Citation
-```bib
-@article{goodman-2019-pbf,
-  author = {Goodman, Christopher B.},
-  doi = {10.1111/pbaf.12239},
-  journal = {Public Budgeting \& Finance},
-  number = {4},
-  pages = {3-27},
-  title = {The Fiscal Impacts of Urban Sprawl: Evidence from U.S. County Areas},
-  volume = {39},
-  year = {2019}}
-```

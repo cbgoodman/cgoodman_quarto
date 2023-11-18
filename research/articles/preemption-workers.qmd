@@ -1,11 +1,17 @@
 ---
 title: "Why States Preempt City Ordinances: The Case of Workers Rights Laws"
 author: 
-    - name: Christopher B. Goodman
+    - name: 
+        given: Christopher B.
+        family: Goodman
+        literal: Christopher B. Goodman
       url: https://www.cgoodman.com
       orcid: 0000-0002-8565-9714
       affiliation: Northern Illinois University
-    - name: Megan E. Hatch
+    - name: 
+        given: Megan E.
+        family: Hatch
+        literal: Megan E. Hatch
       url: https://facultyprofile.csuohio.edu/csufacultyprofile/detail.cfm?FacultyID=m_e_hatch
       orcid: 0000-0001-5201-4066
       affiliation: Cleveland State University
@@ -25,16 +31,18 @@ categories:
     - Preemption
     - Labor policy
 doi: 10.1093/publius/pjad023
+citation:
+  type: article-journal
+  title: "Why states preempt city ordinances: the case of workers rights laws"
+  container-title: "Publius: The Journal of Federalism"
+  issued: 2023-06-06
+  #volume: 60
+  #issue: 6
+  #page-first: 1048
+  #page-last: 1065
+  url: https://academic.oup.com/publius/advance-article/doi/10.1093/publius/pjad023/7191231
+google-scholar: true
 ---
 
-## Abstract
+### Abstract
 Despite being popular with the public and preventing racial and economic inequality, states often preempt their local governments’ ability to adopt workers’ rights laws. We test several competing theories of preemption (ideology, political institutions, interest group involvement, demographics, and policy diffusion) using a time-series, cross-sectional approach. Using data on state legislative activity from 1993 to 2018, we find that increasing legislative conservatism, and more unified political control of the state government, regardless of party, are associated with a higher risk of preempting local workers’ rights laws, all else equal. Our focus on legislative ideology, a more precise measure than party control at the subnational level, as the nexus of preemption activity helps clarify prior contradictory results in the literature. For those looking to prevent or overturn workers’ rights preemptions, the most direct approach appears to be to change the ideology of state legislatures. 
-
-## BibTeX Citation
-```bib
-@article{goodman-hatch-2023-pub,
-  author = {Goodman, Christopher B and Hatch, Megan E.},
-  journal = {Publius: The Journal of Federalism},
-  title = {Why States Preempt City Ordinances: The Case of Workers’ Rights Laws},
-  year = {2023}}
-```

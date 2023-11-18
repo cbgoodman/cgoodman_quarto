@@ -1,15 +1,24 @@
 ---
 title: "State Preemption of Local Laws: Origins and Modern Trends"
 author: 
-    - name: Christopher B. Goodman
+    - name: 
+        given: Christopher B.
+        family: Goodman
+        literal: Christopher B. Goodman
       url: https://www.cgoodman.com
       orcid: 0000-0002-8565-9714
       affiliation: Northern Illinois University
-    - name: Megan E. Hatch
+    - name: 
+        given: Megan E.
+        family: Hatch
+        literal: Megan E. Hatch
       url: https://facultyprofile.csuohio.edu/csufacultyprofile/detail.cfm?FacultyID=m_e_hatch
       orcid: 0000-0001-5201-4066
       affiliation: Cleveland State University
-    - name: Bruce D. McDonald, III
+    - name: 
+        given: Bruce D.
+        family: McDonald
+        literal: Bruce D. McDonald, III
       url: http://www.brucemcdonald.com/
       orcid: 0000-0001-8963-8606
       affiliation: North Carolina State University
@@ -29,22 +38,19 @@ categories:
     - Preemption
     - Intergovernmental affairs
 doi: 10.1093/ppmgov/gvaa018
+citation:
+  type: article-journal
+  title: "State preemption of local laws: origins and modern trends"
+  container-title: "Perspectives on Public Management & Governance"
+  issued: 2021
+  volume: 4
+  issue: 2
+  page-first: 146
+  page-last: 158
+  url: https://academic.oup.com/ppmg/article-abstract/4/2/146/5919501
+google-scholar: true
 ---
 
-
-## Abstract 
+### Abstract 
 
 American cities are creatures of their states, with states both granting and limiting the power of their cities. This relationship is characterized by how cooperative or competitive states are with cities in their legislation. Despite the recent attention given to state preemption of local laws, this is not a new phenomenon. Part of the confusion surrounding preemption is that there is no shared definition or understanding of its forms. The purpose of this article is to begin to create that shared conception. In doing so, we define preemption according to its historic origins as the use of coercive methods to substitute state priorities for local policymaking. We argue modern state preemption of local laws can be divided into four phases, each with their own policies and mechanisms. We show how preemption has changed over time, shifting the functional, legal, and political relationship between states and their cities. Together, these phases help assist policymakers and administrators in understanding the nature of state preemption, and thus how to create and implement local policies in an environment where the distribution of power between governments is competitive and changing.
-
-## BibTeX citation
-```bib
-@article{goodman-hatch-mcdonald-2021-ppmg,
-  author = {Goodman, Christopher B. and Hatch, Megan E. and McDonald III, Bruce D.},
-  doi = {10.1093/ppmgov/gvaa018},
-  journal = {Perspectives on Public Management \& Governance},
-  number = {2},
-  pages = {146--158},
-  title = {State Preemption of Local Laws: Origins and Modern Trends},
-  volume = {4},
-  year = {2021}}
-```
