@@ -4,7 +4,7 @@ sidebar: false
 page-layout: full
 about:
     template: trestles
-    image: "files/img/20-Chris_Goodman-0221-WD-18.jpg"
+    image: "files/img/CKfOTO-12-lowres-square.jpg"
     image-width: 20em
     image-shape: rounded
     links:

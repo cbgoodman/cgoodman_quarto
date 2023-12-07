@@ -26,8 +26,8 @@ website:
   title: "Christopher B. Goodman"
   description: "Christopher B Goodman is an associate professor at Northern Illinois University, researching special districts & preemption and teaching public finance."
   favicon: "files/favicon.ico"
-  site-url: "https://www.cgoodman.com"
-  repo-url: "https://github.com/cbgoodman/cgoodman_quarto"
+  site-url: https://www.cgoodman.com
+  repo-url: https://github.com/cbgoodman/cgoodman_quarto
   page-navigation: true
  
   twitter-card:
