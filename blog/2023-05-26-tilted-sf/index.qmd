@@ -1,6 +1,7 @@
 ---
 title: "Overlapping local governments in DuPage County, IL"
 date: "2023-05-26"
+date-modified: "2023-12-07"
 description: "Local governments in United States generally overlap other local governments. It is so common that many people do not give it a second thought; however, such a situation presents an interesting data visualization problem. How do you demonstrate the complexity of local government borders--both horizontally (where do neighboring cities intersect?) and vertically (which governments overlap a particular city or parcel)? I demonstrate one method using DuPage County, IL as an example."
 image: layers.png
 categories: 
@@ -87,7 +88,7 @@ Much of this is run of the mill; however, there are two important bits here. Fir
 
 ### Render
 ::: {.column-screen-inset}
-![](layers.png)
+![](layers.png){.preview-image}
 :::
 
 The process here is relatively straightforward. I render each layer, running each data source through the `rotate_sf` function, and use the `x_add = 0, y_add = 0` offset options to create a horizontally and vertically tiled map. The offset parameters rely on the units the map projection uses. This will change depending on how your data are projected.

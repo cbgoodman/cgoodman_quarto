@@ -28,6 +28,9 @@ website:
   site-url: "https://www.cgoodman.com"
   repo-url: "https://github.com/cbgoodman/cgoodman_quarto"
   page-navigation: true
+  twitter-card:
+    creator: "@cbgoodman"
+  open-graph: true
   google-analytics: "G-X6T9KJM7FQ"
 
   page-footer: 
