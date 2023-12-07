@@ -1,4 +1,5 @@
 - source: project
   netlify:
     - id: a63730d2-62b0-43ac-9fcf-e217217ced7a
-      url: 'https://fantastic-cucurucho-261e1a.netlify.app'
+      url: 'https://www.cgoodman.com'
+      #url: 'https://fantastic-cucurucho-261e1a.netlify.app'
