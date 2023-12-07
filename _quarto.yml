@@ -18,6 +18,7 @@ execute:
 #csl: files/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Metadata stuff
+pagetitle: "{{< meta title >}} | Christopher B. Goodman"
 author-meta: "Christopher B. Goodman"
 
 # Main website stuff
@@ -28,9 +29,14 @@ website:
   site-url: "https://www.cgoodman.com"
   repo-url: "https://github.com/cbgoodman/cgoodman_quarto"
   page-navigation: true
+ 
   twitter-card:
     creator: "@cbgoodman"
-  open-graph: true
+    site: "@cbgoodman"
+  
+  open-graph:
+    locale: en_US
+  
   google-analytics: "G-X6T9KJM7FQ"
 
   page-footer: 

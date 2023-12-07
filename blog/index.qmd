@@ -9,7 +9,7 @@ listing:
     template: ../html/blog/listing.ejs
     categories: true
     page-size: 5
-toc-title: Year
+#toc-title: Year
 toc-location: right
 date-format: "MMMM D, YYYY"
 code-tools: false

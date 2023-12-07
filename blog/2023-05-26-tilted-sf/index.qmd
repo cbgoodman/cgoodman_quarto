@@ -88,7 +88,7 @@ Much of this is run of the mill; however, there are two important bits here. Fir
 
 ### Render
 ::: {.column-screen-inset}
-![](layers.png)
+![](layers.png){.preview-image}
 :::
 
 The process here is relatively straightforward. I render each layer, running each data source through the `rotate_sf` function, and use the `x_add = 0, y_add = 0` offset options to create a horizontally and vertically tiled map. The offset parameters rely on the units the map projection uses. This will change depending on how your data are projected.
