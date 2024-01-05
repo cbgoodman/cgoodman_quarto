@@ -55,19 +55,19 @@ website:
     collapse-below: lg
 
     right: 
-      - text: "{{< iconify bi twitter size=1.1em title='Twitter' >}}"
+      - text: "{{< iconify simple-icons x size=1.1em title='X' >}}"
         href: https://twitter.com/cbgoodman
         rel: me
-      - text: "{{< iconify bi mastodon size=1.1em title='Mastodon' >}}"
+      - text: "{{< iconify simple-icons mastodon size=1.1em title='Mastodon' >}}"
         href: https://sciences.social/@cbgoodman
         rel: me
-      - text: "{{< iconify bi clouds size=1.1em title='Bluesky' >}}"
+      - text: "{{< iconify simple-icons bluesky size=1.1em title='Bluesky' >}}"
         href: https://bsky.app/profile/cbgoodman.bsky.social
         rel: me
-      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+      - text: "{{< iconify simple-icons github size=1.1em title='GitHub' >}}"
         href: https://www.github.com/cbgoodman
         rel: me
-      - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
+      - text: "{{< iconify simple-icons linkedin size=1.1em title='LinkedIn' >}}"
         href: https://www.linkedin.com/in/cbgoodman/
         rel: me
     left:
