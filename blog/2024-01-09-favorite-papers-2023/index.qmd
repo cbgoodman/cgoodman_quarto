@@ -1,0 +1,68 @@
+---
+title: "My Necessarily Flawed List of Best or Most Interesting Articles of 2023"
+date: "2024-01-09"
+author:
+  - name: Christopher B. Goodman
+    url: https://www.cgoodman.com
+    orcid: 0000-0002-8565-9714
+description: "My list of the best or most interesting articles appearing in issues dated 2023. They are mostly local government, but some others sneak in that are important to my work in some way."
+categories: 
+  - local govt
+  - urban
+  - climate
+format:
+  html: 
+    fig-cap-location: margin
+---
+
+Below is my list of the six best or most interesting articles appearing in print last year. Some of these manuscripts are a bit long in the tooth, only just now appear in "official" print, while being online first for many years. Some of these are directly related to my research (special districts, preemption, municipal incorporation), while others are simply theoretically or empirically important to the field I contribute to. I hope you find them useful.
+
+### [City-State Ideological Incongruence and Municipal Preemption](https://doi.org/10.1111/ajps.12655)
+
+Barber and Dynes, *American Journal of Political Science*
+
+> A growing concern among municipal officials across the United States is that their policymaking capacity is under attack by state legislatures who are increasingly likely to preempt those municipalities. However, determining the extent to which municipalities are preempted is challenging. We overcome this by surveying a large sample of municipal officials from across the United States. We find that officials from municipalities that are more ideologically distant from their state overall are more likely to report being preempted by their state government. Moreover, this pattern is driven by more liberal municipalities in both Republican and Democratic states reporting higher rates of preemption. Additionally, municipalities under unified state governments are more likely to report preemption, especially those under unified Republican control. These findings have important implications for the quality of representation in our federalist system and indicate that preemption is not just an issue between Republican states and liberal urban cities.
+
+Barber and Dynes is one of those "long in the tooth" papers, having been published online in 2021. It provides useful insight into a common claim about preemption (ideological distance between state and local officials). The only real downside is the reliance on self-reported preemption--local official's recall may not be perfect. Still, I found the paper hugely useful in my own work on preemption.
+
+### [American Local Government Elections Database](https://doi.org/10.1038/s41597-023-02792-x)
+
+de Benedictis-Kessner, Lee, Velez, and Warshaw, *Scientific Data*
+
+> The study of urban and local politics in the United States has long been hindered by a lack of centralized sources of election data. We introduce a new database of about 78,000 candidates in 57,000 electoral contests that encompasses races for seven distinct local political offices in most medium and large cities and counties in the U.S. over the last three decades. This is the most comprehensive publicly-available source of information on local elections across the country. We provide partisan and demographic information about candidates in these races as well as electoral outcomes. This new database will facilitate a myriad of new research on representation and elections in local governments.
+
+DATA! It's hard not to get excited about the release of a huge new dataset on local elections. We have shocking little information on local elections, despite their importance to daily life, and this dataset is a huge step forward. I'm excited to see what comes of it.
+
+### [Specialized Local Government and Water Conservation Policy in the United States](https://doi.org/10.1177/10780874221080122)
+
+Switzer and Deng, *Urban Affairs Review*
+
+> Special districts are an increasingly important part of the local government equation in the United States, representing over forty percent of local governments. The spread of these governments is controversial, however, as some argue that they will have a negative impact on service delivery, due to a perceived lack of political accountability. Others argue that their focus on single policy issues allow them to more efficiently respond to the citizens they serve. Despite the controversy, only a few studies have quantitatively investigated the differences in service delivery between special district and general purpose governments. Building on Mullin's earlier work, in this research note we investigate the relationship between specialized local government and water utility rates. We find little direct difference between special districts and general-purpose governments, with some minimal support for a conditional relationship between special districts and scarcity.
+
+Of course, there will be a special districts paper on this list. This is a good one examining if there are difference between special district and general purpose governments in water conservation policy. Spoiler: there are not.
+
+### [Decree or democracy? State takeovers and local government financial outcomes](https://doi.org/10.1111/puar.13609)
+
+Singla, Spreen, and Shumberger, *Public Administration Review*
+
+> Many states possess the authority to intervene in local fiscal emergencies, in some cases curtailing decision-making powers of local officials through the appointment of an emergency financial manager. Previous research has recognized that these managers can push through unpopular reforms that may improve financial health but come at the expense of local control and democratic accountability. We assess the financial outcomes after eight recent state takeovers relative to a matched counterfactual comprised of similarly distressed general purpose local governments. The staggered difference-in-differences analysis shows emergency managers improve budgetary solvency and increase fiscal reserves. These enhancements are achieved through significant reduction of general fund expenditures. Several long-term indicators show deterioration in financial health after state intervention reflecting a significant decline in long-term assets. Overall, municipalities subjected to a state takeover did not realize significant long-run improvements in financial health indicators relative to counterfactual governments.
+
+State takeovers of municipalities have long fascinated me (my brilliant and hugely accomplished former RA from Rutgers, Ashley Nickels has written extensively on it). While the costs to democracy are well documented, the potential fiscal payoffs, i.e. the reason for doing the takeover in the first place, are less explored. Akheil, Luke, and Jason find short-term imporvements that do not appear to last. So, state takeovers "work" but not in a way that leads to any lasting financial improvements. Taken with the costs to local democracy, it's increasingly difficult to endorse these programs. 
+
+### [Local public finance dynamics and hurricane shocks](https://doi.org/10.1016/j.jue.2022.103516)
+
+Jerch, Kahn, and Lin, *Journal of Urban Economics*
+
+> Since 1980, over 2,000 local governments in US Atlantic states have been hit by a hurricane. We study local government fiscal dynamics in the aftermath of hurricanes. These shocks reduce tax revenues, public expenditures, and debt financing in the decade following a hurricane. Hurricanes create collateral fiscal damage for local governments by increasing the cost of debt at critical moments after a strike. Municipalities with a 1 standard deviation-above-average racial minority composition suffer expenditure losses more than 2 times larger and debt default risk 8 times larger than the average municipalities in the decade following a hurricane strike.
+
+As climate change increases the frequency and severity of hurricanes on the southern U.S. coast, understanding the fiscal impacts of these storms on the ability of local governments to fiscally sustain themselves becomes more important. Therefore, Jerch, Kahn, and Lin is a timely addition to the literature. Hurricanes have a fiscal cost, and that cost is greater in communities with larger minority populations. Perhaps (sadly) not a surprising finding; however, it points to which municipalities need greater fiscal support in the wake of a hurricane. 
+
+### [Suburbs, Inc.: Exploring Municipal Incorporation as a Mechanism of Racial and Economic Exclusion in Suburban Communities](https://doi.org/10.7758/RSF.2023.9.2.10)
+
+Wyndham-Douds, *RSF: The Russell Sage Foundation Journal of the Social Sciences*
+
+> This article provides suburban scholars with a starting point for considering how municipal incorporation contributes to suburban inequality. I conduct an exploratory empirical analysis of incorporation in 2010 and find that incorporated suburbs are less racially diverse, Whiter, and have smaller shares of Black, Latinx, and Native American residents than unincorporated suburbs, suggesting that incorporation and its related municipal powers enable greater racial exclusion than strategies available to unincorporated suburbs. However, incorporated suburbs vary, and racial exclusion is most apparent in suburbs incorporated during and after the postwar suburban boom. Further, recently incorporated suburbs are more economically exclusive than unincorporated suburbs. I end by calling for greater integration of incorporation into suburban inequality research.
+
+In my opinion, municipal incorporation is understudied. There are data reasons for this; however, it is an important topic. This piece examines how incorporation is used to exclude minorities from suburban communities. Again, perhaps an unsurprising finding, but one that is important to document. This particular paper spurred me to push forward [my own data collection on municipal incorporation](https://github.com/cbgoodman/muni-incorporation). I hope to get that paper finished in 2024.
+
+And that's it! Imperfect, incomplete, but the handful of paper I found interesting or useful published in 2023. 
