@@ -14,7 +14,7 @@ author:
         literal: Suzanne M. Leland
       url: https://pages.charlotte.edu/suzanne-leland/
       affiliation: University of North Carolina at Charlotte
-date: "2023-04-19"
+date: "2024-01-24"
 pub-info:
   reference: >-
     <strong>Christopher B. Goodman</strong> and <a href="https://pages.charlotte.edu/suzanne-leland/">Suzanne M. Leland</a>. “What Lies Beneath These Creatures of the State: Understanding the Death of Specialised Governments in the U.S”
@@ -35,4 +35,4 @@ google-scholar: true
 ---
 
 ### Abstract
-After analysing 35 years of census data on U.S. local government change, this study finds that the dissolution of special districts (specialised governments) or “exits” in U.S. counties are largely unrelated to demand factors. Using fixed effects regression specified at the all-county and urban county levels, we find that restrictions on the fiscal autonomy of cities are associated with decreases in the special district exit rate. There is also evidence that state grants of “broad” or “limited” functional home rule to cities increase special district dissolutions. These results appear to be driven by highly asset-specific functions. The findings are consistent with the circumvention argument made in the local autonomy literature and may indicate some service consolidation, albeit from a different perspective.
+After analysing 40 years of census data on U.S. local government change, this study finds that the dissolution of special districts (specialised governments) or “exits” in U.S. counties are largely unrelated to demand factors. Using fixed effects regression specified at the urban county level, we find that restrictions on the fiscal autonomy of cities are associated with decreases in the special district exit rate and count. There is also evidence that state grants of “broad” or “limited” functional home rule to cities increase special district dissolutions. These results appear to be driven by highly asset-specific functions such as utilities or transportation infrastructure. The findings are consistent with the circumvention argument made in the local autonomy literature and may indicate some service consolidation, albeit from a different perspective.
