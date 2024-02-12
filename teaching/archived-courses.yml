@@ -2,6 +2,7 @@
   description: "Focus on public service performance and management, adding more skills-based practices of data analysis. Studies the basic theory, techniques, and practice of data collection and analysis so that information can be used to inform management decisions. Examination of generating research questions by identifying knowledge gaps in the organization. Data analysis methods include quantitative techniques (descriptive and inferential statistics, hypothesis testing) and qualitative techniques (focus groups, content analysis, observational data). Results are interpreted and presented."
   university: Northern Illinois University
   number: PSPA 608
+  #url: "https://pspa608.cgoodman.com"
   semester:
   - name: Fall 2022 (asynchronous online)
     url: "/files/teaching/goodman-pspa608-22f.pdf" 
@@ -12,6 +13,7 @@
   description: "Theory and practice of budgetary processes, analyses, and presentations in public and nonprofit organizations."
   university: Northern Illinois University
   number: PSPA 610
+  #url: "https://pspa610.cgoodman.com"
   semester:
   - name: Fall 2021
     url: "/files/teaching/goodman-pspa610-21f.pdf"
@@ -20,6 +22,7 @@
   description: "Theories and practices of public sector revenues. Topics include efficiency and equity considerations, alternative revenue generation, financial analysis, and tax and revenue administration."
   university: Northern Illinois University
   number: PSPA 611
+  url: "https://pspa611.cgoodman.com"
   semester:
   - name: Summer 2023 (asynchronous online)
     url: "/files/teaching/goodman-pspa611-23sum.pdf"
@@ -49,6 +52,7 @@
   description: "Introduction to the tools, institutions, analytical techniques, financing instruments, and policy issues relevant to economic development policy at the state, local, and regional level."
   university: Northern Illinois University
   number: PSPA 635
+  #url: "https://pspa635.cgoodman.com"
   semester:
   - name: Summer 2022
     url: "/files/teaching/goodman-pspa635-22sum.pdf"
