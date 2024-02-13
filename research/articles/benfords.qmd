@@ -27,6 +27,9 @@ pub-info:
     - name: Final version
       url: https://doi.org/10.37808/paq.45.2.4
       icon: fa-solid fa-arrow-up-right-from-square
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.37808/paq.45.2.4
+      icon: ai ai-zotero-square
 categories:
     - Benfords law
     - Financial management
