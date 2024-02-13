@@ -1,0 +1,12 @@
+{
+  "hash": "53ccf3ba0ab9dfdc8798ed2ccdaf278c",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\npagetitle: \"Blog | Christopher B. Goodman\"\nauthor: \"\"\nsidebar: false\npage-layout: full\nlisting:\n  - id: posts\n    contents: \"*/*.qmd\"\n    sort: \"date desc\"\n    template: ../html/blog/listing.ejs\n    categories: true\n    page-size: 5\n#toc-title: Year\ntoc-location: right\ndate-format: \"MMMM D, YYYY\"\ncode-tools: false\ncomments: false\n---\n\n```{css, echo=FALSE}\n#title-block-header .description {\n    display: none;\n}\n```\n\n\n:::{#posts}\n:::\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

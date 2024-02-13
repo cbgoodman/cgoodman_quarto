@@ -1,5 +1,6 @@
 ---
 pagetitle: "Blog | Christopher B. Goodman"
+author: ""
 sidebar: false
 page-layout: full
 listing:
