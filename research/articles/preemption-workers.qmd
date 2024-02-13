@@ -27,6 +27,9 @@ pub-info:
     - name: Final version
       url: https://doi.org/10.1093/publius/pjad023
       icon: fa-solid fa-arrow-up-right-from-square
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1093/publius/pjad023
+      icon: ai ai-zotero-square
 categories:
     - Preemption
     - Labor policy

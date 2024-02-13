@@ -34,6 +34,9 @@ pub-info:
     - name: Final version
       url: https://doi.org/10.1093/ppmgov/gvaa018
       icon: fa-solid fa-arrow-up-right-from-square
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1093/ppmgov/gvaa018
+      icon: ai ai-zotero-square
 categories:
     - Preemption
     - Intergovernmental affairs

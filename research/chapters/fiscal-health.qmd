@@ -19,6 +19,10 @@ date: 2013-01-01
 pub-info:
   reference: >-
     Deborah A. Carroll and <strong>Christopher B. Goodman</strong>. (2012). "Understanding and Measuring Elasticity, Volatility, and Implications for Local Government Fiscal Health." In <em>Handbook of Local Government Fiscal Health</em>, edited by Jonathan B. Justice, Helisse Levine, and Eric Scorsone. Sudbury, MA: Jones and Bartlett, Inc. 
+  links:
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=isbn&q=9780763792305
+      icon: ai ai-zotero-square
 categories:
     - Fiscal health
 citation:

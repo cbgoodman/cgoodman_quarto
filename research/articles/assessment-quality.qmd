@@ -27,6 +27,9 @@ pub-info:
     - name: Final version
       url: https://doi.org/10.1111/j.1540-5850.2011.00975.x
       icon: fa-solid fa-arrow-up-right-from-square
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1111/j.1540-5850.2011.00975.x
+      icon: ai ai-zotero-square
 categories:
     - Property tax
     - Assessment quality
