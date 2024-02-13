@@ -11,8 +11,7 @@ project:
     watch-inputs: true
     navigate: true
 
-execute:
-  freeze: auto
+freeze: true
 
 #bibliography: files/bib/references.bib
 #csl: files/bib/chicago-fullnote-bibliography-no-bib.csl
