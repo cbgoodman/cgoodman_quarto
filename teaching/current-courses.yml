@@ -22,6 +22,7 @@
   description: "Administration of local government services in urban and metropolitan areas. Analysis of particular problems faced by local governments in the performance of line and staff functions."
   university: Northern Illinois University
   number: PSPA 632
-  #url: "https://pspa632.cgoodman.com"
+  url: "https://pspa632.cgoodman.com"
   semester:
   - name: Spring 2024
+    url: "/files/teaching/goodman-pspa632-24spr.pdf"
