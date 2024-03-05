@@ -1,0 +1,19 @@
+---
+title: "Per Capita Independent Special Districts, 2017"
+date: "2020-06-16"
+image: totspdistdpc-cog-17.png
+categories: 
+    - dataviz
+    - maps 
+    - local govt
+---
+&nbsp;
+
+::: {.column-page}
+
+![Independent special districts per capita by county from the 2017 Census of Government.](totspdistdpc-cog-17.png){fig-align="center"}
+
+:::
+
+
+

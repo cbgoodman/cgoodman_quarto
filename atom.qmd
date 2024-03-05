@@ -1,0 +1,15 @@
+---
+title: "Christopher Goodman's blog"
+search: false
+listing:
+  sort: "date desc"
+  feed: 
+    title: "Christopher Goodmans's blog"
+    description: "Christopher Goodman's blog"
+    items: 20
+    type: full
+    language: en
+  contents:
+    - "blog/**/index.qmd"
+    - "!blog/index.qmd"
+---

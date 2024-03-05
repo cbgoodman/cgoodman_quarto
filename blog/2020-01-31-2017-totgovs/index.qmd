@@ -1,0 +1,18 @@
+---
+title: "Total Local Governments, 2017"
+date: "2020-01-31"
+image: totgov-cog-17.png
+categories: 
+    - dataviz 
+    - maps 
+    - local govt
+---
+
+::: {.column-page}
+
+&nbsp;
+![Absolute number of local governments by county from the 2017 Census of Government.](totgov-cog-17.png){fig-align="center"}
+
+:::
+
+

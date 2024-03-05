@@ -1,0 +1,16 @@
+---
+title: "Per Capita Local Governments, 2017"
+date: "2020-05-07"
+image: totgovpc-cog-17-decile.png
+categories: 
+    - dataviz
+    - maps 
+    - local govt
+---
+&nbsp;
+
+::: {.column-page}
+
+![Local governments per capita by county from the 2017 Census of Government.](totgovpc-cog-17-decile.png){fig-align="center"}
+
+:::

@@ -1,0 +1,16 @@
+---
+title: "Per Capita General-Purpose Local Governments, 2017"
+date: "2020-05-16"
+image: totgenpurposepc-cog-17.png
+categories: 
+    - dataviz
+    - maps 
+    - local govt
+---
+&nbsp;
+
+::: {.column-page}
+
+![General purpose local governments per capita by county from the 2017 Census of Government.](totgenpurposepc-cog-17.png){fig-align="center"}
+
+:::
