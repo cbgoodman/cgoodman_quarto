@@ -1,0 +1,30 @@
+---
+title: "Where are all of our students?"
+date: "2024-03-07"
+image: mpampp.png
+description: "No, you're not crazy for asking where all the students have gone."
+categories:
+    - dataviz
+    - teaching
+format:
+  html: 
+    fig-cap-location: margin
+---
+
+Whenever I talk with public affairs faculty about student enrollment, I always hear some version of the same question: "Where are all of our students?" The general consensus is that COVID broke our typical recruiting pipelines; therefore, we have fewer students to market a public affairs degree to, leading to lower enrollments/completions. These conversations are anecdotal, but it's clear that something more systematic is going on. Some programs are growing graduates significantly, but what is the overall trend?
+
+![Source: [IPEDS Data Center](https://nces.ed.gov/ipeds/use-the-data)](mpampp.png){fig-align="center"}
+
+Off to IPEDS. Above is the number of degree completions for CIP codes 44.04 and 44.05 (Public Administration and Public Policy Analysis) for graduate students from 1987 to 2022. Two things jump out immediately: 1) MPP completions have had slow but steady growth and relative stagnation in the last five years, and 2) MPA completions had a big boom in the slightly post-Great Recession era but have been steadily declining since 2014. To the latter point, MPA completions are just over 10% lower in 2022 than in 2014, putting the number of completions roughly on par with 2010 levels. 
+
+Naturally, one might wonder whether the growth in MPP programs has eaten MPA program's lunch. In general, no. The relative lull in public affairs completions has affected both degree programs; however, MPP programs have had more "wins" recently with increases in completions (from a relatively smaller base).
+
+![Source: [IPEDS Data Center](https://nces.ed.gov/ipeds/use-the-data)](mpamppdiff.png){fig-align="center"}
+
+The point of my post is not to speculate on the causes of this retraction. I am sure there are many location- or program-specific reasons; however, they add up to a shrinking public affairs graduate pool when the public sector needs more talent than ever. [The Silver Tsunami](https://www.governing.com/archive/gov-governments-silver-tsunami.html) has been coming for some time, and the lack of hiring, post-Great Recession (see below, roughly mid-2008 to 2014)[^1] has led to depleted public sector talent pools. Only now, we cannot provide employers with the trained talent to refill their ranks. 
+
+![Source: [Bureau of Labor Statistics](https://www.bls.gov/)](index-locgov-ces.png){fig-align="center"}
+
+I don't know what the solution is, but I do know that we need to think about it. I suspect it involves collaborating across programs and institutions to create a more robust pipeline of students. That's difficult because we all compete for similar students, but this seems like a "rising tide lifts all boats" situation.
+
+[^1]: Something a guest speaker pointed out in my class last night. The combination of retirements plus a depleted pool of assistants is a big problem (and an opportunity for speedy career growth for new MPAs).
