@@ -21,5 +21,6 @@ format:
 # Default author
 author:
   - name: Christopher B. Goodman
+    affliation: "Northern Illinois University"
     url: https://www.cgoodman.com
     orcid: 0000-0002-8565-9714
