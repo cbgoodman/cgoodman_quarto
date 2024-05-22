@@ -24,6 +24,10 @@
   number: PSPA 611
   url: "https://pspa611.cgoodman.com"
   semester:
+  - name: Fall 2023
+    url: "/files/teaching/goodman-pspa611-23f-1.pdf"
+  - name: Fall 2023 (asynchronous online)
+    url: "/files/teaching/goodman-pspa611-23f-2.pdf"
   - name: Summer 2023 (asynchronous online)
     url: "/files/teaching/goodman-pspa611-23sum.pdf"
   - name: Spring 2023 (asynchronous online)
@@ -47,6 +51,24 @@
     url: "/files/teaching/goodman-pspa611-20spr-1.pdf"
   - name: Fall 2019
     url: "/files/teaching/goodman-pspa611-19f.pdf"
+
+- title: Local & Metropolitan Government
+  description: "Discussion of the operational and administrative aspects of local and metropolitan government in the United States, including design and structure, municipal law, finance, administrative organization, local political systems, and intergovernmental relations."
+  university: Northern Illinois University
+  number: PSPA 630
+  url: "https://pspa630.cgoodman.com"
+  semester:
+  - name: Spring 2024 (asynchronous online)
+    url: "/files/teaching/goodman-pspa630-24spr.pdf"
+
+- title: Local Government Administration
+  description: "Administration of local government services in urban and metropolitan areas. Analysis of particular problems faced by local governments in the performance of line and staff functions."
+  university: Northern Illinois University
+  number: PSPA 632
+  url: "https://pspa632.cgoodman.com"
+  semester:
+  - name: Spring 2024
+    url: "/files/teaching/goodman-pspa632-24spr.pdf"
 
 - title: Local Economic Development
   description: "Introduction to the tools, institutions, analytical techniques, financing instruments, and policy issues relevant to economic development policy at the state, local, and regional level."
