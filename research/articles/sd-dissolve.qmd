@@ -17,9 +17,9 @@ author:
 date: "2024-01-24"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong> and <a href="https://pages.charlotte.edu/suzanne-leland/">Suzanne M. Leland</a>. “What Lies Beneath These Creatures of the State: Understanding the Death of Specialised Governments in the U.S”
+    <strong>Christopher B. Goodman</strong> and <a href="https://pages.charlotte.edu/suzanne-leland/">Suzanne M. Leland</a>. (<em>Forthcoming</em>) “What Lies Beneath These Creatures of the State: Understanding the Death of Specialised Governments in the U.S” <em>Local Government Studies</em>.
   links:
-    - name: PDF
+    - name: Preprint
       url: "../../files/papers/sd-dissolve.pdf"
       icon: fa-solid fa-file-pdf
       local: true
@@ -30,7 +30,13 @@ categories:
 citation:
   type: article
   title: "What lies beneath these creatures of the state: understanding the death of specialised governments in the U.S"
-  url: https://www.cgoodman.com/research/working-papers/sd-dissolve
+  container-title: "Local Government Studies"
+  issued: 2024-05-21
+  #volume: 60
+  #issue: 6
+  #page-first: 1048
+  #page-last: 1065
+  url: https://www.cgoodman.com/research/articles/sd-dissolve
 google-scholar: true
 ---
 
