@@ -23,20 +23,27 @@ pub-info:
       url: "../../files/papers/sd-dissolve.pdf"
       icon: fa-solid fa-file-pdf
       local: true
+    - name: Final version
+      url: https://doi.org/10.1080/03003930.2024.2360559
+      icon: fa-solid fa-arrow-up-right-from-square
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.1080/03003930.2024.2360559
+      icon: ai ai-zotero-square
 categories:
     - Special districts
     - Dissolution
     - Intergovernmental affairs
+doi: 10.1080/03003930.2024.2360559
 citation:
-  type: article
+  type: article-journal
   title: "What lies beneath these creatures of the state: understanding the death of specialised governments in the U.S"
   container-title: "Local Government Studies"
-  issued: 2024-05-21
+  issued: 2024-05-28
   #volume: 60
   #issue: 6
   #page-first: 1048
   #page-last: 1065
-  url: https://www.cgoodman.com/research/articles/sd-dissolve
+  url: https://doi.org/10.1080/03003930.2024.2360559
 google-scholar: true
 ---
 
