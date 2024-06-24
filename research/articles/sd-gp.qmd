@@ -15,10 +15,10 @@ author:
       url: https://gfrc.uic.edu/profiles/carroll-deborah/
       orcid: 0000-0002-3202-7019
       affiliation: University of Illinois at Chicago
-date: "2023-12-31"
+date: "2024-06-24"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong> and <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a>. (<em>Forthcoming</em>) “Are Special Districts Strategic Complements or Strategic Substitutes?” <em>Public Administration Review</em>, doi: <a href="https://doi.org/10.1111/puar.13672" target="_blank" rel="noopener noreferrer"><code>10.1111/puar.13672</code></a>
+    <strong>Christopher B. Goodman</strong> and <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a>. (2024) “Are Special Districts Strategic Complements or Strategic Substitutes?” <em>Public Administration Review</em> 84 (4): 623--636, doi: <a href="https://doi.org/10.1111/puar.13672" target="_blank" rel="noopener noreferrer"><code>10.1111/puar.13672</code></a>
   links:
     - name: Preprint
       url: "../../files/papers/sd-gp.pdf"
@@ -39,11 +39,11 @@ citation:
   type: article-journal
   title: "Are special districts strategic complements or strategic substitutes?"
   container-title: "Public Administration Review"
-  issued: 2023-05-31
-  #volume: 60
-  #issue: 6
-  #page-first: 1048
-  #page-last: 1065
+  issued: 2024-06-24
+  volume: 84
+  issue: 4
+  page-first: 623
+  page-last: 636
   url: https://onlinelibrary.wiley.com/doi/10.1111/puar.13672
 google-scholar: true
 ---
