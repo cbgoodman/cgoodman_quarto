@@ -69,6 +69,9 @@ website:
       - text: "{{< iconify simple-icons linkedin size=1.1em title='LinkedIn' >}}"
         href: https://www.linkedin.com/in/cbgoodman/
         rel: me
+      - text: "{{< iconify simple-icons rss size=1.0em title='RSS' >}}"
+        href: https://www.cgoodman.com/feed.xml
+        rel: me
     left:
       - href: cv.qmd
         text: "Bio & CV"
