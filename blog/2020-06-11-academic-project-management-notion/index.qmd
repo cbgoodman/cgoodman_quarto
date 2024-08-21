@@ -9,7 +9,7 @@ categories:
 
 ::: {.callout-warning}
 ## Disclaimer
-There's a significant update to this post. See [here](blog/2021-07-14-academic-project-management-notion-update/).
+There's a significant update to this post. See [here](../2021-07-14-academic-project-management-notion-update/).
 :::
 
 ### What I want from platform
