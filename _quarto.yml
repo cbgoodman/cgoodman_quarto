@@ -163,8 +163,10 @@ format:
       light:
         - cosmo
         - html/style.scss
-      dark:
-        - html/style-dark.scss
+      #dark:
+      #  - html/style-dark.scss
+    grid: 
+      body-width: 900px
     highlight-style: github
     code-overflow: wrap
     code-block-bg: false

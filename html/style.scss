@@ -30,7 +30,7 @@ $font-family-code:            "Fira Code", monospace;
 
 $toc-font-family:             system-ui, -apple-system, BlinkMacSystemFont, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
 $toc-color:                   $blue;
-$toc-font-size:               0.8em;
+$toc-font-size:               .9em;
 
 $headings-font-family:        system-ui, -apple-system, BlinkMacSystemFont, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
 $headings-font-weight:        700 !default;
@@ -149,13 +149,13 @@ pre.text, pre.sourceCode, .cell-output pre {
         font-family: $toc-font-family;
         margin-left: 0.5em;
         font-style: normal;
-        font-size: 0.8em;
+        font-size: 0.9em;
     }
 
     .quarto-listing-category {
         font-family: $toc-font-family;
         font-weight: 300;
-        font-size: 0.8em;
+        font-size: 0.9em;
         line-height: 1.1;
         padding-left: 0.6rem;
         margin-left: 0.5em;
@@ -173,7 +173,7 @@ pre.text, pre.sourceCode, .cell-output pre {
         .quarto-category-count {
             font-weight: 200;
             font-size: 0.8em;
-            color: $gray-600;
+            color: $gray-700;
         }
     }
 }
@@ -495,7 +495,7 @@ pre.text, pre.sourceCode, .cell-output pre {
 
         .continue-reading a:hover {
             text-decoration: none;
-            border-bottom:1px dotted
+            border-bottom:2px solid
         }
 
         .date {
