@@ -6,6 +6,7 @@ title-block-banner: "#3D5266"
 
 # Default for table of contents
 sidebar: false
+sidebar-border: false
 toc: true
 toc-title: Contents
 toc-location: left
