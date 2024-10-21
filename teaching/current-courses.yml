@@ -5,7 +5,9 @@
   url: "https://pspa611.cgoodman.com"
   semester:
   - name: Fall 2024
+    url: "/files/teaching/goodman-pspa611-24f-1.pdf"
   - name: Fall 2024 (asynchronous online)
+    url: "/files/teaching/goodman-pspa611-24f-2.pdf"
 
 - title: Local Economic Development
   description: "Introduction to the tools, institutions, analytical techniques, financing instruments, and policy issues relevant to economic development policy at the state, local, and regional level."
