@@ -1,0 +1,72 @@
+---
+title: "Key light shenanigans"
+date: "2024-11-08"
+#image: mpampp.png
+description: "I have a niche problem. I have a key light in my office that I want to control via a macOS shortcut rather than the light's app. It turns out that's easy but also not easy."
+image: shortcuts.jpg
+categories:
+    - technology
+format:
+  html: 
+    fig-cap-location: margin
+---
+
+I bought a [Logitech Litra Glow](https://www.logitech.com/en-us/products/lighting/litra-glow.946-000001.html) key light for my home office during Amazon's summer sale. I was previously using an upturned desk light bounced off the wall, so this is a great upgrade. However, Logitech's software isn't great. I suffer it for my mouse (it's mostly set and forget), but it's rather annoying to use for a light that's constantly going on and off. I want to control the light via a macOS shortcut and run it from [Alfred](https://www.alfredapp.com). I thought that would be easy. It wasn't.[^1]
+
+[^1]: Huge shoutout to [Paul Hubbard](https://ultracrepidarian.phfactor.net/2022/03/09/controlling-the-logitech-litra-on-macos/). This post started the whole process for me (via [Luke Stein](https://www.lukestein.com)); however, it's a bit fiddly and doesn't include all the functionality I wanted. If you just want to turn the light on and off, follow Paul's instructions.
+
+## tl;dr
+Use the [Litra driver app](https://github.com/kharyam/go-litra-driver). It's now cross-platform (re-written in Go) and you can use it via a small app (or the command line).
+
+## Full implementation
+Prereqs: install the [Litra driver app](https://github.com/kharyam/go-litra-driver). Download it from GitHub and unzip. If you want to only use the CLI tools, copy the `lcli` binary to `/usr/local/bin`. If you want to use the app, copy the `Litra Driver.app` to your Applications folder.
+
+* If you only want to use the app, you can stop here. If you want to use the command line or Shortcuts, continue.
+
+If you want to build a shortcut for using this light, we need to the command line. The `go-litra-driver` library has a bunch of helpful commands. This (copied from the GitHub repo) is the list of commands:
+
+```
+This command line interface allows you to control a litra Glow or Beam 
+device using the commands described below.
+
+Usage:
+  lcli [command]
+
+Available Commands:
+  bright      Sets the brightness level (0-100)
+  brightdown  Decrements the brightness by the amount specified
+  brightup    Increments the brightness by the amount specified
+  completion  Generate the autocompletion script for the specified shell
+  help        Help about any command
+  off         Turn lights off
+  on          Turn lights on
+  temp        Sets the temperature of the lights (2700-6500)
+  tempdown    Decrements the temperature by the amount specified
+  tempup      Increments the temperature by the amount specified
+
+Flags:
+  -h, --help     help for lcli
+  -t, --toggle   Help message for toggle
+
+Use "lcli [command] --help" for more information about a command.
+```
+
+We want the `on`, `off`, `brightup`, `brightdown`, `tempup`, and `tempdown` commands. These get used by Apple Shortcuts to run via a shell script. At the most basic level, we want to turn the light on. That's relatively simple: `lcli on`. However, the light remembers previous settings, so if you want the same setting every time you turn on the light (and I do), we need to set a few defaults. I like the light at 35% brightness (`lcli bright 35`) and 5000K (`lcli temp 5000`). So, the shortcut looks like the following: 
+
+:::{.column-body-outset}
+![](light-on-shortcut.jpg)
+:::
+
+I append the command with `> /dev/null 2>&1` to suppress the default output. This is because the Alfred workflow I use to run Shortcuts will always print shell script output to the screen. That's annoying and I want it to go away.
+
+Things get a bit more complicated if you want to increase/decrease the brightness or temperature. We need to pass an argument to the `lcli` command. That requires the "Ask for Input" action in Shortcuts, and we pass that input to the shell script as an argument. So, the shortcut pops up a dialog box asking you "Increase brightness by what percentage?" and an input box for a number. `brightup` and `brightdown` increase or decrease the brightness by percentage points (in whole numbers). `tempup` and `tempdown` increase or decrease the temperature by K.
+
+:::{.column-body-outset}
+![](bright-up-shortcut.jpg)
+:::
+
+All the up/down shortcuts are the same, just with different commands.
+
+I have a few other shortcuts that invoke a specific brightness or temperature (Dim is a low, warm light). These are just iterations on the above method.
+
+Et voila! We can now control a Logitech Litra Glow (or Beam, the process is identical) via the macOS Shortcuts app. 

@@ -1,0 +1,39 @@
+---
+title: "Budgetary Punctuations and Overlapping Governments"
+author: 
+    - name: 
+        given: Christopher B.
+        family: Goodman
+        literal: Christopher B. Goodman
+      url: https://www.cgoodman.com
+      orcid: 0000-0002-8565-9714
+      affiliation: Northern Illinois University
+    - name:
+        given: Carla
+        family: Flink
+        literal: Carla Flink
+      url: https://sc.edu/study/colleges_schools/artsandsciences/political_science/our_people/directory/flink_carla.php
+      orcid: 0000-0002-4545-2487
+      affiliation: University of South Carolina
+date: "2024-10-21"
+pub-info:
+  reference: >-
+    <strong>Christopher B. Goodman</strong> and Carla Flink. “Budgetary Punctuations and Overlapping Governments”
+  #links:
+  #  - name: PDF
+  #    url: "../../files/papers/sd-io.pdf"
+  #    icon: fa-solid fa-file-pdf
+  #    local: true
+categories:
+    - Special districts
+    - Punctuated Equilibrium Theory
+citation:
+  type: article
+  title: "Budgetary Punctuations and Overlapping Governments"
+  url: https://www.cgoodman.com/research/working-papers/pet-overlap
+google-scholar: true
+draft: true
+---
+
+### Abstract
+Punctuated Equilibrium Theory (PET) examines the pattern of change in the policy process. It posits that policy changes are mostly incremental. However, extremely large punctuated changes are also likely to occur. This switch of small and large changes is the defining characteristic within the PET literature. PET examines how institutional structures and organizational factors can impede the information flows, thus slowing policy change. When change does occur, it over-reacts (punctuation) after years of under-reacting (incremental). Scholars have attributed this pattern to disproportionate information processing, institutional friction, organizational performance, federalism, political systems, and other factors. What remains relatively understudied in the PET literature is how friction and information processing can be affected by factors not just within a single government, but by the presence of multiple governments in an area. Across the US, there has been an increase in the number of local governments and special districts. With more governments, come more actors and more information to process. The single purpose districts must know their policy space and constituents, but also the work of the other governments and districts. This can potentially increase friction and miscommunications in the policy system. We posit that increased government overlap will lead to increased budgetary volatility. 

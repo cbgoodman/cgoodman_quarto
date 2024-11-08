@@ -1,0 +1,34 @@
+---
+title: "A Public Service Industry Approach to Studying Urban and Suburban Governments"
+author: 
+    - name: 
+        given: Christopher B.
+        family: Goodman
+        literal: Christopher B. Goodman
+      url: https://www.cgoodman.com
+      orcid: 0000-0002-8565-9714
+      affiliation: Northern Illinois University
+date: "2024-10-21"
+pub-info:
+  reference: >-
+    <strong>Christopher B. Goodman</strong>. "A Public Service Industry Approach to Studying Urban and Suburban Governments”
+  #links:
+  #  - name: PDF
+  #    url: "../../files/papers/sd-io.pdf"
+  #    icon: fa-solid fa-file-pdf
+  #    local: true
+categories:
+    - Special districts
+    - Intergovernmental affairs
+citation:
+  type: article
+  title: "A Public Service Industry Approach to Studying Urban and Suburban Governments"
+  url: https://www.cgoodman.com/research/working-papers/public-service-industries
+google-scholar: true
+draft: true
+---
+
+### Abstract
+Traditional local government in the U.S. is complex regardless of where they fall in the metropolis. The average urban or urban adjacent municipality is more akin to a large holding company, providing numerous differentiated public services to consumers. As such, they do not provide units of public service in an aggregate sense but rather individual units of police protection, fire protection, roads, schooling, etc.  Viewing municipal government in this manner sheds a different light on the potential (or lack thereof) for a “fragmented metropolis.” It has implications for how we, as scholars, view other local government actors, such as special districts.
+
+At a “public service industry” level, municipalities can choose to make or buy certain public services, potentially leading to many consumers (from a municipal perspective) and producers for any single service. At first glance, this system may appear chaotic; however, is there calm at the industry level? This paper proposes to examine DuPage County, IL, a first-ring suburban county in the Chicago metropolitan region, as an initial case study. The answer to the above question is sought through a series of geographic and statistical analyses examining public service provision at the industry level. The number of consumers and producers of different public services is expected to vary by industry. These results will have implications for state and regional policymakers who may seek to reorganize the government structure of the metropolis. 

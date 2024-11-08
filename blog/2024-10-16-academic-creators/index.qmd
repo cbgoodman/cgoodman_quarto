@@ -1,0 +1,12 @@
+---
+title: "Academics as Creators"
+date: "2024-10-16"
+#image: mpampp.png
+description: "For many academics, 40%+ of their time is spent on activities that can fall into the category of 'creating'. With this in mind, what do academics need to be successful creators? How can departments and universities better support them in this role?"
+categories:
+    - academia
+format:
+  html: 
+    fig-cap-location: margin
+draft: true
+---
