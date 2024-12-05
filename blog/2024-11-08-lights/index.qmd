@@ -17,7 +17,7 @@ I bought a [Logitech Litra Glow](https://www.logitech.com/en-us/products/lightin
 [^1]: Huge shoutout to [Paul Hubbard](https://ultracrepidarian.phfactor.net/2022/03/09/controlling-the-logitech-litra-on-macos/). This post started the whole process for me (via [Luke Stein](https://www.lukestein.com)); however, it's a bit fiddly and doesn't include all the functionality I wanted. If you just want to turn the light on and off, follow Paul's instructions.
 
 ::: {.callout-tip title="Update!"}
-In the interim month since I originally wrote this post, a new entry into the app space has appeared. Tim Roger's [`litra-rs`](https://github.com/timrogers/litra-rs) project has popped up. It does everything I need and is quite a bit simplier to implement in a shortcut. The same process applies as below but with the new package and commands. There's even a separate [auto-toggle app](https://github.com/timrogers/litra-autotoggle) that will turn on the light when your webcame is active.
+In the interim month since I originally wrote this post, a new entry into the app space has appeared. Tim Rogers' [`litra-rs`](https://github.com/timrogers/litra-rs) project has popped up. It does everything I need and is quite a bit simplier to implement in a shortcut. The same process applies as below but with the new package and commands. There's even a separate [auto-toggle app](https://github.com/timrogers/litra-autotoggle) that will turn on the light when your webcame is active.
 
 ```
 Control your USB-connected Logitech Litra lights from the command line
