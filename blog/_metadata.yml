@@ -12,6 +12,10 @@ toc-title: Contents
 toc-location: left
 toc-depth: 4
 
+# Change the last-modified title
+language:
+  title-block-modified: "Updated"
+
 # Add blog-post class to the banner header area
 format: 
   html:
