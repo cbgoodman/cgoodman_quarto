@@ -1,6 +1,7 @@
 ---
 title: "Key light shenanigans"
 date: "2024-11-08"
+date-modified: "2024-12-05"
 #image: mpampp.png
 description: "I have a niche problem. I have a key light in my office that I want to control via a macOS shortcut rather than the light's app. It turns out that's easy but also not easy."
 image: shortcuts.jpg
@@ -14,6 +15,33 @@ format:
 I bought a [Logitech Litra Glow](https://www.logitech.com/en-us/products/lighting/litra-glow.946-000001.html) key light for my home office during Amazon's summer sale. I was previously using an upturned desk light bounced off the wall, so this is a great upgrade. However, Logitech's software isn't great. I suffer it for my mouse (it's mostly set and forget), but it's rather annoying to use for a light that's constantly going on and off. I want to control the light via a macOS shortcut and run it from [Alfred](https://www.alfredapp.com). I thought that would be easy. It wasn't.[^1]
 
 [^1]: Huge shoutout to [Paul Hubbard](https://ultracrepidarian.phfactor.net/2022/03/09/controlling-the-logitech-litra-on-macos/). This post started the whole process for me (via [Luke Stein](https://www.lukestein.com)); however, it's a bit fiddly and doesn't include all the functionality I wanted. If you just want to turn the light on and off, follow Paul's instructions.
+
+::: {.callout-tip title="Update!"}
+In the interim month since I originally wrote this post, a new entry into the app space has appeared. Tim Roger's [`litra-rs`](https://github.com/timrogers/litra-rs) project has popped up. It does everything I need and is quite a bit simplier to implement in a shortcut. The same process applies as below but with the new package and commands. There's even a separate [auto-toggle app](https://github.com/timrogers/litra-autotoggle) that will turn on the light when your webcame is active.
+
+```
+Control your USB-connected Logitech Litra lights from the command line
+
+Usage: litra <COMMAND>
+
+Commands:
+  on                Turn your Logitech Litra device on
+  off               Turn your Logitech Litra device off
+  toggle            Toggles your Logitech Litra device on or off
+  brightness        Sets the brightness of your Logitech Litra device
+  brightness-up     Increases the brightness of your Logitech Litra device. 
+  brightness-down   Decreases the brightness of your Logitech Litra device. 
+  temperature       Sets the temperature of your Logitech Litra device
+  temperature-up    Increases the temperature of your Logitech Litra device. 
+  temperature-down  Decreases the temperature of your Logitech Litra device. 
+  devices           List Logitech Litra devices connected to your computer
+  help              Print this message or the help of the given subcommand(s)
+
+Options:
+  -h, --help     Print help
+  -V, --version  Print version
+```
+:::
 
 ## tl;dr
 Use the [Litra driver app](https://github.com/kharyam/go-litra-driver). It's now cross-platform (re-written in Go) and you can use it via a small app (or the command line).
