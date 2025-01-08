@@ -11,8 +11,10 @@
                 <% } %>
             </p>
             <p class="course-details">
-                <span class="course-number"><%= course.number %></span> | 
-                <span class="course-university"><%= course.university %></span>
+                <% if (course.number) { %>
+                <span class="course-number"><%= course.number %></span> | <% } %> 
+                <% if (course.university) { %>
+                <span class="course-university"><%= course.university %></span> <% } %>
                 <% if (course.role) { %>
                 | <span class="course-role"><%= course.role %></span>
                 <% } %>

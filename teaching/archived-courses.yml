@@ -24,6 +24,10 @@
   number: PSPA 611
   url: "https://pspa611.cgoodman.com"
   semester:
+  - name: Fall 2024
+    url: "/files/teaching/goodman-pspa611-24f-1.pdf"
+  - name: Fall 2024 (asynchronous online)
+    url: "/files/teaching/goodman-pspa611-24f-2.pdf"
   - name: Fall 2023
     url: "/files/teaching/goodman-pspa611-23f-1.pdf"
   - name: Fall 2023 (asynchronous online)
@@ -76,6 +80,8 @@
   number: PSPA 635
   #url: "https://pspa635.cgoodman.com"
   semester:
+  - name: Summer 2024 (asynchronous online)
+    url: "/files/teaching/goodman-pspa635-24sum.pdf"
   - name: Summer 2022
     url: "/files/teaching/goodman-pspa635-22sum.pdf"
     
