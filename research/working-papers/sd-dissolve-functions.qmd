@@ -1,5 +1,5 @@
 ---
-title: "Functional Specialization and Special District Dissolution"
+title: "Creative Destruction? Examining Special District Dissolution by Service Area"
 author: 
     - name: 
         given: Christopher B.
@@ -17,7 +17,7 @@ author:
 date: "2025-01-01"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong> and <a href="https://pages.charlotte.edu/suzanne-leland/">Suzanne M. Leland</a>. "Functional Specialization and Special District Dissolution"
+    <strong>Christopher B. Goodman</strong> and <a href="https://pages.charlotte.edu/suzanne-leland/">Suzanne M. Leland</a>. "Creative Destruction? Examining Special District Dissolution by Service Area."
   #links:
   #  - name: Preprint
   #    url: "../../files/papers/sd-dissolve.pdf"
@@ -45,7 +45,7 @@ citation:
   #page-last: 1065
   #url: https://doi.org/10.1080/03003930.2024.2360559
 google-scholar: true
-draft: true
+draft: false
 ---
 
 ### Abstract

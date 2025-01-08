@@ -2,7 +2,6 @@
 title: "Key light shenanigans"
 date: "2024-11-08"
 date-modified: "2024-12-05"
-#image: mpampp.png
 description: "I have a niche problem. I have a key light in my office that I want to control via a macOS shortcut rather than the light's app. It turns out that's easy but also not easy."
 image: shortcuts.jpg
 categories:
