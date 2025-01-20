@@ -42,5 +42,8 @@ citation:
 google-scholar: true
 ---
 
+### Media Coverage
+- [The structure of US local governments is often a poor predictor of local economic growth](https://blogs.lse.ac.uk/usappblog/2021/11/17/the-structure-of-us-local-governments-is-often-a-poor-predictor-of-local-economic-growth/), *LSE USAPP Blog*, November 17, 2021.
+
 ### Abstract
 This paper analyzes the impact of local political fragmentation on population, employment, and per capita money income growth in 314 U.S. metropolitan areas. The results are mixed. Smaller central cities and more special district overlap are important for population growth. The findings do not generalize to employment or per capita money income growth. These findings mask important regional variation: political fragmentation is largely unrelated to economic growth in Midwestern and Western metropolitan areas. These results partially support the hypothesis that governmental fragmentation can enhance local economic growth; however, the overall impact appears muted relative to a metropolitan area's economic characteristics.  

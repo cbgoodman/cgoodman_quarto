@@ -19,6 +19,8 @@ author:
 pub-info:
   reference: >-
     <strong>Christopher B. Goodman</strong> and <a href="https://facultyprofile.csuohio.edu/csufacultyprofile/detail.cfm?FacultyID=m_e_hatch">Megan E. Hatch</a> (2023). “State Preemption and Affordable Housing Policy,” <em>Urban Studies</em>, 60 (6): 1048-1065, doi: <a href="https://doi.org/10.1177/00420980221135410" target="_blank" rel="noopener noreferrer"><code>10.1177/00420980221135410</code></a>
+  extra: >-
+    Presented at the annual meeting of the [Urban Affairs Association](https://slides.cgoodman.com/presentation/2022-uaa), Washington, DC, April 2022.
   links:
     - name: Preprint
       url: "../../files/papers/preemption-housing.pdf"
@@ -46,6 +48,9 @@ citation:
   url: https://journals.sagepub.com/doi/10.1177/00420980221135410
 google-scholar: true
 ---
+
+### Media Coverage
+- [Conservative states are more likely stop their cities from addressing affordable housing, but renters and federal action can help](https://blogs.lse.ac.uk/usappblog/2023/06/21/conservative-states-are-more-likely-stop-their-cities-from-addressing-affordable-housing-but-renters-and-federal-action-can-help/), *LSE USAPP Blog*, June 21, 2023.
 
 ### Abstract 
 Many affordable housing policies are the domain of local governments. While subnational housing policies can be used to increase racial and economic segregation, they can also protect renters, and thus are not without controversy. Local affordable housing policies include inclusive zoning, rent control, short-term rental regulation, and source of income anti-discrimination. Starting in the 1980s, states began to preempt these local laws, preventing their cities from adopting affordable housing policies. We ask why states choose to preempt one or more of these four affordable housing policies. Using a cross-sectional, time-series dataset of preemptions, we find evidence that more conservative legislatures are more likely to adopt preemptions, while more professional legislatures and states with higher rental rates and previous preemptions are less likely to preempt. Contrary to expectations, interest group density, electoral competition, and policy diffusion are not significant predictors of preemption. For advocates and policymakers concerned with increasing affordable housing in their jurisdictions, these results raise unease about the ability to further an affordable housing agenda at the local level, particularly in more conservative political environments, suggesting instead affordable housing may need to return to the purview of the federal government.
