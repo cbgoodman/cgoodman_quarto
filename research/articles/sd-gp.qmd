@@ -20,7 +20,7 @@ pub-info:
   reference: >-
     <strong>Christopher B. Goodman</strong> and <a href="https://gfrc.uic.edu/profiles/carroll-deborah/">Deborah A. Carroll</a>. (2024) “Are Special Districts Strategic Complements or Strategic Substitutes?” <em>Public Administration Review</em> 84 (4): 623-636, doi: <a href="https://doi.org/10.1111/puar.13672" target="_blank" rel="noopener noreferrer"><code>10.1111/puar.13672</code></a>
   extra: >-
-    Presented at the annual meeting of the [Public Management Research Association](https://slides.cgoodman.com/presentation/2022-pmrc), Phoenix, Arizon, May 2022.
+    Presented at the annual meeting of the [Public Management Research Association](https://slides.cgoodman.com/presentation/2022-pmrc), Phoenix, Arizona, May 2022.
   links:
     - name: Preprint
       url: "../../files/papers/sd-gp.pdf"
