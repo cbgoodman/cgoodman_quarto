@@ -54,14 +54,11 @@ website:
     collapse-below: lg
 
     right: 
-      - text: "{{< iconify simple-icons x size=1.1em title='X' >}}"
-        href: https://twitter.com/cbgoodman
+      - text: "{{< iconify simple-icons bluesky size=1.1em title='Bluesky' >}}"
+        href: https://bsky.app/profile/cbgoodman.co
         rel: me
       - text: "{{< iconify simple-icons mastodon size=1.1em title='Mastodon' >}}"
         href: https://sciences.social/@cbgoodman
-        rel: me
-      - text: "{{< iconify simple-icons bluesky size=1.1em title='Bluesky' >}}"
-        href: https://bsky.app/profile/cbgoodman.bsky.social
         rel: me
       - text: "{{< iconify simple-icons github size=1.1em title='GitHub' >}}"
         href: https://www.github.com/cbgoodman

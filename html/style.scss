@@ -92,6 +92,16 @@ a.badge.badge-red { color: $white;}
     padding-top: 50px;
     background-color: $blue;
 }
+.blockquote {
+    font-weight: 500;
+    font-style: normal;
+    color: #333333;
+    background: #f9fafb;
+    border-left-width: 0.25rem;
+    border-left-color: #e5e7eb;
+    margin-top: 1.6em;
+    margin-bottom: 1.6em;
+}
 
 // Header Stuff
 .navbar a {
