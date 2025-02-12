@@ -11,7 +11,7 @@ author:
 date: "2023-09-01"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong>. (2023). "The Role of Special Districts and Intergovernmental Constraints." In <a href="https://www.e-elgar.com/shop/usd/research-handbook-on-city-and-municipal-finance-9781800372955.html" target="_blank" rel="noopener noreferrer"><em>Research Handbook on City and Municipal Finance</em></a>, edited byCraig L. Johnson, Temirlan T. Moldogaziev, and Justin M. Ross. Cheltenham, UK: Edward Elgar Publishing.
+    <strong>Christopher B. Goodman</strong>. (2023). "The Role of Special Districts and Intergovernmental Constraints." In <a href="https://www.e-elgar.com/shop/usd/research-handbook-on-city-and-municipal-finance-9781800372955.html" target="_blank" rel="noopener noreferrer"><em>Research Handbook on City and Municipal Finance</em></a>, edited by Craig L. Johnson, Temirlan T. Moldogaziev, and Justin M. Ross. Cheltenham, UK: Edward Elgar Publishing.
   links:
     - name: Add to Zotero
       url: https://www.zotero.org/save?type=isbn&q=9781800372955

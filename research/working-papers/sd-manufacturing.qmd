@@ -11,7 +11,9 @@ author:
 date: "2025-02-14"
 pub-info:
   reference: >-
-    <strong>Christopher B. Goodman</strong>. "Demand Shocks & Special Districts: Evidence from Chinese Import Shocks”
+    <strong>Christopher B. Goodman</strong>. "Demand Shocks & Special Districts: Evidence from Chinese Import Shocks,” Working paper.
+  extra: >-
+    Presented at the annual meeting of the [Martin School of Public Policy & Administration](https://slides.cgoodman.com/presentation/2025-uky), Lexington, Kentucky, February 2025.
   #links:
   #  - name: PDF
   #    url: "../../files/papers/sd-io.pdf"
