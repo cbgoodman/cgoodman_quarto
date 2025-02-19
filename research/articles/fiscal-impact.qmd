@@ -24,9 +24,9 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1111/pbaf.12239
       icon: ai ai-zotero-square
 categories:
-    - Sprawl
-    - Expenditures
-    - Fiscal impact
+    - sprawl
+    - expenditures
+    - fiscal impact
 doi: 10.1111/pbaf.12239
 citation:
   type: article-journal

@@ -22,8 +22,8 @@ pub-info:
       url: https://pfm.spaef.org/article/1435/Cost-shocks-and-their-relationship-to-the-creation-consolidation-and-dissolution-of-US-local-governments
       icon: fa-solid fa-arrow-up-right-from-square
 categories:
-    - Special districts
-    - Creation
+    - special districts
+    - creation
 citation:
   type: article-journal
   title: "Cost shocks and their relationship to the creation, consolidation and dissolution of US local governments"

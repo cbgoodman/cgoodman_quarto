@@ -24,8 +24,8 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1111/grow.12261
       icon: ai ai-zotero-square
 categories:
-    - House prices
-    - Property tax
+    - house prices
+    - property tax
 doi: 10.1111/grow.12261
 citation:
   type: article-journal

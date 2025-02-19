@@ -24,10 +24,10 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1080/07352166.2020.1742578
       icon: ai ai-zotero-square
 categories:
-    - Growth 
-    - Decentralization 
-    - Fragmentation
-    - Competition
+    - growth 
+    - decentralization 
+    - fragmentation
+    - competition
 doi: 10.1080/07352166.2020.1742578
 citation:
   type: article-journal

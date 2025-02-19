@@ -31,8 +31,8 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.37808/paq.45.2.4
       icon: ai ai-zotero-square
 categories:
-    - Benfords law
-    - Financial management
+    - benfords law
+    - financial management
 doi: 10.37808/paq.45.2.4
 citation:
   type: article-journal

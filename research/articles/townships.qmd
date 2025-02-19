@@ -34,7 +34,7 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1177/0160323X221124894
       icon: ai ai-zotero-square
 categories:
-    - Townships
+    - townships
 doi: 10.1177/0160323X221124894    
 citation:
   type: article-journal

@@ -33,9 +33,9 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1111/puar.13672
       icon: ai ai-zotero-square
 categories:
-    - Special districts
-    - Public service provision 
-    - Local government
+    - special districts
+    - public service provision 
+    - local government
 doi: 10.1111/puar.13672
 citation:
   type: article-journal

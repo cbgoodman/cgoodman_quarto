@@ -24,7 +24,7 @@ pub-info:
       url: https://www.zotero.org/save?type=isbn&q=9780763792305
       icon: ai ai-zotero-square
 categories:
-    - Fiscal health
+    - fiscal health
 citation:
   type: chapter
   title: "Understanding and measuring elasticity, volatility, and implications for local government fiscal health"

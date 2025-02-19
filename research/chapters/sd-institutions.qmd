@@ -17,8 +17,8 @@ pub-info:
       url: https://www.zotero.org/save?type=isbn&q=9781800372955
       icon: ai ai-zotero-square
 categories:
-    - Special districts
-    - Institutions
+    - special districts
+    - institutions
 citation:
   type: chapter
   title: "The role of special districts and intergovernmental constraints"

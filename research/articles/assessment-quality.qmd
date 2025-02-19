@@ -31,9 +31,9 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1111/j.1540-5850.2011.00975.x
       icon: ai ai-zotero-square
 categories:
-    - Property tax
-    - Assessment quality
-    - Revenue volatility
+    - property tax
+    - assessment quality
+    - revenue volatility
 doi: 10.1111/j.1540-5850.2011.00975.x
 citation:
   type: article-journal

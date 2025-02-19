@@ -20,8 +20,8 @@ pub-info:
   #    icon: fa-solid fa-file-pdf
   #    local: true
 categories:
-    - Special districts
-    - Intergovernmental affairs
+    - special districts
+    - intergovernmental affairs
 citation:
   type: article
   title: "verlapping Jurisdictions and Residential Segregation by Race"

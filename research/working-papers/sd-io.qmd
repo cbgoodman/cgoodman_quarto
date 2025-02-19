@@ -18,9 +18,9 @@ pub-info:
       icon: fa-solid fa-file-pdf
       local: true
 categories:
-    - Special districts
-    - Dissolution
-    - Creation
+    - special districts
+    - creation
+    - dissolution
 citation:
   type: article
   title: "Patterns in special district creation and dissolution"

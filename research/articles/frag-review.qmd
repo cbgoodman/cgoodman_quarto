@@ -24,9 +24,9 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1177/0160323X19856933
       icon: ai ai-zotero-square
 categories:
-    - Decentralization 
-    - Fragmentation
-    - Local government
+    - decentralization 
+    - fragmentation
+    - local government
 doi: 10.1177/0160323X19856933
 citation:
   type: article-journal

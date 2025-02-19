@@ -29,8 +29,8 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1177/0275074018804665
       icon: ai ai-zotero-square
 categories:
-    - Special districts
-    - Creation
+    - special districts
+    - creation
 doi: 10.1177/0275074018804665
 citation:
   type: article-journal

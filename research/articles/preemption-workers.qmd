@@ -31,8 +31,8 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1093/publius/pjad023
       icon: ai ai-zotero-square
 categories:
-    - Preemption
-    - Labor policy
+    - preemption
+    - labor 
 doi: 10.1093/publius/pjad023
 citation:
   type: article-journal

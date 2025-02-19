@@ -18,8 +18,8 @@ pub-info:
   #    icon: fa-solid fa-file-pdf
   #    local: true
 categories:
-    - Special districts
-    - Intergovernmental affairs
+    - special districts
+    - intergovernmental affairs
 citation:
   type: article
   title: "A Public Service Industry Approach to Studying Urban and Suburban Governments"

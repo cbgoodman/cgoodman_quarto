@@ -31,9 +31,9 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1007/s11146-020-09808-y
       icon: ai ai-zotero-square
 categories:
-    - Property tax exemptions
-    - House prices
-    - Property tax
+    - property tax exemptions
+    - house prices
+    - property tax
 doi: 10.1007/s11146-020-09808-y
 citation:
   type: article-journal

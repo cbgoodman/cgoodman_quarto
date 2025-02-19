@@ -24,9 +24,9 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1177/0160323X18774402
       icon: ai ai-zotero-square
 categories:
-    - Public employment
-    - Tiebout
-    - Competition
+    - public employment
+    - tiebout
+    - competition
 doi: 10.1177/0160323X18774402
 citation:
   type: article-journal

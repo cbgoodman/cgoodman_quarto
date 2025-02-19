@@ -30,9 +30,9 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1080/03003930.2024.2360559
       icon: ai ai-zotero-square
 categories:
-    - Special districts
-    - Dissolution
-    - Intergovernmental affairs
+    - special districts
+    - dissolution
+    - intergovernmental affairs
 doi: 10.1080/03003930.2024.2360559
 citation:
   type: article-journal

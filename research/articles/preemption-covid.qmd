@@ -38,9 +38,9 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1177/0160323X20979826
       icon: ai ai-zotero-square
 categories:
-    - Preemption
-    - Intergovernmental affairs
-    - Emergency management
+    - preemption
+    - intergovernmental affairs
+    - emergency management
 doi: 10.1177/0160323X20979826
 citation:
   type: article-journal

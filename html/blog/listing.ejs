@@ -6,9 +6,9 @@
             <% if (post.categories) { %>
                 <div class="post-categories listing-categories">
                     <% for (const category of post.categories) { %>
-                    <div class="post-category listing-category" onclick="window.quartoListingCategory('<%=category%>'); return false;">
+                    <div class="post-category listing-category"><a href="#category=<%= category %>">
                         <%= category %>
-                    </div>
+                    </a></div>
                     <% } %>
                 </div>
                 <% } %>

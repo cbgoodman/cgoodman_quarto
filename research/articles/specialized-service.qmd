@@ -24,9 +24,9 @@ pub-info:
       url: https://www.zotero.org/save?type=doi&q=10.1093/publius/pjx065
       icon: ai ai-zotero-square
 categories:
-    - Special districts
-    - Autonomy
-    - Circumvention
+    - special districts
+    - autonomy
+    - circumvention
 doi: 10.1093/publius/pjx065
 citation:
   type: article-journal
