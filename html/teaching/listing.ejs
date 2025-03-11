@@ -23,7 +23,7 @@
             <ul class="course-semesters">
                 <% for (const semester of course.semester) { %>
                 <% if (semester.url) { %>
-                <li><a href="<%= semester.url %>"><i class="fa-solid fa-file-pdf"></i> <%= semester.name %></a></li>
+                <li><a href="<%= semester.url %>"><i class="bi bi-file-earmark-pdf-fill"></i> <%= semester.name %></a></li>
                 <% } else { %> 
                 <li class="no-link"> <%= semester.name %></li>
                 <% } %>

@@ -116,6 +116,9 @@ a.badge.badge-red { color: $white;}
 .btn {
     font-family: $font-family-sans-serif;
     text-align: center;
+    padding: 0.8em;
+    margin-right: ($spacer * .5);
+    margin-top: ($spacer * .5)
 }
 
 // Code stuff

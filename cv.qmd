@@ -8,7 +8,7 @@ about:
     image-width: 20em
     image-shape: rounded
     links:
-        - icon: file-earmark-pdf
+        - icon: bi-file-earmark-pdf-fill
           text: Download CV
           href: "./files/vita.pdf"
           aria-label: file-earmark-pdf

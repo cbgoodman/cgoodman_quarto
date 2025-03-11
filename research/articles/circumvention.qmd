@@ -20,11 +20,11 @@ pub-info:
   links:
     - name: Preprint
       url: "../../files/papers/sd-formation.pdf"
-      icon: fa-solid fa-file-pdf
+      icon: bi-file-earmark-pdf-fill
       local: true
     - name: Final version
       url: https://doi.org/10.1177/0275074018804665
-      icon: fa-solid fa-arrow-up-right-from-square
+      icon: bi-box-arrow-up-right
     - name: Add to Zotero
       url: https://www.zotero.org/save?type=doi&q=10.1177/0275074018804665
       icon: ai ai-zotero-square

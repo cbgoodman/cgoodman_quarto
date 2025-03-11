@@ -20,7 +20,7 @@ pub-info:
   links:
     - name: Final version
       url: https://pfm.spaef.org/article/1435/Cost-shocks-and-their-relationship-to-the-creation-consolidation-and-dissolution-of-US-local-governments
-      icon: fa-solid fa-arrow-up-right-from-square
+      icon: bi-box-arrow-up-right
 categories:
     - special districts
     - creation
