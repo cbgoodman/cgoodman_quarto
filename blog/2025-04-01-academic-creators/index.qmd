@@ -1,0 +1,51 @@
+---
+title: "Academics as Creators"
+date: "2025-04-01"
+description: "For many academics, 40%+ of their time is spent on activities that can fall into the category of 'creating'. With this in mind, what do academics need to be successful creators? How can departments better support them in this role?"
+categories:
+    - academia
+format:
+  html: 
+    fig-cap-location: margin
+---
+
+Academics are content creators. This comparison likely annoys many academics; however, it is a comparison that resonates with "regular" people. Academics use their brains, accumulated experience, and creativity to generate new things that are interesting to an audience. This is the [definition of creating](https://www.indeed.com/career-advice/finding-a-job/content-creater). While the content creator space, in the modern usage, there has been attempting to develop tools, workflows, and other things to help them do their jobs better and avoid burnout, there hasn't been as much movement in the academic space. Different than solo content creators, faculty are embedded in an institution that can be used to help.
+
+In this post, I am going to ignore the individual-level stuff--how to improve your personal workflows, how to set up a lab, etc. Those choices are deeply personal. Perhaps I will do a post on how I have done this for myself, but that is well beyond the point of this post. What I will focus on is how academic departments can do a better job supporting the creation of academic work. What are the things necessary at each level to be support successful academics across the lifespan of an academic?
+
+## What can departments do?
+
+From my perspective, these fall into two large buckets.
+
+1.  Invest in faculty
+2.  Advocate for faculty to anyone who will listen
+
+### Invest
+
+Investing in faculty is easy to say and difficult to implement. What does this even mean? From my perspective, it is a few things. First, it is the basics: making sure resources are sufficient and competitive. A lot of the creator economy angst is about the hustle for resources. This is an area where being embedded in an institution can help. Departments should be advocates for their faculty members (see point 2), and this starts during the hiring process. Making sure all the ingredients to be successful are in place before the faculty member shows up in the office should be a priority. If we think of investment as doing something now for some future payoff, getting the starting condition correct is important. You cannot have successful faculty if they constantly leave because they feel their initial package is not sufficient to sustain them.[^1] Just as important, if these items are in place, it allows individual faculty members more freedom to choose paths that lead to success and potentially less burnout.
+
+[^1]: This is clearly related to the budget situation at any given institution; however, being as competitive as possible given budget constraints is vital. And communicating to faculty that this is the case (both constraints and getting the best deal) is vital.
+
+Second, and perhaps related to the first, is talking with individual faculty members about what their needs are and how to best support them. If you listen to creators, much of what you will hear is that they feel like they're doing their work in a vacuum with no one to help shoulder the burden of all kinds of things. It is easy to feel this way as an academic; however, faculty are very much not alone. Departments exist, at least in part, to provide this level of support. Much like how across the board budget cuts are bad (targeting each spending area equally for cuts does nothing to prioritize important things), across the board investments (beyond the very basics already mentioned) are likely not useful. Beyond research dollars that can be flexibly used (to buy data, run experiments, etc), what are the different things that faculty need to be supported? This varies by rank, experience, and/or individual; however, whatever it is, departments should attempt to supply it and, when they cannot, explain why they cannot and/or engage in a dialog about how to get creative to supply it.[^2] This also includes mentorship, specifically for more junior faculty and newer associates.
+
+[^2]: Perhaps a faculty member really needs a reduction in teaching load; however, a direct, temporary reduction is impossible. There are creative ways to accomplish something similar by limiting new course preps to zero. If feasible, teaching multiple sections of the same course reduces the amount of load on a faculty member (fewer things to prepare, efficiency in grading, etc) while maintaining the same "real" teaching load.
+
+This all a bit reductive; however, simply making investment a priority changes the mindset. Academic administration is chaotic, but centering faculty success (and student success; for another post) is a means to making it happen.
+
+### Advocate
+
+The second bucket is being the faculty member's advocate in space where they are not–primarily in administrative settings. As with investment, this requires some communication with faculty. Departments need to know what is happening, research-wise. Without this information, departments cannot be effective advocates.[^3] Assuming the department knows about what is happening with faculty research, sing it from the rooftops! It is easy for Deans and Provosts to get bogged down in the minutiae of administration, so remind them of the great things faculty do. These folks also make investments in faculty, though across a much larger research portfolio, so some indication that their investments are bearing fruit can help them make future resource allocation decisions. Importantly, Deans and Provosts are generalists (or, perhaps more specifically, non-practicing specialists), so it is important to put these communications in terms they can readily compare to other things they hear. Why is the research important? Who cares? How will it help them in their broader portfolio?
+
+[^3]: This also applies to student success; however, that is easier to observe from a department perspective.
+
+Think of this as internally-focused marketing.
+
+This is all a means to an end: future investment. There's often a recency bias in resource allocation decisions, and departments can attempt to use this to their advantage in gathering investment in faculty.[^4] Doling out a steady stream of accomplishments, findings, and other superlatives in a language that administrators can understand (again, why is this important?) keeps the department in the recent memory. So, when budget time comes (or budget adjustments), your faculty are front of mind.
+
+[^4]: This sub-optimal from the college or university perspective, but viewed from the department's perspective, this is an appropriate game to play (and a common one in budget games).
+
+## Wrap up
+
+Some of this seems simplistic, and it is. But it is also complex. Faculty create new knowledge and act more like independent content creators than employees of an organization, but they are members of an organization. We can leverage the organization, the university, to provide support that individual creators have to do on their own. Individualized investment in faculty is important. Yet, this is time consuming. In small departments, this can likely be accomplished by a chair; however, in larger departments, this likely requires the help of other senior department members. Advocacy can work in similar ways, with more senior faculty members acting as advocates in the administrative spaces they inhabit.
+
+Ultimately, this is me thinking out loud about the kinds of things I found valuable across my career and things I wish had happened as I prepare to move into a more senior phase of my career. I hope they can be useful to someone.
