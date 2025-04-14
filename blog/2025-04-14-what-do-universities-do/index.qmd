@@ -1,0 +1,66 @@
+---
+title: "What do universities actually do?"
+date: "2025-04-14"
+description: "With universities all over the United States under fire from the Trump administration, there appears to be mass confusion by non-academics about what universities do. This post is meant as a plain language explainer of the kinds of things that research-intensive universities do."
+categories:
+    - academia
+format:
+  html: 
+    fig-cap-location: margin
+---
+
+Academia is a confusing place, especially for those who do not work there. Frankly, that is the fault of academics (or, more specifically, the leadership of universities, who are generally academics). We do not do a great job explaining how the job of being a professor works. So, let's change that.
+
+## Background
+
+First, a little background.
+
+There are numerous kinds of universities.[^1] This sounds a little silly on its face; however, it is true. Some universities specialize in certain things, while others go a different way. The largest and most relevant distinction is between teaching universities and research universities. As the name suggests, one specializes primarily in classroom teaching, while the other has a research mission (in addition to their teaching mission). That isn't to say there aren't researchers at teaching universities and visa versa, but the general rule applies.
+
+[^1]: Universities is the overarching term; however, "college" is sometimes used in its place. That's not quite correct and leads to confusion. A college is a more specialized academic unit. Often, universities are composed of colleges. For example, my own universities has a College of Liberal Arts & Sciences, a College of Education, a College of Business, and so on. Colleges can be stand alone, specialized academic organizations (sometimes law or medical colleges are organized in this way), but they are generally the component units of universities.
+
+I will focus primarily on research universities. It is who employs me and what I know the most about. Besides, my colleagues at teaching universities are best positioned to explain what they do best. Even within the category of research university, there are different kinds. These follow the [Carnegie Classification](https://carnegieclassifications.acenet.edu) that divides universities by their research intensity.[^2] While the classification methodology has changed recently, the overall categories remain.
+
+[^2]: Carnegie also classifies teaching universities; however, we are primarily interested in how they categorize research universities.
+
+-   Research 1: Very High Research Spending and Doctoral Production
+
+-   Research 2: High Research Spending and Doctoral Production
+
+To be included in either category, your university must produce 20 research doctorates per year or 30 professional doctorates in at least two programs per year. The distinction between high and very high research spending is a function of a formula; however, the university must have at least \$5M per year in research spending from specified sources.
+
+## What do research universities do?
+
+You can answer this from an institutional perspective or an individual perspective. The latter is likely the most helpful because you can aggregate up to the institutional level.
+
+In most research universities, the typical faculty member[^3] is tasked with three (3) jobs: research, teaching, and service. The typical breakdown of effort or time is 40% research, 40% teaching, and 20% service, though there are often significant deviations from this in specific instances.
+
+[^3]: I use this term specifically because what comes after applies only to tenured or tenure track faculty. In a great many places, that is a minority of the instructors at the university. Full-time lecturers (whose job only pertains to instruction and perhaps some service role, but are full-time employees of the university) and adjunct faculty (instructors on a per-course contract) make up the bulk of instructional staff in many places.
+
+### Research
+
+In most places, research is categorized as producing new knowledge or contributing to a scholarly debate. It also likely covers the production of art (however defined), as many faculty in the visual and performing arts do not necessarily create new knowledge. Instead, they produce artistry. Beyond artistry, the production of new knowledge looks different in the various academic disciplines. I, a social scientist, focus on better understanding how the world we, as humans, construct works (specifically about how local governments work, but that's another post). This is different than my colleagues in the "hard" or physical sciences or from the humanities. Regardless of specialty, we devote significant time to understanding the world better and communicating those findings to the broader academic community (and hopefully beyond).
+
+This is one of the parts of a university that isn't seen too often; however, it is vital for society. It's the basic work necessary for many other things to happen. It leads to scientific and medical breakthroughs that save lives; it leads to a better understanding of the human world that allows us to improve society incrementally (or sometimes, not so incrementally); it enriches our understanding of the arts, literature, film, or history (for our enjoyment or to produce newer, more relevant and interesting things). In short, it enables modern life. Without it, we would be a lesser society.
+
+Research spending enables all of this, directly or indirectly. It costs money to collect data, run experiments, produce great works of art, or seek out original sources of literature or history. Rather than divert a significant amount of tuition dollars, many professors seek outside funding to support their work. This funding makes the modern research university function (and is [under threat](https://www.chronicle.com/article/tracking-trumps-higher-ed-agenda)).
+
+### Teaching
+
+Teaching is the most visible thing that professors (or research universities) do because it touches so many individuals. We are tasked with taking our accumulated knowledge and sharing it with students. This comes in many forms: traditional lectures, lab sessions, performances, etc. The fundamental act is transferring knowledge. Most full-time faculty at research universities teach 2-3 courses per semester, often depending on exactly how research-intensive your university is. This translates to somewhere between 2 and 6 classes per week, depending on the format. The average professor teaching undergraduates likely has 4-6 weekly class meetings (2 per course) for 50 to 75 minutes per class. If you assume an hour of teaching per class meeting, that's only 4-6 hours per week on teaching, right? Nope. Teaching encompasses all manner of things beyond the classroom. It includes preparation for class, grading, communicating with students, planning future courses (both new or updating existing ones), advising students, etc. This easily consumes the remaining 12 hours of teaching time per week (and probably more).[^4] All of this time is relatively unseen by outsiders; however, it is necessary and vital.
+
+[^4]: 40 hours times 40% minus 4 classroom hours.
+
+### Service
+
+Finally, we come to service. This is a bit of a catchall; however, I view service as the work necessary to make the university run. Universities operate in a shared governance model. The faculty is largely in charge of the academic programs of the university. They decide which programs make the most sense (often with significant input from higher-ups; though, sometimes, this part is taken away), how those programs are delivered regarding curriculum and format, how to evaluate whether those programs are successful, etc. *This takes time* (and a lot of meetings). Faculty also have a personnel role, overseeing the hiring of new faculty (again, with significant input from higher-ups). *This also takes time.* Faculty often do admission for graduate programs, evaluating prospective students for master’s or doctoral degrees. *This also takes time.*
+
+You'll note that there is a lot of time here. And there is. The faculty of a university does the hard work to ensure its academic success.
+
+## Why should you care?
+
+The US system of higher education is the envy of the world and is coveted by many outside of the US. Just look at how many people from outside the United States leave their homes to be educated by such a system. It is the envy of the world because the US system of higher education enables great things. Both directly, through the endeavors of faculty and indirectly, through the great things our students go on to do. Higher education is an economic development machine for local communities. Students and faculty spend money (a lot of money) in their local communities, students (and sometimes faculty) create businesses, and scientific advances fuel a larger research-based economy that drives the US economy.[^5]
+
+[^5]: For example, look at the number of patents held by faculty (individually or jointly with their former students) or the number of life saving pharmaceuticals that were incubated in academic labs.
+
+I've already said the punchline, but I'll repeat it. We would be a lesser society without our system of higher education–less successful, less influential, and yes, less economically and politically powerful. [That's why you should care.]{.underline}
