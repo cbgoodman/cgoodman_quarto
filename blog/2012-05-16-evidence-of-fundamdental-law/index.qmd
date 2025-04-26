@@ -1,0 +1,15 @@
+---
+title: "Evidence of the Fundamental Law of Traffic Congestion"
+date: "2012-05-16"
+categories:
+    - congestion
+    - highways
+    - transportation
+format:
+  html: 
+    fig-cap-location: margin
+---
+
+Recently, the Georgia Department of Transportation has begun to allow motorists to use the emergency shoulder on segments of GA-400 as traffic lanes during rush hour. GDOT thinks this will reduce traffic congestion on a heavily travelled road. However, the experience so far has been less than encouraging (AJC: [Ga. 400 shoulder opens, traffic still a bear](http://www.ajc.com/news/georgia-government/ga-400-shoulder-opens-1433812.html)). [Some](http://blogs.ajc.com/political-insider-jim-galloway/2012/05/15/slow-traffic-on-ga-400-blame-the-media-says-lawmaker/) would suggest that it is the media frenzy surrounding the opening of new lanes that has caused the lackluster outcomes.
+
+I would suggest another possibility, however. The Fundamental Law of Traffic Congestion, as theorized by [Downs in 1962](http://trid.trb.org/view.aspx?id=694596) (and [reiterated in 1992](https://www.brookings.edu/books/still-stuck-in-traffic/)), “states that on urban commuter expressways, peak-hour traffic congestion rises to meet maximum capacity.” [Recent empirical research](http://www.aeaweb.org/articles.php?doi=10.1257/aer.101.6.2616) by [Gilles Duranton](https://real-estate.wharton.upenn.edu/profile/duranton/) and [Matthew A. Turner](https://matthewturner.org/) seems to confirm this proposition that adding new traffic lanes to highways does little to reduce traffic congestion. Rather, the provision of new highway capacity is met with a proportional increase in traffic. Therefore, it is unsurprising that the provision of one extra highway lane during peak traffic times fails to reduce traffic congestion.

@@ -1,0 +1,17 @@
+---
+title: "Thoughts on the Atlanta Transportation Sales Tax"
+date: "2012-06-27"
+categories:
+    - congestion
+    - taxation
+    - transportation
+format:
+  html: 
+    fig-cap-location: margin
+---
+
+On July 31, voters in Georgia will go to the polls to, among other things, vote on a series of 1% regional sales taxes to fund increased transportation infrastructure. If all regions vote in the affirmative, it is estimated that over 10 years, the sales tax will generate more than [$18 billion](http://dot.ga.gov/localgovernment/FundingPrograms/transreferendum/Pages/default.aspx), statewide. This represents a significant increase in the total amount of spending on transportation projects in the state. The Census Bureau estimates that Georgia’s state/local total capital outlay on highways in FY2009 was just over $2 billion. Naturally, organizations and individuals have lined up on both sides of the issues. The Governor, the Chamber, and others have openly supported the measure while the Georgia NAACP has come out against the measure.
+
+I have been torn over this issue. Transit provision in the Atlanta area is woefully inadequate. However, this is not surprising given that the pattern of urban development in the region largely prevents cost effective transit. A sales tax isn’t going to change this. Only a fundamental change in the pattern of urban development toward higher densities will make transit more cost effective (the [Beltline](http://beltline.org/) project is attempting to do some of this so all is not lost). Additionally, traffic congestion in the region is terrible. However, as I have explained [before](/blog/2012-05-16-evidence-of-fundamdental-law/), the provision of additional highway lanes is unlikely to decrease congestion because drivers take the additional provision as a cue to drive more. Overall, it is unlikely that the provision of transit and highway improvements will result in reducing congestion anywhere near what the proponents project.
+
+Notwithstanding these problems, I think Atlanta would be better off if more transportation infrastructure was provided. Given the size of the region, the current infrastructure is very likely inadequate. However, I do not think it will solve all of the ills that proponents have suggested it will.

@@ -1,0 +1,14 @@
+---
+title: "Bill Fischel on School Districts"
+date: "2013-05-23"
+categories:
+    - local govt
+    - school districts
+format:
+  html: 
+    fig-cap-location: margin
+---
+
+{{< video https://youtu.be/PBogXNx-t-U >}}
+
+[Bill Fischel](https://sites.dartmouth.edu/wfischel/) talking about his not so new book [Making the Grade: The Economic Evolution of American School Districts](https://press.uchicago.edu/ucp/books/book/chicago/M/bo6823468.html). Of most interest, to me at least, is the process by which one room schools consolidated into the multi-school districts we have today.
