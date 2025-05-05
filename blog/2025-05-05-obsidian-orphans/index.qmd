@@ -1,0 +1,56 @@
+---
+title: "Finding orphans in Obsidian"
+date: "2025-05-05"
+description: "I use Obsidian as my main notetaking app (among many other things it does for me). I try to implement Andy Matuschak's 'Evergreen Notes' method when working through a particular concept in the literature. Often, this means linking notes together that haven't been created yet. This post outlines a method of finding such orphaned links, so I can fill them in."
+categories:
+    - code
+    - technology
+format:
+  html: 
+    fig-cap-location: margin
+    code-copy: true
+---
+
+I use [Obsidian](https://obsidian.md) as my main notetaking app (among many other things it does for me). I try to implement Andy Matuschak's [Evergreen Notes](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX) method when working through a particular concept in the literature (something close to but also distinct from creating a [Zettelkasten](https://www.soenkeahrens.de/en/home)). This involve creating a densely linked series of notes, often with the express goal of connecting different concepts together that may not be obviously connected. Super useful for academic research!
+
+Often, this means linking notes together that haven't been created yet, usually definitions or high level concepts. Obsidian does this quite elegantly--any bit of text can be turned into a link by enclosing it in double brackets (i.e., \[\[foo\]\]). This makes creating links on the fly easy and keeps me in the flow of things. I can always come back and create that note by clicking on it.
+
+Here's the rub: When you have a lot of notes (and that's sort of the point), it's very difficult to find linked but uncreated notes. It's not a functionality built into Obsidian. Why would it be? Obsidian is just a plain text markdown interpreter.
+
+Insert the [`dataview`](https://blacksmithgu.github.io/obsidian-dataview/) community plugin for Obsidian. I can't do an intro to `dataview` without derailing this entire post; however, it allows you to use your note's metadata to construct queries. I use `dataview` to do all kinds of things; however, you can use it to find orphaned notes. And then I have a list of concepts to fill in.[^1]
+
+[^1]: All thanks to user `Glint_Eye` on the [Obsidian forums](https://forum.obsidian.md/t/dataview-querying-for-uncreated-files/41848/4). I hunted for this info for so long that it needs its own dedicated post.
+
+First, is a way to find all orphaned links (uncreated yet linked to links). These can show up in multiple places, so the typical way to do a `dataview` query will include many (possibly very many) duplicated. That makes this difficult to parse. The below code produces a list of uncreated file. The important bits are the `FLATTEN` command, that essentially de-dupes the list, and the \``WHERE` command, which find files with no outlinks (`!(out.file)`) and has no valid outpath (`!contains(meta(out).path`).
+
+``` default
+TABLE without id 
+    out AS "Uncreated files" 
+FLATTEN file.outlinks as out 
+WHERE !(out.file) AND !contains(meta(out).path, "/") AND file.folder = "Notes"
+GROUP by out 
+SORT out ASC
+```
+
+This produces a list like this one. To me, it's a to-do list of things to work on.
+
+![](uncreated-files.jpg){width="60%" fig-align="center"}
+
+The second way to view this is the information created above but also specifying which files are referencing the uncreated files. This gives you some idea of how important these uncreated files are in your note network (perhaps helping prioritize which ones to work on first). It follows the same structure as the first method.
+
+``` default
+TABLE without id 
+    out AS "Uncreated files", 
+    file.link as "Origin" 
+FLATTEN file.outlinks as out 
+WHERE !(out.file) AND !contains(meta(out).path, "/")  AND file.folder = "Notes"
+SORT out ASC
+```
+
+This code produced the following table.
+
+![](uncreated-source.jpg){width="60%" fig-align="center"}
+
+The table is truncated, but the last entry, Municipal incorporation, shows up four time. Suggesting that I should probably start with that one.
+
+I hope this is helpful!
