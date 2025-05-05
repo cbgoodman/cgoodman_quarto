@@ -1,0 +1,35 @@
+---
+title: "Local Governments in the Age of Preemption"
+author: 
+    - name: 
+        given: Christopher B.
+        family: Goodman
+        literal: Christopher B. Goodman
+      url: https://www.cgoodman.com
+      orcid: 0000-0002-8565-9714
+      affiliation: Northern Illinois University
+date: "2025-05-05"
+pub-info:
+  reference: >-
+    <strong>Christopher B. Goodman</strong>. "Local Governments in the Age of Preemption,” Working paper.
+  #extra: >-
+  #  Presented at the annual meeting of the [Urban Affairs Association](https://slides.cgoodman.com/presentation/2023-uaa), Nashville, Tennessee, April 2023.
+  links:
+    - name: PDF
+      url: "../../files/papers/preemption-justified.pdf"
+      icon: bi-file-earmark-pdf-fill
+      local: true
+categories:
+    - autonomy
+    - preemption
+    - intergovernmental affairs
+citation:
+  type: article
+  title: "Local Governments in the Age of Preemption"
+  url: https://www.cgoodman.com/research/working-papers/preemption-justified
+google-scholar: true
+draft: false
+---
+
+### Abstract
+The state preemption of local laws is an important issue in state-local intergovernmental affairs. However, much of the literature focuses on explaining how preemptions come about or what their impacts are. This essay takes a different approach by concentrating on the conditions under which preemption may (or may not) be justified. It does so through the lens of the Decentralization Theorem and the Second Generation Theory of Fiscal Federalism. Using these tools, a series of theoretical propositions about when preemption is justified are created. The key considerations are the localized costs of policy spillovers versus the cost of state centralization. Overall, the "New Preemption" that is popular today is rarely justified, while more targeted preemptions can be justified on a case-by-case basis. 
