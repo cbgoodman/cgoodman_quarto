@@ -350,25 +350,58 @@ pre.text, pre.sourceCode, .cell-output pre {
             }
         }
     }
+}
 
-    .project-details-listing-fp {
+// Research Project List Front Page
+.project-list-fp {
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 0 0 1em;
+
+        li.project {
+            margin-bottom: 1em;
+            //border-left: 6px solid $grey;
+
+            p {
+                margin: 0;
+            }
+        }
+    }
+
+    .project-content {
+        padding-left: 0.5em;
+        line-height: 1.3;
+
+        .status {
+            font-size: 1rem;
+            font-weight: 250;
+            padding: 0.2em;
+            margin-right: 0.5em;
+        }
+    }
+
+    ul.project-links {
+        margin-bottom: 0;
+    }
+
+    .project-details-listing {
         font-family: $toc-font-family;
-        margin-top: 0.8em;
+        //margin-top: 0.8em;
         font-size: 0.9rem;
 
         @media (max-width: map-get($grid-breakpoints, md)) {
             font-size: 0.95rem;
         }
 
-        .project-link-fp {
+        .project-link {
             display: inline-block;
             white-space: nowrap;
             padding: 0.5em 0.5em 0.5em 1em;
         }
 
-        .details-fp {
+        .details {
             padding-right: 1.5em;
-
         }
     }
 }
@@ -422,6 +455,65 @@ pre.text, pre.sourceCode, .cell-output pre {
             font-weight: 500;
         }
 
+        ul.course-semesters {
+            list-style: none;
+            padding: 0;
+            margin-bottom: 0;
+
+            li {
+                display: inline-block;
+                white-space: nowrap;
+                color: $gray-700;
+                background-color: $gray-200;
+                -webkit-border-radius: 6px;
+                -moz-border-radius: 6px;
+                border-radius: 6px;
+                font-size: .9em;
+                font-weight: 400;
+                padding: 3px 5px;
+                margin: .4em 0;
+                display: inline-block;
+                letter-spacing: .01em;
+
+                &.no-link {
+                    background-color: $white;
+                    border: 1px solid $gray-500;
+                }
+
+                a {
+              color: $blue;
+                }
+            }
+        }
+    }
+}
+// Teaching Front Page
+.teaching-fp {
+    .course-entry {
+        display: flex;
+        flex-direction: row;
+        font-family: $headings-font-family;
+        line-height: 1.3;
+        margin-bottom: 1em;
+        column-gap: 0.7em;
+
+        .body {
+            flex: 1 1 auto;
+        }
+
+        .logo {
+            flex: 0 0 140px;
+
+            img {
+                width: 100%;
+            }
+        }
+
+        .course-title {
+            font-weight: $headings-font-weight;
+            font-size: 1em;
+            margin-bottom: 0.2em;
+        }
         ul.course-semesters {
             list-style: none;
             padding: 0;
