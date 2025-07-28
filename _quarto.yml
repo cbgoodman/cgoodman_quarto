@@ -55,22 +55,42 @@ website:
     toggle-position: right
     tools-collapse: true
 
-    right: 
-      - text: "{{< iconify simple-icons bluesky size=1em title='Bluesky' >}}"
+    tools: 
+      - icon: bluesky
         href: https://bsky.app/profile/cbgoodman.co
+        aria-label: Bluesky
         rel: me
-      - text: "{{< iconify simple-icons mastodon size=1em title='Mastodon' >}}"
+      #- text: "{{< iconify simple-icons bluesky size=1em title='Bluesky' >}}"
+      #  href: https://bsky.app/profile/cbgoodman.co
+      #  rel: me
+      - icon: mastodon
         href: https://sciences.social/@cbgoodman
+        aria-label: Mastodon
         rel: me
-      - text: "{{< iconify simple-icons github size=1em title='GitHub' >}}"
+      #- text: "{{< iconify simple-icons mastodon size=1em title='Mastodon' >}}"
+      #  href: https://sciences.social/@cbgoodman
+      #  rel: me
+      - icon: github
         href: https://www.github.com/cbgoodman
+        aria-label: GitHub
         rel: me
-      - text: "{{< iconify simple-icons linkedin size=1em title='LinkedIn' >}}"
+      #- text: "{{< iconify simple-icons github size=1em title='GitHub' >}}"
+      #  href: https://www.github.com/cbgoodman
+      #  rel: me
+      - icon: linkedin
         href: https://www.linkedin.com/in/cbgoodman/
+        aria-label: LinkedIn
         rel: me
-      - text: "{{< iconify simple-icons rss size=1em title='RSS' >}}"
+      #- text: "{{< iconify simple-icons linkedin size=1em title='LinkedIn' >}}"
+      #  href: https://www.linkedin.com/in/cbgoodman/
+      #  rel: me
+      - icon: rss
         href: https://www.cgoodman.com/feed.xml
+        aria-label: RSS
         rel: me
+      #- text: "{{< iconify simple-icons rss size=1em title='RSS' >}}"
+      #  href: https://www.cgoodman.com/feed.xml
+      #  rel: me
     left:
       - href: cv.qmd
         text: "Bio & CV"
