@@ -1,0 +1,20 @@
+---
+title: "Quoting Manduca, Highsmith, and Waggoner"
+date: "2025-11-12"
+description: "Robert Manduca, Brian Highsmith, Jacob Waggoner, Tax base fragmentation as a dimension of metropolitan inequality, _Socio-Economic Review_, 2025"
+categories:
+    - fragmentation
+    - property tax
+format:
+  html: 
+    fig-cap-location: margin
+    code-copy: true
+---
+
+It is always nice to see a piece on the consequences of local government fragmentation—particularly in ways that we know exist but have not been extensively studied.
+
+> We have contributed to this interdisciplinary literature by documenting one consequence of the uniquely American combination of fragmentation and local revenue generation: the unequal distribution of taxable property wealth across local jurisdictions. We have measured the taxable real property wealth located within virtually every local government in the country—as understood by those governments themselves, via their tax assessors—and calculated the extent to which jurisdictional boundaries fragment metropolitan tax bases. As we have shown, tax base fragmentation is a distinctive phenomenon, capturing important metropolitan variation that is missed by existing measures of jurisdictional fragmentation and neighborhood-level segregation. Under the US fiscal system, it operates as a fiscal constraint on local governments in parallel to legal constraints and voter preferences.
+>
+> Some of our findings align with widely held intuitions: the tax bases of metropolitan Detroit and Bridgeport are highly unequal, Des Moines less so; the Hamptons are extraordinarily wealthy while the city of Newark lacks fiscal resources. But the granularity and specificity of our data allow us to undertake a systematic, nationwide analysis. We identify hundreds of small municipalities that function as tax shelters—including dozens that have virtually no residents, but shield millions of dollars in amassed corporate wealth from local taxation. At the same time, we document nearly 1,000 jurisdictions that are fiscally impoverished: jurisdictionally separated from the taxable wealth that exists in their metropolitan areas, and facing fiscal challenges distinct in source if similar in consequence from those facing localities in economically declining regions.
+> 
+> -- [Manduca, Highsmith, and Waggoner (2025)](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwaf055/8286993)
