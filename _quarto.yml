@@ -49,7 +49,7 @@ website:
       <span class="faux-block">[View the source at {{< iconify bi github size=1.1em title='GitHub' >}} GitHub]({{< var github-url >}})</span>
   
   navbar:
-    background: "#ffffff"
+    background: "#FFFFFF"
     align: center
     collapse-below: lg
     toggle-position: right

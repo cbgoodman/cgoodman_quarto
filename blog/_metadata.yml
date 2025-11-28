@@ -2,7 +2,7 @@
 date-format: "MMMM D, YYYY"
 
 # Enable banner style title blocks
-title-block-banner: "#3D5266"
+title-block-banner: "#FFFFFF"
 
 # Default for table of contents
 sidebar: false

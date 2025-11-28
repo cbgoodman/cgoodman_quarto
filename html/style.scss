@@ -17,10 +17,13 @@ $gray-900:                    #212529 !default;
 $black:                       #000000 !default;
 
 $blue:                        #232a3f !default;
-$blue-alt:                    #034EA6 !default;
-$blue-dark:                   #1B1F33 !default;
+$blue-alt:                    #024CA2 !default;
+$blue-dark:                   #1A285F !default;
 $blue-light:                  #8892AF !default;
 $blue-extra-light:            #B6BCCE !default;
+
+$iron-ore:                    #1D1D21;
+$iron-ore-85:                 shift-color($iron-ore,-15%);
 
 $orange:                      #e5a15c !default;
 
@@ -35,11 +38,13 @@ $toc-font-size:               .9em;
 $headings-font-family:        system-ui, -apple-system, BlinkMacSystemFont, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
 $headings-font-weight:        700 !default;
 
+$posts-font-weight:           400 !default;
+
 $footer-font-family:          system-ui, -apple-system, BlinkMacSystemFont, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
-$footer-font-color:           $blue-light;
+$footer-font-color:           shift-color($iron-ore,-90%);
 
 // Body
-$body-color:                  #333333 !default;
+$body-color:                  $iron-ore-85 !default;
 
 $link-color:                  $blue-alt !default;
 $link-decoration:             none !default;
@@ -48,14 +53,15 @@ $link-hover-decoration:       underline !default;
 
 // Nav bar
 $navbar-bg:                   $white;
-$navbar-fg:                   #656E76;
+$navbar-fg:                   $body-color;
 $navbar-hl:                   $blue-alt;
 
 // Footer 
-$footer-bg:                   $blue-dark !default;
+$footer-bg:                   $iron-ore !default;
 
 // Banner blocks
 $title-block-banner:          $white !default;
+$content-padding-top:         0em;
 
 /*-- scss:rules --*/
 
@@ -82,7 +88,7 @@ h2, h3 {
 }
 
 .label-red {
-    background-color: #36454f;
+    background-color: $body-color;
 }
   
 a.badge.badge-red { color: $white;}
@@ -90,15 +96,15 @@ a.badge.badge-red { color: $white;}
 .footer {
 	border-top: 3px solid;
     padding-top: 50px;
-    background-color: $blue;
+    background-color: $iron-ore;
 }
 .blockquote {
     font-weight: 400;
     font-style: normal;
-    color: #333333;
-    background: #e5e7eb;
+    color: $body-color;
+    background: shift-color($iron-ore,-90%);
     border-left-width: 0.25rem;
-    border-left-color: #c0c4ce;
+    border-left-color: shift-color($iron-ore,-75%);
     margin-top: 1.6em;
     margin-bottom: 1.6em;
 }
@@ -192,25 +198,17 @@ pre.text, pre.sourceCode, .cell-output pre {
 }
 
 
-  // Research
+// Research
 .quarto-title-block {
-    .haiku {
-        text-align: right;
-        font-family: $headings-font-family;
-        margin: 1.3em 0;
-        font-size: 1.6em;
-        font-weight: 300;
-        font-style: italic;
-    }
-
     .quarto-title .quarto-categories {
         padding-bottom: 0;
         flex-wrap: wrap;
         row-gap: 0.4em;
     }
 
+
     .project-details {
-        background-color: $grey;
+        background-color: shift-color($iron-ore,-95%);
         padding: 0.75em;
         margin: 1em 0;
         line-height: 1.3;
@@ -240,6 +238,7 @@ pre.text, pre.sourceCode, .cell-output pre {
     margin-bottom: 1.5em;
 }
 
+// Main Research Page
 .research {
     .back-nav a {
         color: $blue-alt;
@@ -259,22 +258,35 @@ pre.text, pre.sourceCode, .cell-output pre {
         font-style: normal;
         color: $body-color;
     }
-
+    // Main Research Page categories
     .project-categories {
         display: flex;
         flex-wrap: wrap;
-        margin: 0.35em 0 0.35em;
-        padding-top: 0.35em;
-        padding-left: 0.5em;
-        padding-bottom: 0;
         row-gap: 0.4em;
         column-gap: 0.4em;
-        font-family: $headings-font-family;
+        margin: 0.5em 0;
 
         .project-category {
-            padding: 0.25em 0.75em 0.25em 0em;
-            font-size: 0.7em;
+            color: $body-color;
+            background-color: shift-color($iron-ore,-90%);
             text-transform: lowercase;
+            -webkit-border-radius: 6px;
+            -moz-border-radius: 6px;
+            border-radius: 6px;
+            font-size: .9em;
+            font-weight: 400;
+            padding: 3px 5px;
+            margin: .4em 0;
+            display: inline-block;
+            letter-spacing: .01em;
+            text-decoration:none;
+            cursor: pointer;
+            a {
+                color: $body-color;
+            }
+            a:hover {
+                text-decoration: none;
+            }
         }
     }
 }
@@ -328,7 +340,7 @@ pre.text, pre.sourceCode, .cell-output pre {
     .project-details-listing {
         font-family: $toc-font-family;
         margin-top: 0.8em;
-        background-color: $grey;
+        background-color: shift-color($iron-ore,-90%);
         font-size: 0.9rem;
 
         @media (max-width: map-get($grid-breakpoints, md)) {
@@ -342,7 +354,7 @@ pre.text, pre.sourceCode, .cell-output pre {
         }
 
         .details {
-            background-color: shift-color($blue,-50%);
+            background-color: shift-color($iron-ore,-50%);
             padding-right: 1.5em;
             
             a {
@@ -354,6 +366,14 @@ pre.text, pre.sourceCode, .cell-output pre {
 
 // Research Project List Front Page
 .project-list-fp {
+    a {
+        color: $body-color;
+    }
+
+    a:hover {
+        color: $blue-alt;
+    }
+
     ul {
         list-style: none;
         padding: 0;
@@ -431,9 +451,14 @@ pre.text, pre.sourceCode, .cell-output pre {
         }
 
         .course-title {
-            font-weight: 500;
+            font-weight: $headings-font-weight;
             font-size: 1.2em;
             margin-bottom: 0.2em;
+
+            a {
+                color: $body-color;
+                font-weight: $headings-font-weight;
+            }
         }
         
         .course-details {
@@ -441,7 +466,7 @@ pre.text, pre.sourceCode, .cell-output pre {
             font-weight: 400;
             font-size: 0.9em;
             margin-bottom: 0.3em;
-            color: $gray-800;
+            color: $body-color;
         }
 
         .course-description {
@@ -463,8 +488,8 @@ pre.text, pre.sourceCode, .cell-output pre {
             li {
                 display: inline-block;
                 white-space: nowrap;
-                color: $gray-700;
-                background-color: $gray-200;
+                color: $body-color;
+                background-color: shift-color($iron-ore,-90%);
                 -webkit-border-radius: 6px;
                 -moz-border-radius: 6px;
                 border-radius: 6px;
@@ -481,7 +506,11 @@ pre.text, pre.sourceCode, .cell-output pre {
                 }
 
                 a {
-              color: $blue;
+                    color: $body-color;
+                }
+
+                a:hover {
+                    color: $blue-alt;
                 }
             }
         }
@@ -510,9 +539,14 @@ pre.text, pre.sourceCode, .cell-output pre {
         }
 
         .course-title {
-            font-weight: $headings-font-weight;
+            font-weight: $posts-font-weight;
             font-size: 1em;
             margin-bottom: 0.2em;
+
+            a {
+                color: $body-color;
+                font-weight: $posts-font-weight;
+            }
         }
         ul.course-semesters {
             list-style: none;
@@ -523,7 +557,7 @@ pre.text, pre.sourceCode, .cell-output pre {
                 display: inline-block;
                 white-space: nowrap;
                 color: $gray-700;
-                background-color: $gray-200;
+                background-color: shift-color($iron-ore,-90%);
                 -webkit-border-radius: 6px;
                 -moz-border-radius: 6px;
                 border-radius: 6px;
@@ -540,7 +574,11 @@ pre.text, pre.sourceCode, .cell-output pre {
                 }
 
                 a {
-              color: $blue;
+                    color: $body-color;
+                }
+                
+                a:hover {
+                    color: $blue-alt;
                 }
             }
         }
@@ -552,7 +590,7 @@ pre.text, pre.sourceCode, .cell-output pre {
     .blog-entry {
         display: flex;
         flex-direction: row;
-        font-family: $headings-font-family;
+        font-family: $posts-font-weight;
         line-height: 1.3;
         margin-bottom: 1.5em;
         column-gap: 1em;
@@ -577,8 +615,8 @@ pre.text, pre.sourceCode, .cell-output pre {
         }
 
         .title {
-            font-size: 1.5em;
-            font-weight: $headings-font-weight;
+            font-size: 1.75em;
+            font-weight: $posts-font-weight;
             font-style: normal;
             font-stretch: normal;
             line-height: 1.3;
@@ -586,6 +624,12 @@ pre.text, pre.sourceCode, .cell-output pre {
 
             a {
                 color: $body-color;
+                font-weight: $posts-font-weight;
+                text-decoration: none;
+            }
+
+            a:hover {
+                text-decoration: underline;
             }
         }
 
@@ -597,11 +641,12 @@ pre.text, pre.sourceCode, .cell-output pre {
         }
 
         .continue-reading a {
-            color: $blue-alt;
+            color: $body-color;
             margin-top: 16px;
         }
 
         .continue-reading a:hover {
+            color: $blue-alt;
             text-decoration: none;
             border-bottom:2px solid
         }
@@ -621,14 +666,14 @@ pre.text, pre.sourceCode, .cell-output pre {
             margin: 0.5em 0;
 
             .post-category {
-                color: $gray-700;
-                background-color: $gray-200;
+                //color: $gray-700;
+                background-color: shift-color($iron-ore,-90%);
                 text-transform: lowercase;
                 -webkit-border-radius: 6px;
                 -moz-border-radius: 6px;
                 border-radius: 6px;
-                font-size: .75em;
-                font-weight: 500;
+                font-size: .9em;
+                font-weight: 400;
                 padding: 3px 5px;
                 margin: .4em 0;
                 display: inline-block;
@@ -649,30 +694,38 @@ pre.text, pre.sourceCode, .cell-output pre {
 
 .blog-post {
     .quarto-title .quarto-categories {
-        margin-top: 1.5em;
+        //margin-top: 1.5em;
         
 
         .quarto-category {
-            background-color: #2A3947;
-            border-color: #2A3947;
+            color: $body-color !important;
+            background-color: shift-color($iron-ore,-90%);
+            border-color: shift-color($iron-ore,-90%);
             text-transform: lowercase;
-            color: $white;
-            font-size: 0.65em;
-            opacity: 1;
+            -webkit-border-radius: 6px;
+            -moz-border-radius: 6px;
+            border-radius: 6px;
+            font-size: .9em;
+            font-weight: 400;
+            padding: 3px 5px;
+            margin: .4em 0;
+            display: inline-block;
+            letter-spacing: .01em;
+            text-decoration:none;
             cursor: pointer;
         }
     }
     
     .quarto-title h1 {
-        font-size: 1.5em;
-        font-weight: $headings-font-weight;
+        font-size: 1.75em;
+        font-weight: $posts-font-weight;
         font-style: normal;
         margin-bottom: 16px;
-        color: $white;
+        color: $body-color;
     }
     
     .quarto-title .description {
-        color: $white;
+        color: $body-color;
         font-weight: 400;
         font-size: 0.9em;
     }
@@ -685,14 +738,15 @@ pre.text, pre.sourceCode, .cell-output pre {
     border: 0 !important;
     min-height: 3em;
     font-family: $footer-font-family;
-    color: $blue-light;
+    color: $footer-font-color;
 
     a {
-        color: $blue-extra-light;
+        color: $footer-font-color;
     }
 
     a:hover {
-        color: $orange;
+        text-decoration: underline;
+        //color: $orange;
     }
 
     .faux-block {
