@@ -2,30 +2,27 @@
 /*-- scss:defaults --*/
 
 // * Colors
+// * Tailwind: https://tailwindcolor.com
+$white:                     hsl(0 0% 100%) !default;
+$gray-100:                  hsl(220 14.97% 95.9%) !default;
+$gray-200:                  hsl(220 13.57% 91.05%) !default;
+$gray-300:                  hsl(216 13.12% 84%) !default;
+$gray-400:                  hsl(217.9 11.92% 64.26%) !default;
+$gray-500:                  hsl(220.03 10.26% 46.3%) !default;
+$gray-600:                  hsl(214.99 15.66% 34.25%) !default;
+$gray-700:                  hsl(216.94 21.1% 26.81%) !default;
+$gray-800:                  hsl(214.99 30.99% 16.95%) !default;
+$gray-900:                  hsl(221 41.69% 11.07%) !default;
+$black:                     hsl(224.05, 72.24%, 4.17%) !default;
 
-$white:                       #ffffff !default;
-$grey:                        #f7f7f7 !default;
-$gray-100:                    #f8f9fa !default;
-$gray-200:                    #e9ecef !default;
-$gray-300:                    #dee2e6 !default;
-$gray-400:                    #ced4da !default;
-$gray-500:                    #adb5bd !default;
-$gray-600:                    #868e96 !default;
-$gray-700:                    #495057 !default;
-$gray-800:                    #373a3c !default;
-$gray-900:                    #212529 !default;
-$black:                       #000000 !default;
+$blue:                      hsl(224.86 67.28% 33.33%) !default; // blue-900
+$blue-alt:                  hsl(225.35 84.1% 48.98%) !default; // blue-700
+$blue-dark:                 hsl(226.51 58.74% 21.15%) !default; // blue-950
 
-$blue:                        #232a3f !default;
-$blue-alt:                    #024CA2 !default;
-$blue-dark:                   #1A285F !default;
-$blue-light:                  #8892AF !default;
-$blue-extra-light:            #B6BCCE !default;
+$slate:                     hsl(228.82 85.13% 5%);
+$slate-900:                 hsl(222.34 49.39% 11.3%);
 
-$iron-ore:                    #1D1D21;
-$iron-ore-85:                 shift-color($iron-ore,-15%);
-
-$orange:                      #e5a15c !default;
+$fushsia:                   hsl(292.61 96.35% 57.51%) !default;
 
 $font-family-sans-serif:      system-ui, -apple-system, BlinkMacSystemFont, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
 $font-family-serif:           "Crimson Pro", serif !default;
@@ -41,10 +38,10 @@ $headings-font-weight:        700 !default;
 $posts-font-weight:           400 !default;
 
 $footer-font-family:          system-ui, -apple-system, BlinkMacSystemFont, segoe ui, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
-$footer-font-color:           shift-color($iron-ore,-90%);
+$footer-font-color:           $gray-100;
 
 // Body
-$body-color:                  $iron-ore-85 !default;
+$body-color:                  $black !default;
 
 $link-color:                  $blue-alt !default;
 $link-decoration:             none !default;
@@ -57,7 +54,12 @@ $navbar-fg:                   $body-color;
 $navbar-hl:                   $blue-alt;
 
 // Footer 
-$footer-bg:                   $iron-ore !default;
+$footer-bg:                   $slate !default;
+
+// Code Blocks and Inline
+$code-block-bg:               $gray-200 !default;
+$code-bg:                     $gray-200 !default;
+$code-color:                  $fushsia !default;
 
 // Banner blocks
 $title-block-banner:          $white !default;
@@ -96,15 +98,15 @@ a.badge.badge-red { color: $white;}
 .footer {
 	border-top: 3px solid;
     padding-top: 50px;
-    background-color: $iron-ore;
+    background-color: $slate;
 }
 .blockquote {
     font-weight: 400;
     font-style: normal;
     color: $body-color;
-    background: shift-color($iron-ore,-90%);
+    background: $gray-300;
     border-left-width: 0.25rem;
-    border-left-color: shift-color($iron-ore,-75%);
+    border-left-color: $gray-400;
     margin-top: 1.6em;
     margin-bottom: 1.6em;
 }
@@ -208,7 +210,7 @@ pre.text, pre.sourceCode, .cell-output pre {
 
 
     .project-details {
-        background-color: shift-color($iron-ore,-95%);
+        background-color: $gray-200;
         padding: 0.75em;
         margin: 1em 0;
         line-height: 1.3;
@@ -268,7 +270,7 @@ pre.text, pre.sourceCode, .cell-output pre {
 
         .project-category {
             color: $body-color;
-            background-color: shift-color($iron-ore,-90%);
+            background-color: $gray-200;
             text-transform: lowercase;
             -webkit-border-radius: 6px;
             -moz-border-radius: 6px;
@@ -340,7 +342,7 @@ pre.text, pre.sourceCode, .cell-output pre {
     .project-details-listing {
         font-family: $toc-font-family;
         margin-top: 0.8em;
-        background-color: shift-color($iron-ore,-90%);
+        background-color: $gray-200;
         font-size: 0.9rem;
 
         @media (max-width: map-get($grid-breakpoints, md)) {
@@ -352,13 +354,13 @@ pre.text, pre.sourceCode, .cell-output pre {
             white-space: nowrap;
             padding: 0.5em 0.5em 0.5em 1em;
         }
-
+        // Details button on main research page
         .details {
-            background-color: shift-color($iron-ore,-50%);
+            background-color: $gray-500;
             padding-right: 1.5em;
             
             a {
-                color: #FFFFFF;
+                color: $white;
             }
         }
     }
@@ -367,7 +369,7 @@ pre.text, pre.sourceCode, .cell-output pre {
 // Research Project List Front Page
 .project-list-fp {
     a {
-        color: $body-color;
+        color: $gray-600;
     }
 
     a:hover {
@@ -489,7 +491,7 @@ pre.text, pre.sourceCode, .cell-output pre {
                 display: inline-block;
                 white-space: nowrap;
                 color: $body-color;
-                background-color: shift-color($iron-ore,-90%);
+                background-color: $gray-200;
                 -webkit-border-radius: 6px;
                 -moz-border-radius: 6px;
                 border-radius: 6px;
@@ -557,7 +559,7 @@ pre.text, pre.sourceCode, .cell-output pre {
                 display: inline-block;
                 white-space: nowrap;
                 color: $gray-700;
-                background-color: shift-color($iron-ore,-90%);
+                background-color: $gray-200;
                 -webkit-border-radius: 6px;
                 -moz-border-radius: 6px;
                 border-radius: 6px;
@@ -601,7 +603,7 @@ pre.text, pre.sourceCode, .cell-output pre {
 
         .metadata {
             display: inline-flex;
-            color: $gray-600;
+            color: $gray-500;
             flex: 0 0 8%;
         }
 
@@ -652,6 +654,7 @@ pre.text, pre.sourceCode, .cell-output pre {
         }
 
         .date {
+            color: $gray-600;
             font-weight: 400;
             font-size: 0.9em;
             //margin-top: 0.2em;
@@ -667,7 +670,7 @@ pre.text, pre.sourceCode, .cell-output pre {
 
             .post-category {
                 //color: $gray-700;
-                background-color: shift-color($iron-ore,-90%);
+                background-color: $gray-200;
                 text-transform: lowercase;
                 -webkit-border-radius: 6px;
                 -moz-border-radius: 6px;
@@ -699,8 +702,8 @@ pre.text, pre.sourceCode, .cell-output pre {
 
         .quarto-category {
             color: $body-color !important;
-            background-color: shift-color($iron-ore,-90%);
-            border-color: shift-color($iron-ore,-90%);
+            background-color: $gray-200;
+            border-color: $gray-200;
             text-transform: lowercase;
             -webkit-border-radius: 6px;
             -moz-border-radius: 6px;

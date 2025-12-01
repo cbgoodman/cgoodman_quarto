@@ -9,7 +9,7 @@ toc-title: Contents
 #toc-location: left
 
 # Enable banner style title blocks
-title-block-banner: "#FFFFFF"
+title-block-banner: true
 
 # Only include Bibtex citation
 appendix-cite-as: bibtex
