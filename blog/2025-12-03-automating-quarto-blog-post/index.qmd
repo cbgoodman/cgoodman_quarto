@@ -1,0 +1,33 @@
+---
+title: "Automating Quarto blog post generation with Raycast"
+date: "2025-12-03"
+description: "Creating new blog posts in Quarto can be a bit of a pain because of a lack of a templating system. This is a functionality I came to rely on when this blog was built with Hugo. So, with some help from Andrew Heiss, I built a templating system using Raycast."
+#image: "img/BLAH.png"
+#twitter-card:
+#    image: "img/BLAH.png"
+#open-graph:
+#    image: "img/BLAH.png"
+categories:
+  - code
+  - technology
+format:
+  html: 
+    fig-cap-location: margin
+    code-copy: true
+---
+
+This website was previously compiled using [Hugo](https://gohugo.io/). Hugo has a rather robust templating system, something I became fairly dependent on to create new blog posts, research pages, or class pages. It is a functionality that I sorely miss with the new version of this site that is built with [Quarto](https://www.quarto.org). I have lived with this for a while, as I sorted out the finer details of this site—not everything transferred one-for-one. Now that things are more or less settled, I'm looking for more quality of life upgrades so that I can use this site a bit easier. 
+
+Enter [Raycast](https://www.raycast.com). I use Raycast for lots of things on my Mac; launching apps, searching the web (and specific parts of the web like Google Scholar), running little scripts (see [Key light shenanigans](../2024-11-08-lights)), etc. So, naturally, it seemed like a good way to automate creating the framework for a new blog post on this site. 
+
+Some logistics. This blog lives in the `/blog/` folder and each post is also a folder named `/YYYY-MM-DD-title-as-slug/`. So, I need to replicate that. Raycast can take arguments and pass them to a bash script. Below is the general format for that (more information [here](https://github.com/raycast/script-commands/blob/master/documentation/ARGUMENTS.md)).
+
+![Raycast window with "to-do" script. [Source](https://github.com/raycast/script-commands/blob/master/documentation/ARGUMENTS.md).](https://github.com/raycast/script-commands/raw/master/images/screenshots/custom-arguments.png){width=90%}
+
+So, I open Raycast, type `Create Script Command`, enter a few bits of info, and save it. This creates the framework for a shell command. And you can see the output of that work, some taken from [Andrew Heiss](https://www.andrewheiss.com), and some from me. The command asks you for the title of the blog post you want. It then grabs today's date, formats that text into a 5 word slug, and creates the folder necessary to get the process going. It then creates a `index.qmd` file with the necessary template information to begin a blog post.
+
+Now, I enter the title of the post I want to make into Raycast, and I get out the shell of a post that I immediately begin editing. This should be relatively easy to remux into a templating system that allows me to recreate almost all of the Hugo functionality I enjoyed before. 
+
+If you want to try it for yourself (and not necessarily just with  Raycast, this is a bash script, so it could be used in several ways), see the [Gist](https://gist.github.com/cbgoodman/81fc09b1708c0e438f5bcad8b5ea1d6a) below.
+
+{{< gist cbgoodman 81fc09b1708c0e438f5bcad8b5ea1d6a >}}
