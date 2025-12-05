@@ -1,5 +1,5 @@
 ---
-title: "Quoting Haixin Tsik, Miyazaki, and Drew"
+title: "Quoting Haixin-Tsik, Miyazaki, and Drew"
 date: "2025-12-05"
 description: "From \"The Financial Sustainability of Local Governments With Declining Populations\" in State & Local Government Review."
 #image: "img/BLAH.png"
