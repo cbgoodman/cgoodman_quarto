@@ -1,0 +1,25 @@
+---
+title: "Quoting Haixin Tsik, Miyazaki, and Drew"
+date: "2025-12-05"
+description: "From \"The Financial Sustainability of Local Governments With Declining Populations\" in State & Local Government Review."
+#image: "img/BLAH.png"
+#twitter-card:
+#    image: "img/BLAH.png"
+#open-graph:
+#    image: "img/BLAH.png"
+categories:
+  - local govt
+  - public finance
+format:
+  html: 
+    fig-cap-location: margin
+    code-copy: true
+---
+
+It's ineresting to see that population decline does not necessarily mean financial distress for local governments (in New South Wales).
+
+> This work represents another example of the importance of testing assumptions with scholarly theory and evidence. As we have seen, the effect of population decline on organisational sustainability is not what some have imagined. Of particular importance, was the specific structure of the NSW local government revenue base, as well as the response in expenditure to decline.
+>
+Our predictions based on an examination of context were also attested to by a review of individual financial ratio data over the time period, and ultimately the sophisticated regression work. Otherwise stated, all three ways of understanding all point in the same direction and readers can thus rest assured in our conclusion that there is no good reason to believe that population decline will ineluctably result in a decline to financial sustainability – certainly for the case of NSW Australia.
+> 
+> -- [Haixin Tsik, Miyazaki, and Drew (2025)](https://journals.sagepub.com/doi/10.1177/0160323X251391799)
