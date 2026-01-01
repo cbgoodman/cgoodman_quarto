@@ -1,0 +1,113 @@
+---
+title: "Uses"
+date: "2026-01-01"
+#date-modified: "2026-01-30"
+description: "Inspired by Usethis And App Defaults, this post includes a relatively up-to-date description of the stuff I use to do things."
+categories:
+  - technology
+format:
+  html: 
+    fig-cap-location: margin
+    code-copy: true
+---
+
+```{r}
+#| label: setup
+#| echo: false
+#| include: false
+
+library(tidyverse)
+library(tinytable)
+```
+
+A somewhat up-to-date listing of all the stuff I use to get things done. Inspired by [Usethis](https://usesthis.com) and [App Defaults](https://defaults.rknight.me).
+
+### Hardware
+```{r}
+#| label: hardware-tbl
+#| echo: false
+
+tribble(
+  ~item, ~notes,
+  "[AirPods Pro](https://www.apple.com/airpods-pro/)", "3rd Generation, essential",
+  "[iPhone](https://www.apple.com/iphone/)", "15 Pro",
+  "[Apple Watch](https://www.apple.com/watch/)", "Ultra 3",
+  "[Macbook Pro](https://www.apple.com/macbook-pro/)", "M1 Pro",
+  "[Steamdeck OLED](https://www.steamdeck.com/en/oled) or [Switch 2](https://www.nintendo.com/us/gaming-systems/switch-2/)", "Distractions"
+) |>
+  arrange(tolower(item), item) |>
+  tt(width = c(0.35, 0.35)) |>
+  setNames(c("Item", "Notes")) |>
+  format_tt(j = 1, markdown = TRUE) |>
+  style_tt(j = 1, align = "l") |>
+  style_tt(j = 2, align = "r") 
+```
+
+### Desk
+```{r}
+#| label: desk-tbl
+#| echo: false
+
+tribble(
+  ~item, ~notes,
+  "[Steelcase Series 1](https://www.steelcase.com/products/office-chairs/steelcase-series-1/)", "Desk chair, somewhat pricy but extremely comfortable",
+  "[Nuphy Node 100](https://nuphy.com/collections/in-stock-keyboards/products/nuphy-node-series-low-profile?variant=43797388820589)", "Low profile mechanical keyboard, Brown Nano switches, 100% layout—mostly for data entry",
+  "[Logitech MX Master 3](https://www.logitech.com/en-us/mx/master-series.html)", "Wireless mouse, the MX Master 4 is the newest version, but I haven't found a reason to upgrade"
+) |>
+  arrange(tolower(item), item) |>
+  tt(width = c(0.35, 0.35)) |>
+  setNames(c("Item", "Notes")) |>
+  format_tt(j = 1, markdown = TRUE) |>
+  style_tt(j = 1, align = "l") |>
+  style_tt(j = 2, align = "r") 
+```
+
+
+### Software
+```{r}
+#| label: software-tbl
+#| echo: false
+
+tribble(
+  ~item, ~notes,
+  "[1password](https://1password.com/)", "Password manager",
+  "[Apple Music](https://www.apple.com/apple-music/)", "Music streaming",
+  "[Overcast](https://overcast.fm/)", "Podcasts",
+  "[Positron](https://positron.posit.co/) or [VS Code](https://code.visualstudio.com)", "IDE",
+  "[iTerm2](https://iterm2.com)", "Terminal",
+  "[Safari](https://www.apple.com/safari/)", "Browser",
+  "[iA Writer](https://ia.net/writer)", "Writing (longform), testing",
+  "[Spark](https://sparkmailapp.com)", "Email client",
+  "[Fantastical](https://flexibits.com/fantastical)", "Calendar client",
+  "[Readkit](https://readkit.app)", "RSS",
+  "[Obsidian](https://www.obsidian.md)", "Notes",
+  "[Things](https://culturedcode.com/things/)", "To-do management",
+  "[Raycast](https://www.raycast.com)", "Launcher",
+) |>
+  arrange(tolower(item), item) |>
+  tt(width = c(0.35, 0.35)) |>
+  setNames(c("Item", "Notes")) |>
+  format_tt(j = 1, markdown = TRUE) |>
+  style_tt(j = 1, align = "l") |>
+  style_tt(j = 2, align = "r") 
+```
+
+### SaaS
+```{r}
+#| label: saas-tbl
+#| echo: false
+
+tribble(
+  ~item, ~notes,
+  "[Cloudflare](https://www.cloudflare.com/)", "Domains",
+  "[Dropbox](https://www.dropbox.com)", "Cloud storage",
+  "[Fastmail](https://www.fastmail.com/)", "Personal email",
+  "[Netlify](https://www.netlify.com/)", "Website hosting",
+) |>
+  arrange(tolower(item), item) |>
+  tt(width = c(0.35, 0.35)) |>
+  setNames(c("Item", "Notes")) |>
+  format_tt(j = 1, markdown = TRUE) |>
+  style_tt(j = 1, align = "l") |>
+  style_tt(j = 2, align = "r") 
+```
