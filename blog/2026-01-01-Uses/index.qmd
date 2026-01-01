@@ -2,7 +2,7 @@
 title: "Uses"
 date: "2026-01-01"
 #date-modified: "2026-01-30"
-description: "Inspired by Usethis And App Defaults, this post includes a relatively up-to-date description of the stuff I use to do things."
+description: "Inspired by Uses This And App Defaults, this post includes a relatively up-to-date description of the stuff I use to do things."
 categories:
   - technology
 format:
@@ -20,7 +20,7 @@ library(tidyverse)
 library(tinytable)
 ```
 
-A somewhat up-to-date listing of all the stuff I use to get things done. Inspired by [Usethis](https://usesthis.com) and [App Defaults](https://defaults.rknight.me).
+A somewhat up-to-date listing of all the stuff I use to get things done. Inspired by [Uses This](https://usesthis.com) and [App Defaults](https://defaults.rknight.me).
 
 ### Hardware
 ```{r}
