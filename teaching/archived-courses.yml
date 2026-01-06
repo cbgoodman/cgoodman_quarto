@@ -24,6 +24,10 @@
   number: PSPA 611
   url: "https://pspa611.cgoodman.com"
   semester:
+  - name: Fall 2025
+    url: "/files/teaching/goodman-pspa611-25f.pdf"
+  - name: Summer 2025 (asynchronous online)
+    url: "/files/teaching/goodman-pspa611-25sum.pdf"
   - name: Fall 2024
     url: "/files/teaching/goodman-pspa611-24f-1.pdf"
   - name: Fall 2024 (asynchronous online)
@@ -91,6 +95,8 @@
   university: Northern Illinois University
   number: PSPA 653
   semester:
+  - name: Fall 2025 (asynchronous online)
+    url: "/files/teaching/goodman-pspa653-25f.pdf"
   - name: Fall 2020 (synchronous online)
     url: "/files/teaching/goodman-pspa653-20f.pdf"
 
