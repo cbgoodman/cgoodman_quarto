@@ -1,0 +1,63 @@
+---
+title: "Reorganizing My Teaching Files"
+date: "2026-01-14"
+description: "While there are some resources on how to organize empirical research files, there is almost nothing for teaching. This is my attempt to solve that."
+image: "img/file-structure.jpg"
+# twitter-card:
+#     image: "img/BLAH.png"
+# open-graph:
+#     image: "img/BLAH.png"
+categories:
+  - teaching
+format:
+  html: 
+    fig-cap-location: margin
+    code-copy: true
+---
+
+I have a problem.
+
+I teach, more or less, the same course in both fall and spring semesters. And, it has been this way for most of my career. That means I have accumulated 14 years (gasp) of cruft in my teaching files. I did the thing that I now counsel every junior faculty member not to do: I didn't put any thought into how I might use these files well into the future. 
+
+So, as a result, I ended up with a giant mess (of my own making). It's time to fix this problem.
+
+I have landed on this file structure. It is fairly tidy and allows me to get to the things I use most often, typically course syllabi and individual lectures. Previously, stuff was all over—of particular issue was multiple versions of the same lecture living in the `/lectures` folder.
+
+```
+.
+├── archive
+├── assignments/
+│   ├── memos
+│   ├── revenue-analysis
+│   └── presentation
+├── classes/
+│   ├── 25f
+│   └── 26spr
+├── lectures/
+│   ├── 01-individual-lecture/
+│   │   ├── content/
+│   │   │   ├── data
+│   │   │   ├── html
+│   │   │   └── img
+│   │   ├── out
+│   │   ├── resources
+│   │   └── run.sh
+│   ├── archive
+│   ├── data
+│   ├── guest-lectures
+│   └── resources/
+│       ├── img
+│       ├── img-background
+│       ├── img-thumbnail
+│       └── pdf
+├── mailings
+├── readings
+├── rubrics
+└── webiste
+```
+
+First thing you'll notice is `archive` is everywhere. That serves two purposes. First, sometimes you just need to clean house. Second, I don't want to lose old work, so putting it somewhere that I can go looking for it is helpful. But onto the good stuff. Most of this is relatively standard. Assignments go in the `assignment` folder, everything to do with a specific class offering is in the `classes` folder ( won't list all of them here. It's 19(!) from only my time at NIU.), etc. 
+
+Where most of my issues are is around lectures and all the associated data, images, and resources for them. I have chosen to organize a particular lecture. The code to create the lecture lives here (`/content`), along with all the associated information (primarily data and images). This is also where the output of this process lives, either an HTML file or a PDF (`/out`). All of this is controlled by `run.sh` that renders the Quarto file in `/content` and moves the output to `/out`. The `/resources` folder includes any recordings that I might do, audio or visual. The lectures folder also contains centralized resources. Whether that's guest lecture files, centralized data (I keep central data files that I output to smaller pieces for individual lectures), or centralized resources such as downloaded images, backgrounds for title pages, or thumbnails for videos.
+
+Organizing around a lecture is a conscience choice. This is how I organize my course, so it makes sense. Everything revolves around a particular week. Your course may not, so a different organizing principle might make more sense. However, I urge you to be thoughtful about how you do this. You never know when you'll look back, it has been a decade (whether constantly teaching or between course offerings), and you're full of regret. 

@@ -1,5 +1,6 @@
 .DS_Store
 .Rhistory
+/.vscode/
 /.quarto/
 /_site/
 /files/.DS_Store
