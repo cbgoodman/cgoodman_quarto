@@ -1,0 +1,15 @@
+---
+title: "Uses (March 2026)"
+date: "2026-03-03"
+description: "Always be testing."
+categories:
+  - technology
+format:
+  html: 
+    fig-cap-location: margin
+    code-copy: true
+---
+
+A couple of updates to my [Uses](../2026-01-01-uses/) page.
+
+**Software**: I went through the entire test period with [iA Writer](https://ia.net/writer) and decided it was too much for my needs (though, the fonts are very nice and [freely available](https://github.com/iaolo/iA-Fonts); I use them in Obsidian). I have switched to [Typora](http://www.typora.io). I have also switched away from [iTerm2](https://www.iterm2.com) to [Ghostty](https://ghostty.org); though, to be honest, I use the built in terminal in Positron far more than a standalone terminal emulator. 

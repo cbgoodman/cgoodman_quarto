@@ -1,7 +1,7 @@
 ---
 title: "Uses"
 date: "2026-01-01"
-#date-modified: "2026-01-30"
+date-modified: "2026-03-03"
 description: "Inspired by Uses This And App Defaults, this post includes a relatively up-to-date description of the stuff I use to do things."
 categories:
   - technology
@@ -74,9 +74,9 @@ tribble(
   "[Apple Music](https://www.apple.com/apple-music/)", "Music streaming",
   "[Overcast](https://overcast.fm/)", "Podcasts",
   "[Positron](https://positron.posit.co/) or [VS Code](https://code.visualstudio.com)", "IDE",
-  "[iTerm2](https://iterm2.com)", "Terminal",
+  "[Ghostty](https://ghostty.org)", "Terminal",
   "[Safari](https://www.apple.com/safari/)", "Browser",
-  "[iA Writer](https://ia.net/writer)", "Writing (longform), testing",
+  "[Typora](https://typora.io)", "Writing (longform)",
   "[Spark](https://sparkmailapp.com)", "Email client",
   "[Fantastical](https://flexibits.com/fantastical)", "Calendar client",
   "[Readkit](https://readkit.app)", "RSS",
@@ -111,3 +111,7 @@ tribble(
   style_tt(j = 1, align = "l") |>
   style_tt(j = 2, align = "r") 
 ```
+
+#### Update history
+
+- [Uses (March 2026)](../2026-03-03-uses-march-2026/)
