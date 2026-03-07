@@ -14,6 +14,8 @@ pub-info:
     <strong>Christopher B. Goodman</strong>. "Demand Shocks & Special Districts: Evidence from Chinese Import Shocks,” Working paper.
   extra: >-
     Presented at the [Martin School of Public Policy & Administration](https://slides.cgoodman.com/presentation/2025-uky), Lexington, Kentucky, February 2025.
+    <br/>
+    Presentation at the [Urban Affairs Association](https://slides.cgoodman.com/presentation/2025-uaa) Conference, Vancouver, BC, April 2025.
   #links:
   #  - name: PDF
   #    url: "../../files/papers/sd-io.pdf"
