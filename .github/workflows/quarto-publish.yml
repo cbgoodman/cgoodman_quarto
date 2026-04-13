@@ -13,11 +13,11 @@ jobs:
         
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-        with:
+        # with:
           # To install LaTeX to build PDF book 
-          tinytex: false 
+          # tinytex: false 
           # uncomment below and fill to pin a version
-          version: 1.8.17
+          # version: 1.8.17
       
       # add software dependencies here
 
