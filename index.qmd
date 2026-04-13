@@ -27,7 +27,7 @@ listing:
 
 ::: {.g-col-12 .g-col-md-8}
 
-### Recent Posts
+### Recent posts
 :::{#posts}
 :::
 [→ More posts](blog/index.qmd)
