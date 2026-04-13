@@ -1,6 +1,7 @@
 ---
 title: "MPA/MPP Degrees Conferred"
 date: "2019-10-15"
+image: ../../files/img/mpampp.png
 categories:
     - dataviz
     - teaching

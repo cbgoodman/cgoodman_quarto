@@ -1,6 +1,7 @@
 ---
 title: "The Price of Residential Street Parking"
 date: "2020-09-15"
+image: "../../files/img/transparent-placeholder.png"
 categories: 
     - cities
     - public finance

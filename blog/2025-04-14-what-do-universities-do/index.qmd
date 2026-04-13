@@ -2,6 +2,7 @@
 title: "What do universities actually do?"
 date: "2025-04-14"
 description: "With universities all over the United States under fire from the Trump administration, there appears to be mass confusion by non-academics about what universities do. This post is meant as a plain language explainer of the kinds of things that research-intensive universities do."
+image: carnegie-classification.jpg
 categories:
     - academia
 format:

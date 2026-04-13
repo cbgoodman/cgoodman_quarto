@@ -7,10 +7,9 @@ listing:
   - id: posts
     contents: "*/*.qmd"
     sort: "date desc"
-    template: ../html/blog/listing.ejs
+    template: ../html/blog/listing-test.ejs 
     categories: true
-    page-size: 5
-#toc-title: Year
+    page-size: 5 
 toc-location: right
 date-format: "MMMM D, YYYY"
 code-tools: false

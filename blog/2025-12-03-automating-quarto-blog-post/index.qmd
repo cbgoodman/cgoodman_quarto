@@ -2,7 +2,7 @@
 title: "Automating Quarto blog post generation with Raycast"
 date: "2025-12-03"
 description: "Creating new blog posts in Quarto can be a bit of a pain because of a lack of a templating system. This is a functionality I came to rely on when this blog was built with Hugo. So, with some help from Andrew Heiss, I built a templating system using Raycast."
-#image: "img/BLAH.png"
+image: https://github.com/raycast/script-commands/raw/master/images/screenshots/custom-arguments.png
 #twitter-card:
 #    image: "img/BLAH.png"
 #open-graph:

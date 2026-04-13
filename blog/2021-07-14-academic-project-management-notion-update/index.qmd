@@ -2,6 +2,7 @@
 title: "Academic Project Management Notion (Update)"
 date: "2021-07-14"
 description: "About a year ago, I wrote a small post about how I use <strong>Notion</strong> as a project management tool. I didn't really expect it to be as popular as it is, but I also didn't expect myself to change too much about the process either. It was working. Fast forward one, sort of over, but not really pandemic later. Things have certainly changed, sort of. This post is meant to explain some of those changes and to provide a template for anyone who wants to give this a spin."
+image: notion-1.png
 categories: 
     - technology
     - project management

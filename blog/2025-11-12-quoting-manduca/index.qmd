@@ -2,6 +2,7 @@
 title: "Quoting Manduca, Highsmith, and Waggoner"
 date: "2025-11-12"
 description: "Robert Manduca, Brian Highsmith, Jacob Waggoner, Tax base fragmentation as a dimension of metropolitan inequality, _Socio-Economic Review_, 2025"
+image: soceco_24_1cover.jpeg
 categories:
     - fragmentation
     - property tax

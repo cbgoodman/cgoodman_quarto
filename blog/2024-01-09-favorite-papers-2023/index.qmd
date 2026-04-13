@@ -1,11 +1,8 @@
 ---
 title: "My Necessarily Flawed List of Best or Most Interesting Articles of 2023"
 date: "2024-01-09"
-author:
-  - name: Christopher B. Goodman
-    url: https://www.cgoodman.com
-    orcid: 0000-0002-8565-9714
 description: "My list of the best or most interesting articles appearing in issues dated 2023. They are mostly local government, but some others sneak in that are important to my work in some way."
+image: "../../files/img/transparent-placeholder.png"
 categories: 
   - local govt
   - urban

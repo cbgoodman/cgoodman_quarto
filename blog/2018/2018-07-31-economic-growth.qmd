@@ -1,6 +1,7 @@
 ---
 title: "Long-Run Metropolitan Economic Growth in the U.S."
 date: "2018-07-31"
+image: ../../files/img/pop.png
 categories: 
     - r 
     - dataviz

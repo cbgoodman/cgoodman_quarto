@@ -6,6 +6,7 @@ categories:
     - urban
     - cities
 description: "I recently had the pleasure of writing a blog post for the London School of Economic’s US Centre Blog. It covers a recent publication in the *Journal of Urban Affairs* on the implications of local government structure on long-run economic growth in the US metropolitan areas. See below for the full text of the post as well as a link to the original."
+image: https://blogsmedia.lse.ac.uk/blogs.dir/58/files/2021/11/New-blog-image-test-4.png
 format:
   html: 
     fig-cap-location: bottom

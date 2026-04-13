@@ -2,9 +2,13 @@
 title: "Florida is dissolving the Reedy Creek Improvement District, home of Disney World. What happens next is anyone’s guess."
 date: "2022-04-28"
 description: "I recently had the pleasure of writing a blog post for the London School of Economic’s US Centre Blog. It covers a recent controversy about the Reedy Creek Improvement District -- something I have a somewhat unique perspective on as a scholar of local governments and, in particular, special districts. See below for the full text of the post as well as a link to the original."
+image: https://blogsmedia.lse.ac.uk/blogs.dir/58/files/2022/04/New-blog-image-test-3.png
 categories:
   - local govt
   - special districts
+format:
+  html: 
+    fig-cap-location: margin
 ---
 
 [**LSE US Centre Blog**](https://blogs.lse.ac.uk/usappblog/2022/04/27/florida-is-dissolving-the-reedy-creek-improvement-district-home-of-disney-world-what-happens-next-is-anyones-guess/)

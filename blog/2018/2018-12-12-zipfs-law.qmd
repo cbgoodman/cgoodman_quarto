@@ -1,6 +1,7 @@
 ---
 title: "Zipf's Law"
 date: "2018-12-12"
+image: ../../files/img/zipf135.png
 categories:
     - r
     - dataviz

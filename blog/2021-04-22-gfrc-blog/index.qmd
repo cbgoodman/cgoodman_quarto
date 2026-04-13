@@ -2,6 +2,7 @@
 title: "Special Districts: America’s Shadow Governments"
 date: "2021-04-22"
 description: "I recently had the pleasure of writing a short blog post for the UIC Government Finance Research Center's blog. The piece is a bit of a short explainer on special districts in the United States and a few fiscal issues that arise. It's by no means comprehensive but part of a broader focus I have on writing more popular or policy focused work on these relatively hidden local governments. Below is the intro (I don't have full re-print rights) and a link to the original."
+image: "../../files/img/transparent-placeholder.png"
 categories: 
     - local govt 
     - special districts

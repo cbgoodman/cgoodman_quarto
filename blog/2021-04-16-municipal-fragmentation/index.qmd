@@ -1,6 +1,7 @@
 ---
 title: "Municipal Fragmentation in U.S. Metro Areas in 3 Maps"
 date: "2021-04-16"
+image: ../../files/img/munifrag-ragg.png
 categories:
   - r
   - dataviz

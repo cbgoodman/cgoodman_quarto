@@ -1,6 +1,7 @@
 ---
 title: "Canadian City Councilors per 100,000 Residents"
 date: "2018-07-28"
+image: ../../files/img/canadiancouncilors.png
 categories: 
     - r
     - dataviz

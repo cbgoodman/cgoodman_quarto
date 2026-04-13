@@ -1,6 +1,7 @@
 ---
 title: "Special District Creation and Dissolution"
 date: "2018-06-30"
+image: ../../files/img/spdist.png
 categories: 
     - r
     - dataviz

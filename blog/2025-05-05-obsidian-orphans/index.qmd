@@ -2,6 +2,7 @@
 title: "Finding orphans in Obsidian"
 date: "2025-05-05"
 description: "I use Obsidian as my main notetaking app (among many other things it does for me). I try to implement Andy Matuschak's 'Evergreen Notes' method when working through a particular concept in the literature. Often, this means linking notes together that haven't been created yet. This post outlines a method of finding such orphaned links, so I can fill them in."
+image: uncreated-files.jpg
 categories:
     - code
     - obsidian

@@ -1,6 +1,7 @@
 ---
 title: "Custom Coefficient Graphs"
 date: "2019-12-03"
+image: popgrow-coeff.png
 categories: 
     - dataviz
     - r

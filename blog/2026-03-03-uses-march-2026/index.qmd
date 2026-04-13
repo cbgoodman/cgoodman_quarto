@@ -2,6 +2,7 @@
 title: "Uses (March 2026)"
 date: "2026-03-03"
 description: "Always be testing."
+image: "../../files/img/transparent-placeholder.png"
 categories:
   - technology
 format:

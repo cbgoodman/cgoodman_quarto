@@ -1,6 +1,7 @@
 ---
 title: "How I Record Lectures"
 date: "2020-01-19"
+image: hardware.jpg
 categories: 
     - pedagogy
     - technology
@@ -14,7 +15,7 @@ On the hardware side, I already had a bit of equipment from my last attempts are
 
 :::{.column-body-outset-right}
 
-![Messy desk](../../files/img/hardware.jpg){fig-align="center"}
+![Messy desk](hardware.jpg){fig-align="center"}
 
 ::: 
 
@@ -35,7 +36,7 @@ This required some specific paid software. I previous recorded/edited on a Mac u
 
 :::{.column-body-outset-right}
 
-![iPad Audio Software](../../files/img/ipad-audio.jpg){fig-align="center"}
+![iPad Audio Software](ipad-audio.jpg){fig-align="center"}
 
 ::: 
 

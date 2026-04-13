@@ -2,6 +2,7 @@
 title: "Quoting Dube"
 date: "2025-12-08"
 description: "From \"Municipal amalgamations and scale economies: Evidence from South Africa’s structural reforms\" in Urban Studies."
+image: usja_63_5.largecover.png
 #image: "img/BLAH.png"
 #twitter-card:
 #    image: "img/BLAH.png"

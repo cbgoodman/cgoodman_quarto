@@ -2,6 +2,7 @@
 title: "Academic Project Management using Notion"
 date: "2020-06-11"
 description: "I'm horribly bad at project management. It's not usually something that is specifically taught in graduate school even though it's incredibly important to an academic's professional life. There are many ways to go about this (low tech to super high tech), but the purpose of this post is to explain one tool that I have found incredibly useful and flexible. That tool is <strong>Notion</strong> (<a href='https://www.notion.so/educators'>notion.so</a>). Notion can do way more than I am going to explain (see <a href='https://fortelabs.co/blog/using-notion-as-your-second-brain/'>Using Notion as Your Second Brain</a>), but this is how I use it to keep track of writing projects throughout the process of development to publication."
+image: notion-1.png
 categories: 
     - project management
     - technology

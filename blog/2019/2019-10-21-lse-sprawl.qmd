@@ -1,6 +1,7 @@
 ---
 title: "Why your sprawling, low-density suburb may be costing your local government money"
 date: "2019-10-21"
+image: https://blogsmedia.lse.ac.uk/blogs.dir/58/files/2019/10/New-blog-image-test-6.png
 categories:
     - local govt
     - public finance

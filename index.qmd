@@ -10,8 +10,8 @@ listing:
       template: html/blog/listing-front-page.ejs
       sort: "date desc"
       categories: false
-      page-size: 3
-      max-items: 3
+      page-size: 4
+      max-items: 4
     - id: working-papers
       contents: "research/working-papers/*.qmd"
       template: /html/research/listing-front-page.ejs
@@ -27,9 +27,11 @@ listing:
 
 ::: {.g-col-12 .g-col-md-8}
 
-###
+### Recent Posts
 :::{#posts}
 :::
+[→ More posts](blog/index.qmd)
+
 
 :::
 

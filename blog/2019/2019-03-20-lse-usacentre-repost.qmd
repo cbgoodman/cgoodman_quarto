@@ -1,6 +1,7 @@
 ---
 title: "How a type of local government you may have never heard of may be costing you a bit more"
 date: "2019-03-20"
+image: https://blogsmedia.lse.ac.uk/blogs.dir/58/files/2019/03/New-blog-image-test-3.png
 categories: 
     - local govt 
     - special districts
