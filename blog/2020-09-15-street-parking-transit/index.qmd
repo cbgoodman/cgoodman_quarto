@@ -18,7 +18,10 @@ Below is the monthly cost of a residential parking permit[^1] versus the cost of
 ```{r}
 #| echo: false
 
-tibble::tribble(
+library(tidyverse)
+library(gt)
+
+tribble(
   ~Rank, ~City,               ~Pop17,   ~MonthlyParkingCost, ~MonthlyTransitPass,
   1L,    "New York City, NY", 8622698L, 0.0,                 127.0,              
   2L,    "Los Angeles, CA",   3999759L, 2.833333333,         100.0,              
@@ -51,19 +54,19 @@ tibble::tribble(
   29L,   "Louisville, KY",    621349L,  1.666666667,         50.0,               
   30L,   "Baltimore, MD",     611648L,  1.666666667,         74.0
 ) |>
-  gt::gt() |>
-  gt::cols_label(
+  gt() |>
+  cols_label(
     Rank = "**Rank**",
     City = "**City**",
     Pop17 = "**2017<br>Population**",
     MonthlyParkingCost = "**Monthly Street<br>Parking Cost**",
     MonthlyTransitPass = "**Monthly Transit<br>Pass Cost **",
-    .fn = gt::md
+    .fn = md
   ) |>
-  gt::fmt_integer(columns = c(Rank)) |>
-  gt::fmt_number(columns = c(Pop17), decimals = 0, use_seps = TRUE) |>
-  gt::fmt_currency(columns = c(MonthlyParkingCost, MonthlyTransitPass)) |>
-  gt::sub_missing(columns = c(MonthlyTransitPass), missing_text = "-")
+  fmt_integer(columns = c(Rank)) |>
+  fmt_number(columns = c(Pop17), decimals = 0, use_seps = TRUE) |>
+  fmt_currency(columns = c(MonthlyParkingCost, MonthlyTransitPass)) |>
+  sub_missing(columns = c(MonthlyTransitPass), missing_text = "-")
 
 ```
 
