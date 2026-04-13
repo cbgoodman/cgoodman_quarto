@@ -17,6 +17,7 @@ Below is the monthly cost of a residential parking permit[^1] versus the cost of
 
 ```{r}
 #| echo: false
+#| label: price-tbl
 
 library(tidyverse)
 library(gt)
