@@ -15,7 +15,7 @@ about:
 ---
 :::{#hero-heading}
 
-I am an Associate Professor of [Public Administration](https://mpa.niu.edu) at [Northern Illinois University](https://www.niu.edu). Much of my research exists at the nexus of local public finance, local government management, urban policy, and intergovernmental affairs. My research agenda, in large part, seeks to examine questions of why local areas make the governance decisions they do. As with most research in this realm, these decisions are inextricably linked to issues of public spending, taxation, and state policy. I tend to focus on specific questions dealing with the special district form of local government as these governments are under-researched in the relevant literature. A secondary line of research focuses on the state preemption of local ordinances.
+I am a Professor of [Public Administration](https://mpa.niu.edu) and MPA Director at [Northern Illinois University](https://www.niu.edu). Much of my research exists at the nexus of local public finance, local government management, urban policy, and intergovernmental affairs. My research agenda, in large part, seeks to examine questions of why local areas make the governance decisions they do. As with most research in this realm, these decisions are inextricably linked to issues of public spending, taxation, and state policy. I tend to focus on specific questions dealing with the special district form of local government as these governments are under-researched in the relevant literature. A secondary line of research focuses on the state preemption of local ordinances.
 
 ### Education
 
