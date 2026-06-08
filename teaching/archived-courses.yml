@@ -24,6 +24,8 @@
   number: PSPA 611
   url: "https://pspa611.cgoodman.com"
   semester:
+  - name: Spring 2026 (synchronous online)
+    url: "/files/teaching/goodman-pspa611-26spr.pdf"
   - name: Fall 2025
     url: "/files/teaching/goodman-pspa611-25f.pdf"
   - name: Summer 2025 (asynchronous online)
@@ -84,6 +86,8 @@
   number: PSPA 635
   #url: "https://pspa635.cgoodman.com"
   semester:
+  - name: Spring 2026 (synchronous online)
+    url: "/files/teaching/goodman-pspa635-26spr.pdf"
   - name: Summer 2024 (asynchronous online)
     url: "/files/teaching/goodman-pspa635-24sum.pdf"
   - name: Summer 2022
@@ -149,7 +153,7 @@
     url: "/files/teaching/goodman-pa9950-17spr.pdf"
 
 - title: Seminar in Urban Studies
-  description: "This course is considered the core seminar in the graduate program in Urban Studies. It introduces students to the interdisciplinary and scholarly examination of the factors and issues that affect the dynamics of the urban environment. It focuses on the study of cities from three broad perspectives – human community, built environment and natural systems."
+  description: "This course is considered the core seminar in the graduate program in Urban Studies. It introduces students to the interdisciplinary and scholarly examination of the factors and issues that affect the dynamics of the urban environment. It focuses on the study of cities from three broad perspectives—human community, built environment and natural systems."
   university: University of Nebraska at Omaha
   number: UBNS 8000
   semester:

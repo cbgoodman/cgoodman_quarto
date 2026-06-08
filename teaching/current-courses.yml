@@ -4,12 +4,13 @@
   number: PSPA 611
   url: "https://pspa611.cgoodman.com"
   semester:
-  - name: Spring 2026 (synchronous online)
-    url: "/files/teaching/goodman-pspa611-26spr.pdf"
-- title: Local Economic Development Policy
-  description: "Introduction to the tools, institutions, analytical techniques, financing instruments, and policy issues relevant to economic development policy at the state, local, and regional level."
+  - name: Fall 2026 
+    #url: "/files/teaching/goodman-pspa611-26spr.pdf"
+- title: Local & Metropolitan Government
+  description: "Discussion of the operational and administrative aspects of local and metropolitan government in the United States, including design and structure, municipal law, finance, administrative organization, local political systems, and intergovernmental relations."
   university: Northern Illinois University
-  number: PSPA 635
+  number: PSPA 630
+  url: "https://pspa630.cgoodman.com"
   semester:
-  - name: Spring 2026 (synchronous online)
-    url: "/files/teaching/goodman-pspa635-26spr.pdf"
+  - name: Fall 2026 (synchronous online)
+    #url: "/files/teaching/goodman-pspa630-24spr.pdf"

@@ -13,7 +13,7 @@ format:
     code-copy: true
 ---
 
-I use [Obsidian](https://obsidian.md) as my main notetaking app (among many other things it does for me). I try to implement Andy Matuschak's [Evergreen Notes](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX) method when working through a particular concept in the literature (something close to but also distinct from creating a [Zettelkasten](https://www.soenkeahrens.de/en/home)). This involve creating a densely linked series of notes, often with the express goal of connecting different concepts together that may not be obviously connected. Super useful for academic research!
+I use [Obsidian](https://obsidian.md) as my main note taking app (among many other things it does for me). I try to implement Andy Matuschak's [Evergreen Notes](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX) method when working through a particular concept in the literature (something close to but also distinct from creating a [Zettelkasten](https://www.soenkeahrens.de/en/home)). This involve creating a densely linked series of notes, often with the express goal of connecting different concepts together that may not be obviously connected. Super useful for academic research!
 
 Often, this means linking notes together that haven't been created yet, usually definitions or high level concepts. Obsidian does this quite elegantly--any bit of text can be turned into a link by enclosing it in double brackets (i.e., \[\[foo\]\]). This makes creating links on the fly easy and keeps me in the flow of things. I can always come back and create that note by clicking on it.
 
