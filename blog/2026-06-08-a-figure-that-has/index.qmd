@@ -2,11 +2,11 @@
 title: "A figure that has been stuck in my head"
 date: "2026-06-08"
 description: "The relative growth of the total local government sector relative to the total non-farm private sector is fascinating—once a laggard but no longer."
-image: "img/index-locgov-ces-private-local.png"
+image: "index-locgov-ces-private-local.png"
 twitter-card:
-    image: "img/index-locgov-ces-private-local.png"
+    image: "index-locgov-ces-private-local.png"
 open-graph:
-    image: "img/index-locgov-ces-private-local.png"
+    image: "index-locgov-ces-private-local.png"
 categories:
   - dataviz
   - local govt
