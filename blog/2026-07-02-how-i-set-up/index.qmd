@@ -48,7 +48,7 @@ In addition to the main software, Zotero is capable of using community plugins t
 
 Better BibTex is essential for generating BibTex-style citation keys that are used by myriad other programs to pull in citations (Quarto, Obsidian, etc). For our purposes, this is more or less auto-configured out of the box. I have never found a huge need to do much customization here. It just works.
 
-ZotMoov is essential for solving the impossible-to-decipher attachment naming scheme that default Zotero uses. The important configuration here is to make the move/copy directory the same as the attachments database location. You can select various other settings to streamline things. I have it configured to move new attachments automatically and to move them into subfolders based on the last name of the first author. PDFs are named "Author - Year - Title.pdf". This makes looking for a PDF outside of Zotero, a thing I do for class readings fairly often, much easier. 
+ZotMoov is essential for solving the impossible-to-decipher attachment naming scheme that Zotero uses by default. The important configuration here is to make the Move/Copy directory the same as the attachments database location. You can select various other settings to streamline things. I have it configured to move new attachments automatically when added and to move them into subfolders based on the last name of the first author. PDFs are named "Author - Year - Title.pdf". This makes looking for a PDF outside of Zotero, a thing I do for class readings fairly often, much easier. 
 
 ![](img/zotmoov.png)
 
@@ -58,7 +58,7 @@ An additional plugin that's useful to me with older or scanned PDFs is Zotero OC
 
 Briefly,
 
-- RStudio and Positron can use your local Zotero data directory to pull in citations to be used with Quarto. This works more or less automatically; however, you do need both programs (RStudio/Positron and Zotero) open and use the visual editor for this to work. More information [here](https://quarto.org/docs/tools/positron/visual-editor.html#zotero-citations).
+- RStudio and Positron can use your local Zotero data directory to pull in citations to be used with Quarto. This works automatically with zero configuration; however, you do need both programs (RStudio/Positron and Zotero) open and use the visual editor for this to work. More information [here](https://quarto.org/docs/tools/positron/visual-editor.html#zotero-citations).
 
 - There is an integration between Zotero and Obsidian. I use this to keep track of all my notes (which I take natively in Zotero and export to Obsidian). This requires Better BibTex to work. See the Obsidian Zotero Integration [documentation](https://github.com/obsidian-community/obsidian-zotero-integration) for more details.
 
