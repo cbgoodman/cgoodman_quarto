@@ -1,0 +1,17 @@
+---
+title: "Appearance: WAMU's 1A"
+date: "2026-05-06"
+description: "I was recently a guest on WAMU's 1A radio program to talk about preemption and local democracy."
+image: "../../files/img/transparent-placeholder.png"
+categories:
+  - preemption
+  - media
+format:
+  html: 
+    fig-cap-location: margin
+    code-copy: true
+---
+
+I was recently invited on [WAMU's](https://wamu.org/) [1A](https://the1a.org/), a nationally syndicated radio talk show about current issues, to discuss preemption and what it means for local democracy. The show begins with a talk with Calvin Duncan, recently elected Clerk of the Criminal Court in New Orleans. His position was eliminated via state preemption shortly after he won. I and Katie Belanger of [LSSC](https://www.supportdemocracy.org) come on to give some context to preemption and what it means for local democracy.
+
+[Give it a listen.](https://the1a.org/segments/what-the-practice-of-state-preemption-means-for-our-democracy/)
