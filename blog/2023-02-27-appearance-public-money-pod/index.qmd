@@ -1,0 +1,23 @@
+---
+title: "Appearance: Public Money Pod"
+date: "2023-02-27"
+description: "I was recently a guest of the Center for Municipal Finance's Public Money Pod to talk about special districts and Mickey Mouse."
+image: img/public-money-pod.png
+twitter-card:
+    image: img/public-money-pod.png
+open-graph:
+    image: img/public-money-pod.png
+categories:
+  - special districts
+  - media
+format:
+  html: 
+    fig-cap-location: margin
+    code-copy: true
+---
+
+I had a great time talking with [Justin Marlowe](https://sites.google.com/site/justinjmarlowe/) and [Liz Farmer](https://www.farmersfieldonline.com) about special districts, and how all that relates to Disney World.
+
+> We give special treatment to special district finances, motivated by Disney's special district kerfuffle in Florida. Professor Chris Goodman from Northern Illinois University walks us through the history and development of special districts, where their money comes from and where it goes, whether they're effective and accountable, and why Mickey and Donald might appear at a special district board meeting soon. In Ripped from the Headlines we discuss the indirect but powerful public finance connections between insurance premiums and gentrification.
+
+<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 6px; overflow:hidden;"><iframe style="width: 100%; height: 200px;" frameborder="no" scrolling="no" allow="clipboard-write" seamless src="https://player.captivate.fm/episode/4f238929-4492-41af-b9a6-7c22ea73a5f1"></iframe></div>
