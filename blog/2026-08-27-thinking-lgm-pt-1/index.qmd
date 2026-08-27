@@ -35,9 +35,8 @@ Just reading through these incredibly diverse audiences, it's clear that one, mo
 
 To understand why the MPA doesn't really work for all the potential audiences, it's helpful to understand how the MPA is designed. NASPAA, the MPA accrediting body, gives some flexibility in program design, but not much, so this largely applies to all MPA programs.
 
-- There is a core of classes, typically 4-6, that are required for all students. Using NASPAA's language, these classes are designed to deliver the "universal competencies" or learning outcomes that all MPA students should have. The important aspect is that [all]{.underline} students have to take these classes, so they are largely designed for students with the least prior knowledge (the definition of least prior knowledge varies by program).
-
-- Some number of specializations, collections of electives around a theme, that vary by the student's program of study. Some smaller programs have a single specialization, while others might have several. These allow for customization.
+1.  There is a core of classes, typically 4-6, that are required for all students. Using NASPAA's language, these classes are designed to deliver the *universal competencies* or learning outcomes that all MPA students should have. The important aspect is that [all]{.underline} students have to take these classes, so they are largely designed for students with the least prior knowledge (the definition of least prior knowledge varies by program).
+2.  Some number of specializations, collections of electives around a theme, that vary by the student's program of study. Some smaller programs have a single specialization, while others might have several. These allow for customization.
 
 The core classes are largely the problematic ones for those students other than pre-career or early mid-career. They're often pitched at too low of a level for senior managers, leading to a feeling that they're taking classes that aren't very relevant to them.
 
