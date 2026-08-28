@@ -5,7 +5,7 @@ image: totgovpc-cog-17-decile.png
 categories: 
     - dataviz
     - maps 
-    - local govt
+    - local-govt
 ---
 &nbsp;
 

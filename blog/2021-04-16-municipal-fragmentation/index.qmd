@@ -6,6 +6,7 @@ categories:
   - r
   - dataviz
   - maps
+  - fragmentation
 ---
 
 Over on Twitter, Dan Immergluck (GSU) asked about what municipal fragmentation in the U.S. at the metropolitan level looked like. I, an expert on local government fragmentation, saw it as my duty to get to the bottom of this. I have the data to do it. It only needs to be reworked slightly.

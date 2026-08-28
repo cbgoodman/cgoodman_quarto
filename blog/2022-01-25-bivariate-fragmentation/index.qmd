@@ -5,7 +5,7 @@ image: img/bivariate.png
 categories: 
   - dataviz
   - maps 
-  - local govt
+  - local-govt
 ---
 &nbsp;
 

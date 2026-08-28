@@ -8,8 +8,8 @@ image: slgb_58_1.largecover.png
 #open-graph:
 #    image: "img/BLAH.png"
 categories:
-  - local govt
-  - public finance
+  - local-govt
+  - public-finance
 format:
   html: 
     fig-cap-location: margin

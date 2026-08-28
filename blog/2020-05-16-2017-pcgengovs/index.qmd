@@ -5,7 +5,7 @@ image: totgenpurposepc-cog-17.png
 categories: 
     - dataviz
     - maps 
-    - local govt
+    - local-govt
 ---
 &nbsp;
 

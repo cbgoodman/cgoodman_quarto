@@ -4,7 +4,7 @@ date: "2026-08-27"
 description: "In part I of this series on local government management education, I outline some issues with how the MPA degree is designed relative to the audiences that are or could be served."
 image: "../../files/img/transparent-placeholder.png"
 categories:
-  - local govt
+  - local-govt
   - pedagogy
   - teaching
 format:

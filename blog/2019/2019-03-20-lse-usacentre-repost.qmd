@@ -3,8 +3,8 @@ title: "How a type of local government you may have never heard of may be costin
 date: "2019-03-20"
 image: https://blogsmedia.lse.ac.uk/blogs.dir/58/files/2019/03/New-blog-image-test-3.png
 categories: 
-    - local govt 
-    - special districts
+    - local-govt 
+    - special-districts
 ---
 
 I recently had the pleasure of writing a blog post for the [London School of Economic's US Centre Blog](https://blogs.lse.ac.uk/usappblog/). It covers a recent publication in [State and Local Government Review](http://slg.sagepub.com/) on the implications of overlapping local governments on local public employment in the US. You can find more information about this piece [here](/research/jurisdictional-overlap/). See below for the full text of the post as well as a link to the original.

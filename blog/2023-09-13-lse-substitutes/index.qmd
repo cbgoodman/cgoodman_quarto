@@ -11,7 +11,7 @@ author:
 description: "My coauthor, Deborah Carroll, and I recently had the pleasure of writing a blog post for the London School of Economic’s US Centre Blog. It covers a our recent publication in *Public Administration Review* on whether special districts are complements or substitutes for spcial districts. See below for the full text of the post as well as a link to the original."
 image: https://blogsmedia.lse.ac.uk/blogs.dir/58/files/2023/09/USAPP-blog-featured-image-with-text-3.png
 categories: 
-  - special districts
+  - special-districts
 format:
   html: 
     fig-cap-location: margin

@@ -9,6 +9,7 @@ listing:
     items: 20
     type: full
     language: en
+    categories: local-govt
   contents:
     - "blog/**/index.qmd"
     - "!blog/index.qmd"

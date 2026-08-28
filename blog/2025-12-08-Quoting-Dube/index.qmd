@@ -9,7 +9,7 @@ image: usja_63_5.largecover.png
 #open-graph:
 #    image: "img/BLAH.png"
 categories:
-  - local govt
+  - local-govt
 format:
   html: 
     fig-cap-location: margin

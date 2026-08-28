@@ -9,7 +9,7 @@ open-graph:
     image: "index-locgov-ces-private-local.png"
 categories:
   - dataviz
-  - local govt
+  - local-govt
 format:
   html: 
     fig-cap-location: margin

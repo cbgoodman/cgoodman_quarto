@@ -5,7 +5,7 @@ image: ../../files/img/spdist.png
 categories: 
     - r
     - dataviz
-    - special districts
+    - special-districts
 ---
 
 ::: {.column-page}

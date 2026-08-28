@@ -3,8 +3,8 @@ title: "Why your sprawling, low-density suburb may be costing your local governm
 date: "2019-10-21"
 image: https://blogsmedia.lse.ac.uk/blogs.dir/58/files/2019/10/New-blog-image-test-6.png
 categories:
-    - local govt
-    - public finance
+    - local-govt
+    - public-finance
 ---
 
 I recently had the pleasure of writing a blog post for the [London School of Economic's US Centre Blog](https://blogs.lse.ac.uk/usappblog/). It covers a recent publication in [*Public Budgeting and Finance*](https://onlinelibrary.wiley.com/journal/15405850) on the implications of dimensions of urban sprawl on per capita public spending by local governments in the US. You can find more information about this piece [here](/research/fiscal-impact/). See below for the full text of the post as well as a link to the original.

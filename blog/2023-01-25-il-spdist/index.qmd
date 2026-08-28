@@ -5,7 +5,8 @@ image: il-cog-17-pcspdist.png
 categories: 
   - dataviz
   - maps 
-  - local govt
+  - local-govt
+  - special-districts
 alias:
   - "/blog/archives/2023/01/25/illinois-special-districts-per-capita-2017/"
 ---

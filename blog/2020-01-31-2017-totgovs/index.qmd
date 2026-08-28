@@ -5,7 +5,7 @@ image: totgov-cog-17.png
 categories: 
     - dataviz 
     - maps 
-    - local govt
+    - local-govt
 ---
 
 ::: {.column-page}

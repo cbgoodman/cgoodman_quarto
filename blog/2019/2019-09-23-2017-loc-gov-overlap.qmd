@@ -5,7 +5,7 @@ image: ../../files/img/ca-cog-17.png
 categories: 
     - dataviz 
     - r 
-    - local govt 
+    - local-govt 
     - maps
 ---
 

@@ -8,7 +8,7 @@ twitter-card:
 open-graph:
     image: img/public-money-pod.png
 categories:
-  - special districts
+  - special-districts
   - media
 format:
   html: 

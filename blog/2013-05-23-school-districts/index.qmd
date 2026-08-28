@@ -2,8 +2,8 @@
 title: "Bill Fischel on School Districts"
 date: "2013-05-23"
 categories:
-    - local govt
-    - school districts
+    - local-govt
+    - school-districts
 format:
   html: 
     fig-cap-location: margin

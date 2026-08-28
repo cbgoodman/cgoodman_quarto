@@ -6,7 +6,7 @@ categories:
   - r
   - dataviz
   - cities
-  - local govt
+  - local-govt
 ---
 
 ::: {.column-page}

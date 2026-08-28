@@ -2,7 +2,7 @@
 title: "The structure of US local governments is often a poor predictor of local economic growth"
 date: "2021-11-17"
 categories: 
-    - local govt
+    - local-govt
     - urban
     - cities
 description: "I recently had the pleasure of writing a blog post for the London School of Economic’s US Centre Blog. It covers a recent publication in the *Journal of Urban Affairs* on the implications of local government structure on long-run economic growth in the US metropolitan areas. See below for the full text of the post as well as a link to the original."

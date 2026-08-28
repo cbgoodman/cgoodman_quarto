@@ -5,7 +5,7 @@ description: "Robert Manduca, Brian Highsmith, Jacob Waggoner, Tax base fragment
 image: soceco_24_1cover.jpeg
 categories:
     - fragmentation
-    - property tax
+    - property-tax
 format:
   html: 
     fig-cap-location: margin

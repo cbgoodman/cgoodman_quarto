@@ -5,7 +5,7 @@ description: "About a year ago, I wrote a small post about how I use <strong>Not
 image: notion-1.png
 categories: 
     - technology
-    - project management
+    - project-management
 ---
 
 First, if you're just here for the template, [here you go](https://www.notion.so/cbgoodman/Manuscript-Status-32416dd541ee4b549686bbe0a7646a61), click 'duplicate' in the top right corner, sign in to Notion, and add it to your workspace. Bing, bang, done.

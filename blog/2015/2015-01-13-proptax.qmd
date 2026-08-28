@@ -2,7 +2,7 @@
 title: "Property Tax Reliance in U.S. County Areas"
 date: "2015-01-13"
 categories:
-    - property tax 
+    - property-tax 
     - maps
 ---
 
