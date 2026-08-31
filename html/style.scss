@@ -988,6 +988,34 @@ pre.text, pre.sourceCode, .cell-output pre {
     }
 }
 
+// Subscribe form
+.bdownForm {
+
+
+    .label { 
+        display: -moz-inline-box; /* For Firefox 2.x */ 
+        display: inline-block; 
+        text-align: left;
+        padding-bottom: 10px;
+        padding-top: 12px;
+        vertical-align: top;
+        font-weight: 400;
+        font-style: normal;
+        color: $body-color;
+        font-size: 0.8em;
+    }
+
+    .input { 
+        display: -moz-inline-box; /* For Firefox 2.x */
+        box-sizing: border-box;
+        display: inline-block; 
+        vertical-align: top; 
+        position: relative; 
+        width: 200px;
+    }
+}
+
+
 // Blog Front Page
 .blog-fp {
     .blog-entry {

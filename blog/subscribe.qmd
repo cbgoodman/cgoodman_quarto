@@ -1,0 +1,43 @@
+---
+pagetitle: "Subscribe"
+author: ""
+sidebar: false
+toc: false
+page-layout: article
+code-tools: false
+comments: false
+---
+
+# Subscribe
+
+<div class="bdownForm">
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/cbgoodman"
+  method="post"
+  class="embeddable-buttondown-form"
+>
+<div class="bdownForm-label">
+  <label for="bd-email">Email address</label>
+  <div class="bdownForm-input">
+  <input type="email" name="email" id="bd-email" size="75" />
+  </div>
+</div>
+
+<div class="bdownForm-label">
+  <label for="first_name">First Name</label>
+  <div class="bdownForm-input">
+  <input type="text" name="metadata__first_name" id="first_name" size="75" />
+  </div>
+</div>
+
+<div class="bdownForm-label">
+  <div class="bdownForm-input">
+  <label for="last_name">Last Name</label>
+  </div>
+</div>
+  <input type="text" name="metadata__last_name" id="last_name" size="75" />
+  <p>
+  <input type="submit" class="btn btn-outline-dark" value="Subscribe" />
+  </p>
+</form>
+</div>

@@ -29,6 +29,13 @@ website:
   repo-url: https://github.com/cbgoodman/cgoodman_quarto
   page-navigation: true
 
+  announcement:
+    icon: envelope-open
+    dismissable: true
+    content: "Click [here](subscribe.html) to subscribe to these posts via email."
+    type: light
+    position: below-navbar
+
   twitter-card:
     creator: "@cbgoodman"
     site: "@cbgoodman"
@@ -75,10 +82,6 @@ website:
       - icon: rss
         href: https://www.cgoodman.com/feed.xml
         aria-label: RSS
-        rel: me
-      - icon: envelope-open
-        href: https://buttondown.com/cbgoodman
-        aria-label: Subscribe
         rel: me
     left:
       - href: cv.qmd
@@ -179,6 +182,13 @@ format:
     code-overflow: wrap
     code-block-bg: true
     toc: true
+    include-in-header:
+      - text: |
+          <style>
+          #quarto-announcement {
+            display: none !important;
+          }
+          </style>
 
 
 
