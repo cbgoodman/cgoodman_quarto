@@ -20,6 +20,10 @@ freeze: true
 pagetitle: "{{< meta title >}} | Christopher B. Goodman"
 author-meta: "Christopher B. Goodman"
 
+# Citations
+bibliography: files/bib/references.bib
+csl: files/bib/chicago-author-date.csl
+
 # Main website stuff
 website:
   title: "Christopher B. Goodman"

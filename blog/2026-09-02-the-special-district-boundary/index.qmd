@@ -1,0 +1,56 @@
+---
+title: "The Special District Boundary Problem"
+date: "2026-09-02"
+description: "A nationally representative dataset of special district shapes does not exist. But what if it did? And how can we get there?"
+image: "img/spdist.png"
+twitter-card:
+    image: "img/spdist.png"
+open-graph:
+    image: "img/spdist.png"
+categories:
+  - data
+  - local-govt
+  - maps
+format:
+  html: 
+    fig-cap-location: margin
+    code-copy: true
+---
+
+One of the biggest gripes about local government research, broadly, is that geography largely isn't considered. Local governments are public entities that exist in a particular place, and that place is incredibly important to understanding a whole host of things about that government. It's fairly easy to solve this when studying cities, counties, or school districts. The US Census Bureau maintains relatively up-to-date maps and shape files for these governments. It's a matter of using them. *However*, for the most numerous form of local government in the US, the independent special district, there is no single source of truth about their physical boundaries.
+
+::: callout-tip
+## Special districts, defined
+
+Special districts are typically single-function, autonomous local governments that provide services to a specific geographic area. The US Census Bureau defines them as having *fiscal* and *administrative* autonomy. Basically, they can determine their budget and the ability to do that without interference from other local governments. The two most common functions special districts provide are fire services and water supply.
+:::
+
+## The issue (that's really two issues)
+
+The first issue is that special districts can take on a nearly limitless number of border arrangements. There are few to no rules requiring that districts be coterminous with a city or a county. This offers the advantage of allowing special district boundaries to be exactly tailored to the problem they are trying to solve; however, it also leads to claims of special districts choosing their constituents (and perhaps intentionally excluding some residents). Regardless of the cause, this means that special districts often have eccentric borders that might fundamentally change who is included and who is not. And that changes demands for services, who pays, etc. that are quite a bit different from cities. You can imagine a situation where an underlying city is divided among several special districts (for the same service delivery area, say water supply) that receive vastly different levels of service provision, even though all the residents reside in the same city. We might want to explore this further; however, without shape files, there is no easy way to accomplish this.[^1]
+
+[^1]: I have been very imperfectly attempting to do this with the data we do have in [Overlapping Jurisdictions and Residential Segregation by Race](../../research/working-papers/sd-segregation.qmd).
+
+Another issues is related to another somewhat unique feature of special districts–they can overlap.[^2] Because special districts have eccentric borders and overlap, this creates the potential to have significant variation in the number of overlapping jurisdictions within an extremely compressed area.[^3] We might be interested in understanding the extent to which this is a generalizable phenomenon. Or what the impacts of this arrangement might be. I have written about the latter quite a bit (see [here](../../research/articles/jurisdictional-overlap.qmd), [here](../../research/articles/frag.qmd), and [here](../../research/articles/frag-grow.qmd)). We currently use imperfect proxies to measure this kind of overlap (special districts per municipality in a county); however, if we had the underlying geographic data at scale, we could measure this directly—something like the average (over some geography) number of special districts per parcel.
+
+[^2]: Technically, all local government types overlap; however, special districts are unique in that, as a type, they overlap each other. Only school districts do this in some states, while the general purpose governments (counties, cities, and towns/townships) do not.
+
+[^3]: See [Overlapping local governments in DuPage County, IL](../2023-05-26-tilted-sf/index.qmd) for an example.
+
+## One solution among many
+
+I have been searching for a solution to this problem for a long time. State-specific data exist (see California as an exemplar), but I'm often interested in making more national generalizations (often much to the annoyance of reviewers). As do some now-defunct private options that cost in the mid-5 figures to acquire.
+
+So, you can imagine my excitement when I ran across this post (and accompanying blog post) from Simon Willison.
+
+{{< bsky "https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3muiostsf622u" >}}
+
+Embedded within is a possible solution. Using AI to comb all the possible sources of geographic data on special districts, potentially combining them to make sensible boundaries, and outputting a geo-referenced file. There are obvious limitations to this approach. The data must be available somewhere (and scrapped). It must be accurate and not hallucinated. And it must be vetted. However, this is the first real possibility to collect these kinds of data at scale. Previous attempts were incredibly laborious (hence, their massive cost). This isn't cost-free, but it is significantly less active working hours.
+
+One solution that does not rely on AI is to require special districts to report their boundaries to the Census Bureau as other local governments do. This is largely done through the [Boundary and Annexation Survey (BAS)](https://www.census.gov/programs-surveys/bas.html), which is a source of data for creating and updating Census boundaries. And that belies the problem. Special district boundaries are not census boundaries. Allowing for the collection of these kinds of data would likely require changing federal law—no small feat. States could also step in and require this level of transparency; however, one of the main benefits of having nationwide collection is that the Census Bureau imposes a uniform definition of special district. Many states have their own definitions that vary across states, making cross-state comparisons nearly impossible.
+
+## Concluding thoughts
+
+Not having a national dataset of special district boundaries presents significant (research) problems.[^4] Special districts are the most numerous form of local government in the United States, so being able to say some very basic and generalizable things about their shape or boundaries is incredibly useful. AI presents one possible solution—one that isn't without problems.
+
+[^4]: I haven't even mentioned the transparency and electoral issues.
