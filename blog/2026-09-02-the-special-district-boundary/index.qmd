@@ -17,7 +17,7 @@ format:
     code-copy: true
 ---
 
-One of the biggest gripes about local government research, broadly, is that geography largely isn't considered. Local governments are public entities that exist in a particular place, and that place is incredibly important to understanding a whole host of things about that government. It's fairly easy to solve this when studying cities, counties, or school districts. The US Census Bureau maintains relatively up-to-date maps and shape files for these governments. It's a matter of using them. *However*, for the most numerous form of local government in the US, the independent special district, there is no single source of truth about their physical boundaries.
+One of the biggest gripes about local government research, broadly, is that geography is largely not considered. Local governments are public entities that exist in a particular place, and that place is incredibly important to understanding a whole host of things about that government. It's fairly easy to solve this when studying cities, counties, or school districts. The US Census Bureau maintains relatively up-to-date maps and shape files for these governments. It's a matter of using them. *However*, for the most numerous form of local government in the US, the independent special district, there is no single source of truth about their physical boundaries.
 
 ::: callout-tip
 ## Special districts, defined
